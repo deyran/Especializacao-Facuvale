@@ -1,4 +1,4 @@
-# ÉTICA GERAL E PROFISSIONAL - AULA 01
+# [ÉTICA GERAL E PROFISSIONAL - AULA 01](https://youtu.be/ovwoSU1T-Mc?si=vK9thRHySRjQve-d)
 
 ## Objetivo
 
