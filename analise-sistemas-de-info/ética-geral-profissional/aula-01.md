@@ -19,3 +19,13 @@ Nem tudo que eu quero eu posso; Nem tudo que eu posso eu devo; e nem tudo que eu
 Você tem paz de espírito quando aquilo que você quer é ao mesmo tempo o que você pode e o que você deve"
 
 Mario Sergion Cortela
+
+## Ética e Moral
+
+### Ética
+
+É o estudo do sistemas morais, sobre a moral vigente da época, culminando no entendimento dos costumes (moral) de determinado(s) grupo(s) social(ais)
+
+### Moral
+
+Moral está relacionado aos costumes, à manutenção dos valores e o conhecimento do bem e do mal no contexto em que se vive.
