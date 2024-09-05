@@ -24,7 +24,7 @@
    - Conjunto de valores morais e princípios que norteiam a conduta humana.
    - Parte da filosofia que lida com a moralidade social e individual.
   
-## Para Srour a ética é:
+*Para Srour a ética é:*
 
 1. **Definição de Ética**:
    
