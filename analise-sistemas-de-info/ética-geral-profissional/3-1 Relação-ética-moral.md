@@ -26,8 +26,8 @@ Sim, os grupos sociais, como a família, a escola e instituições religiosas, d
 
 #### 1. O que é "'Lócus' privilegiado dos valores"?
 
-**Lócus** é uma palavra de origem latina que significa "lugar" ou "local". Quando se diz que algo é o "lócus privilegiado dos valores", está-se referindo ao lugar ou contexto principal onde os valores são formados, cultivados e expressos. No contexto do texto, isso sugere que a moralidade é o principal ambiente onde os valores são desenvolvidos e mantidos¹.
+**Lócus** é uma palavra de origem latina que significa "lugar" ou "local". Quando se diz que algo é o "lócus privilegiado dos valores", está-se referindo ao lugar ou contexto principal onde os valores são formados, cultivados e expressos. No contexto do texto, isso sugere que a moralidade é o principal ambiente onde os valores são desenvolvidos e mantidos.
 
 #### 2. "Ética é a exteriorização da conduta humana em sociedade", explique melhor esta sentença
 
-Essa frase significa que a ética é a manifestação visível dos princípios e valores que guiam o comportamento das pessoas em suas interações sociais. Em outras palavras, a ética é como os valores internos de uma pessoa se traduzem em ações e comportamentos observáveis na sociedade². Por exemplo, se uma pessoa valoriza a honestidade, a ética dela será refletida em comportamentos honestos em suas relações com os outros. 
+Essa frase significa que a ética é a manifestação visível dos princípios e valores que guiam o comportamento das pessoas em suas interações sociais. Em outras palavras, a ética é como os valores internos de uma pessoa se traduzem em ações e comportamentos observáveis na sociedade. Por exemplo, se uma pessoa valoriza a honestidade, a ética dela será refletida em comportamentos honestos em suas relações com os outros. 
