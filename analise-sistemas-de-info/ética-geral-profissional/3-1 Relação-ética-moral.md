@@ -8,7 +8,7 @@
 
 #### 1. O que são "crenças estruturadas"?
 
-**Crenças estruturadas** são convicções firmemente estabelecidas que moldam a forma como uma pessoa percebe e interage com o mundo. Elas são formadas a partir de experiências pessoais, influências culturais e sociais, e são reforçadas ao longo do tempo¹. Essas crenças podem ser positivas ou negativas e influenciam profundamente o comportamento e as decisões de um indivíduo.
+**Crenças estruturadas** são convicções firmemente estabelecidas que moldam a forma como uma pessoa percebe e interage com o mundo. Elas são formadas a partir de experiências pessoais, influências culturais e sociais, e são reforçadas ao longo do tempo. Essas crenças podem ser positivas ou negativas e influenciam profundamente o comportamento e as decisões de um indivíduo.
 
 **Convicção** é uma crença ou opinião firme e inabalável que uma pessoa possui sobre algo. Quando alguém tem uma convicção, significa que está profundamente convencido da veracidade ou importância de uma ideia, princípio ou fato, e essa certeza influencia suas ações e decisões. Convicções são geralmente formadas através de experiências pessoais, educação, e influências culturais e sociais.
 
