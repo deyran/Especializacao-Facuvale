@@ -6,11 +6,6 @@
 
 > "A Moral está mais relacionada às crenças estruturadas em valores acumulados desde a mais tenra infância e transmitidos pelos grupos sociais de interação afetiva, tais como a família e a Igreja. "
 
-
-1. O que são "crenças estruturadas"?
-2. O que são "valores acumulados"?
-3. São os grupos sociais responsáveis por transmitir o que é moral para pessoas desde a infancia?
-
 #### 1. O que são "crenças estruturadas"?
 
 **Crenças estruturadas** são convicções firmemente estabelecidas que moldam a forma como uma pessoa percebe e interage com o mundo. Elas são formadas a partir de experiências pessoais, influências culturais e sociais, e são reforçadas ao longo do tempo¹. Essas crenças podem ser positivas ou negativas e influenciam profundamente o comportamento e as decisões de um indivíduo.
@@ -29,9 +24,7 @@ Sim, os grupos sociais, como a família, a escola e instituições religiosas, d
 
 > "Está diretamente relacionada à consciência de que é o “lócus” privilegiado dos valores, enquanto a Ética é a exteriorização da conduta humana em sociedade"
 
-Vamos analisar essas frases:
-
-#### 1. O que é 'Lócus' privilegiado dos valores?
+#### 1. O que é "'Lócus' privilegiado dos valores"?
 
 **Lócus** é uma palavra de origem latina que significa "lugar" ou "local". Quando se diz que algo é o "lócus privilegiado dos valores", está-se referindo ao lugar ou contexto principal onde os valores são formados, cultivados e expressos. No contexto do texto, isso sugere que a moralidade é o principal ambiente onde os valores são desenvolvidos e mantidos¹.
 
