@@ -65,6 +65,9 @@ Todo ser humano é considerado moral ao cumprir as normas de conduta baseadas em
 A moral é considerada cultural porque é formada e consolidada através das práticas e costumes de um grupo específico. Essas regras de conduta são determinadas pelo contexto cultural em que as pessoas estão inseridas.
 
 2. Sendo cultural porquê é imposta as pessoas pelo grupo ao qual pertencem?
+
+É imposto porque é uma ação coletiva. Ou seguem as regras, ou sofrem reprovação social do grupo. Resumidamente, as ações coletivas são criadas, impostas e reforçadas pelos grupos sociais. Por isso, a moral é imposta.
+
 3. Quais são as implicações de ser imposta por grupos?
 4. Destro do contexto, qual a diferença entre prática e costumes?
 
