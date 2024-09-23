@@ -36,23 +36,23 @@ Essa frase significa que a ética é a manifestação visível dos princípios e
 
 > Sendo cultural, a Moral é o conjunto de regras que são impostas às pessoas pelo grupo que pertencem, numa ação coletiva, que tendem a agir de determinada maneira, que são consolidadas através de práticas e costumes observadas no geral, muitas vezes devido ao receio de uma reprovação social (a pressão é externa). Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
 
-1. Definição de moral
+#### Definição de moral
 
 A moral é cultural e consiste em conjunto de regras impostas às pessoas pelo grupo ao qual pertencem
 
-2. Ação coletiva
+#### Ação coletiva
 
 Essas regras são parte de uma ação coletiva que orienta as pessoas a agirem de determinada maneira
 
-3. Práticas e costumes
+#### Práticas e costumes
 
 As regras morais são consolidadas através de práticas e costumes observados no geral
 
-4. Pressão social
+#### Pressão social
 
 Muitas vezes, as pessoas seguem essas regras devido ao receio de reprovação social, ou seja, a pressão é externa.
 
-5. Cumprimento das normas
+#### Cumprimento das normas
 
 Todo ser humano é considerado moral ao cumprir as normas de conduta baseadas em crenças inquestionáveis dentro de uma cultura
 
