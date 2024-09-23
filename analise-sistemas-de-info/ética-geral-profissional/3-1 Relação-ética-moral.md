@@ -69,6 +69,9 @@ A moral é considerada cultural porque é formada e consolidada através das pr�
 É imposto porque é uma ação coletiva. Ou seguem as regras, ou sofrem reprovação social do grupo. Resumidamente, as ações coletivas são criadas, impostas e reforçadas pelos grupos sociais. Por isso, a moral é imposta.
 
 #### Quais são as implicações de ser imposta por grupos?
+
+As pessoas têm a necessidade de agir de acordo com essas regras impostas pelo grupo social para serem aceitas e evitar críticas ou punições (conformidade social). As ações do indivíduo são influenciadas pelas expectativas coletivas
+
 #### Destro do contexto, qual a diferença entre prática e costumes?
 
 ### P2
