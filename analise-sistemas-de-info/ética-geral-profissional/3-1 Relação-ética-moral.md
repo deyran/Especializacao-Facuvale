@@ -84,3 +84,35 @@ As pessoas têm a necessidade de agir de acordo com essas regras impostas pelo g
 #### Quando se diz crenças inquestionáveis, são inquestionáveis somente dentro do grupo ao qual o indivíduo pertence, correto?
 
 Sim, refere-se às crenças que são aceitas sem questionamento dentro do grupo cultural específico ao qual o indivíduo pertence.
+
+## Paragráfo 4
+
+> A Ética é perene, porque suas reflexões são num curso contínuo e eterno, o que reafirma que sempre haverá reflexões sobre esse tema. Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época. A Ética é universal, porque suas reflexões independem da cultura, da sociedade ou mesmo do tempo histórico; cabe em qualquer lugar e em qualquer tempo, mas sempre refere-se ao comportamento humano. A Moral é cultural, porque em cada sociedade e em cada lugar, os costumes e valores são diferentes. A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. A Ética é teoria, porque está situada no campo das reflexões, enquanto a Moral se refere às práticas do comportamentohumano, dos costumes, dos hábitos e dos valores.
+
+### P1
+
+> A Ética é perene, porque suas reflexões são num curso contínuo e eterno, o que reafirma que sempre haverá reflexões sobre esse tema. 
+
+### P2 
+
+> Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época. 
+
+### P3
+
+> A Ética é universal, porque suas reflexões independem da cultura, da sociedade ou mesmo do tempo histórico; cabe em qualquer lugar e em qualquer tempo, mas sempre refere-se ao comportamento humano. 
+
+### P4
+
+> A Moral é cultural, porque em cada sociedade e em cada lugar, os costumes e valores são diferentes. 
+
+### P5
+
+> A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. 
+
+### P7
+
+> A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. 
+
+### P8
+
+> A Ética é teoria, porque está situada no campo das reflexões, enquanto a Moral se refere às práticas do comportamentohumano, dos costumes, dos hábitos e dos valores.
