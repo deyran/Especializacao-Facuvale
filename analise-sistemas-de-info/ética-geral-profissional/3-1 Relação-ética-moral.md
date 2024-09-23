@@ -14,15 +14,15 @@
 
 #### 2. O que são "valores acumulados"?
 
-**Valores acumulados** referem-se aos princípios e normas que uma pessoa adquire ao longo da vida, começando na infância e continuando através de interações sociais e experiências pessoais². Esses valores são transmitidos por meio de instituições como a família, a escola e a religião, e formam a base da moralidade de um indivíduo.
+**Valores acumulados** referem-se aos princípios e normas que uma pessoa adquire ao longo da vida, começando na infância e continuando através de interações sociais e experiências pessoais. Esses valores são transmitidos por meio de instituições como a família, a escola e a religião, e formam a base da moralidade de um indivíduo.
 
 #### 3. São os grupos sociais responsáveis por transmitir o que é moral para pessoas desde a infância?
 
-Sim, os grupos sociais, como a família, a escola e instituições religiosas, desempenham um papel crucial na transmissão de valores morais para as pessoas desde a infância³. Esses grupos influenciam a formação das crenças e valores que guiam o comportamento moral dos indivíduos ao longo de suas vidas.
+Sim, os grupos sociais, como a família, a escola e instituições religiosas, desempenham um papel crucial na transmissão de valores morais para as pessoas desde a infância. Esses grupos influenciam a formação das crenças e valores que guiam o comportamento moral dos indivíduos ao longo de suas vidas.
 
 ### P2
 
-> "Está diretamente relacionada à consciência de que é o “lócus” privilegiado dos valores, enquanto a Ética é a exteriorização da conduta humana em sociedade"
+> "[A moral] Está diretamente relacionada à consciência de que é o “lócus” privilegiado dos valores, enquanto a Ética é a exteriorização da conduta humana em sociedade"
 
 #### 1. O que é "'Lócus' privilegiado dos valores"?
 
