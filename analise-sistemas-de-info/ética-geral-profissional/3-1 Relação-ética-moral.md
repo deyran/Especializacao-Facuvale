@@ -30,4 +30,43 @@ Sim, os grupos sociais, como a família, a escola e instituições religiosas, d
 
 #### 2. "Ética é a exteriorização da conduta humana em sociedade", explique melhor esta sentença
 
-Essa frase significa que a ética é a manifestação visível dos princípios e valores que guiam o comportamento das pessoas em suas interações sociais. Em outras palavras, a ética é como os valores internos de uma pessoa se traduzem em ações e comportamentos observáveis na sociedade. Por exemplo, *se uma pessoa valoriza a honestidade, a ética dela será refletida em comportamentos honestos em suas relações com os outros*. 
+Essa frase significa que a ética é a manifestação visível dos princípios e valores que guiam o comportamento das pessoas em suas interações sociais. Em outras palavras, a ética é como os valores internos de uma pessoa se traduzem em ações e comportamentos observáveis na sociedade. Por exemplo, *se uma pessoa valoriza a honestidade, a ética dela será refletida em comportamentos honestos em suas relações com os outros*.
+
+## Paragráfo 3
+
+> Sendo cultural, a Moral é o conjunto de regras que são impostas às pessoas pelo grupo que pertencem, numa ação coletiva, que tendem a agir de determinada maneira, que são consolidadas através de práticas e costumes observadas no geral, muitas vezes devido ao receio de uma reprovação social (a pressão é externa). Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
+
+1. Definição de moral
+
+A moral é cultural e consiste em conjunto de regras impostas às pessoas pelo grupo ao qual pertencem
+
+2. Ação coletiva
+
+Essas regras são parte de uma ação coletiva que orienta as pessoas a agirem de determinada maneira
+
+3. Práticas e costumes
+
+As regras morais são consolidadas através de práticas e costumes observados no geral
+
+4. Pressão social
+
+Muitas vezes, as pessoas seguem essas regras devido ao receio de reprovação social, ou seja, a pressão é externa.
+
+5. Cumprimento das normas
+
+Todo ser humano é considerado moral ao cumprir as normas de conduta baseadas em crenças inquestionáveis dentro de uma cultura
+
+### P1
+
+> Sendo cultural, a Moral é o conjunto de regras que são impostas às pessoas pelo grupo que pertencem, numa ação coletiva, que tendem a agir de determinada maneira, que são consolidadas através de práticas e costumes observadas no geral, muitas vezes devido ao receio de uma reprovação social (a pressão é externa)
+
+1. Porquê sedundo o texto acima a moral é cultural?
+2. Sendo cultural porquê é imposta as pessoas pelo grupo ao qual pertencem?
+3. Quais são as implicações de ser imposta por grupos?
+4. Destro do contexto, qual a diferença entre prática e costumes?
+
+### P2
+
+> Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
+
+1. Quando se diz crenças inquestionáveis, são inquestionáveis somente dentro do grupo ao qual o indivíduo pertence, correto?
