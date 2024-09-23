@@ -74,6 +74,9 @@ As pessoas têm a necessidade de agir de acordo com essas regras impostas pelo g
 
 #### Destro do contexto, qual a diferença entre prática e costumes?
 
+1. **Práticas**: Ações repetidas e observáveis que as pessoas realizam no dia a dia.
+2. **Costumes**: Hábitos e tradições desenvolvidos ao longo do tempo e amplamente aceitos dentro de uma cultura.
+
 ### P2
 
 > Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
