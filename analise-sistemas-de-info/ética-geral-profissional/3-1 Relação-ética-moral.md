@@ -30,4 +30,4 @@ Sim, os grupos sociais, como a família, a escola e instituições religiosas, d
 
 #### 2. "Ética é a exteriorização da conduta humana em sociedade", explique melhor esta sentença
 
-Essa frase significa que a ética é a manifestação visível dos princípios e valores que guiam o comportamento das pessoas em suas interações sociais. Em outras palavras, a ética é como os valores internos de uma pessoa se traduzem em ações e comportamentos observáveis na sociedade. Por exemplo, se uma pessoa valoriza a honestidade, a ética dela será refletida em comportamentos honestos em suas relações com os outros. 
+Essa frase significa que a ética é a manifestação visível dos princípios e valores que guiam o comportamento das pessoas em suas interações sociais. Em outras palavras, a ética é como os valores internos de uma pessoa se traduzem em ações e comportamentos observáveis na sociedade. Por exemplo, *se uma pessoa valoriza a honestidade, a ética dela será refletida em comportamentos honestos em suas relações com os outros*. 
