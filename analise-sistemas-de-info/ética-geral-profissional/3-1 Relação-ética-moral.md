@@ -82,3 +82,5 @@ As pessoas têm a necessidade de agir de acordo com essas regras impostas pelo g
 > Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
 
 #### Quando se diz crenças inquestionáveis, são inquestionáveis somente dentro do grupo ao qual o indivíduo pertence, correto?
+
+Sim, refere-se às crenças que são aceitas sem questionamento dentro do grupo cultural específico ao qual o indivíduo pertence.
