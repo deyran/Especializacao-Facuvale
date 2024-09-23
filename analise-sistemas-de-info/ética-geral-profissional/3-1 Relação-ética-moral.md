@@ -60,19 +60,19 @@ Todo ser humano é considerado moral ao cumprir as normas de conduta baseadas em
 
 > Sendo cultural, a Moral é o conjunto de regras que são impostas às pessoas pelo grupo que pertencem, numa ação coletiva, que tendem a agir de determinada maneira, que são consolidadas através de práticas e costumes observadas no geral, muitas vezes devido ao receio de uma reprovação social (a pressão é externa)
 
-1. Porquê sedundo o texto acima a moral é cultural?
+#### Porquê sedundo o texto acima a moral é cultural?
 
 A moral é considerada cultural porque é formada e consolidada através das práticas e costumes de um grupo específico. Essas regras de conduta são determinadas pelo contexto cultural em que as pessoas estão inseridas.
 
-2. Sendo cultural porquê é imposta as pessoas pelo grupo ao qual pertencem?
+#### Sendo cultural porquê é imposta as pessoas pelo grupo ao qual pertencem?
 
 É imposto porque é uma ação coletiva. Ou seguem as regras, ou sofrem reprovação social do grupo. Resumidamente, as ações coletivas são criadas, impostas e reforçadas pelos grupos sociais. Por isso, a moral é imposta.
 
-3. Quais são as implicações de ser imposta por grupos?
-4. Destro do contexto, qual a diferença entre prática e costumes?
+#### Quais são as implicações de ser imposta por grupos?
+#### Destro do contexto, qual a diferença entre prática e costumes?
 
 ### P2
 
 > Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
 
-1. Quando se diz crenças inquestionáveis, são inquestionáveis somente dentro do grupo ao qual o indivíduo pertence, correto?
+#### Quando se diz crenças inquestionáveis, são inquestionáveis somente dentro do grupo ao qual o indivíduo pertence, correto?
