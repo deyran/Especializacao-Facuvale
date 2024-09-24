@@ -2,6 +2,23 @@
 
 ## Paragráfo 2
 
+> A Moral está mais relacionada às crenças estruturadas em valores acumulados desde a mais tenra infância e transmitidos pelos grupos sociais de interação afetiva, tais como a família e a Igreja. Está diretamente relacionada à consciência de que é o “lócus” privilegiado dos valores, enquanto a Ética é a exteriorização da conduta humana em sociedade.
+
+### Resumo
+
+A moral está ligado às crenças e valores adquiridos desde a infância e transmitidos por grupos sociais como a família e a igreja. Ela representa a consciência dos valores. Já a ética é a manifestação da conduta humana na sociedade.
+
+### Pontos importantes
+
+1. Origem da Moral
+
+- Relacionado a crenças e valores acumulados desde a infância
+- Transmitida por grupos sociais de interação afetiva (família, igreja)
+
+
+2. AAAA
+
+
 ### P1
 
 > "A Moral está mais relacionada às crenças estruturadas em valores acumulados desde a mais tenra infância e transmitidos pelos grupos sociais de interação afetiva, tais como a família e a Igreja. "
