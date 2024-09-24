@@ -83,7 +83,7 @@ A moral é um conjunto de regras culturais impostas às pessoas pelo grupo socia
 
 > Sendo cultural, a Moral é o conjunto de regras que são impostas às pessoas pelo grupo que pertencem, numa ação coletiva, que tendem a agir de determinada maneira, que são consolidadas através de práticas e costumes observadas no geral, muitas vezes devido ao receio de uma reprovação social (a pressão é externa)
 
-1. Porquê sedundo o texto acima a moral é cultural?
+1. Porquê segundo o texto acima a moral é cultural?
 
 A moral é considerada cultural porque é formada e consolidada através das práticas e costumes de um grupo específico. Essas regras de conduta são determinadas pelo contexto cultural em que as pessoas estão inseridas.
 
@@ -151,7 +151,15 @@ A ética é contínua e universal, refletindo sobre o comportamento humano indep
 
 ## P2 
 
-> Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época. 
+> Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época.
+
+1. Seriam as reflexões sobre ética que faz com que a moral seja temporal e tenha a necessidade de mudanças de tempos e tempos num determinado grupo social ou em sociedades como um todo?
+   
+Além das reflexões sobre ética, existem fatores culturais (tradições e costumes), sociais (movimentos sociais) e históricos (guerras, desastres, líderes) que influenciam mudanças na moral
+
+2. Poderia dar um exemplo prático na história recente sobre essa mudança?
+
+Direitos LGBTQ+
 
 ## P3
 
