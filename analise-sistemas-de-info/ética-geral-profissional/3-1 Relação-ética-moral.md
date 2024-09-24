@@ -104,7 +104,7 @@ As pessoas têm a necessidade de agir de acordo com essas regras impostas pelo g
 
 > Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
 
-#### Quando se diz crenças inquestionáveis, são inquestionáveis somente dentro do grupo ao qual o indivíduo pertence, correto?
+- Quando se diz crenças inquestionáveis, são inquestionáveis somente dentro do grupo ao qual o indivíduo pertence, correto?
 
 Sim, refere-se às crenças que são aceitas sem questionamento dentro do grupo cultural específico ao qual o indivíduo pertence.
 
@@ -112,30 +112,63 @@ Sim, refere-se às crenças que são aceitas sem questionamento dentro do grupo 
 
 > A Ética é perene, porque suas reflexões são num curso contínuo e eterno, o que reafirma que sempre haverá reflexões sobre esse tema. Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época. A Ética é universal, porque suas reflexões independem da cultura, da sociedade ou mesmo do tempo histórico; cabe em qualquer lugar e em qualquer tempo, mas sempre refere-se ao comportamento humano. A Moral é cultural, porque em cada sociedade e em cada lugar, os costumes e valores são diferentes. A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. A Ética é teoria, porque está situada no campo das reflexões, enquanto a Moral se refere às práticas do comportamentohumano, dos costumes, dos hábitos e dos valores.
 
-### P1
+## Resumo
+
+A ética é contínua e universal, refletindo sobre o comportamento humano independentemente do tempo ou da cultuda. A moral é temporal e cultural, variando conforme os costumes e valores de cada sociedade. A ética é teórica e imutável, enquanto a moral é prática e adapitável às normas de conduta.
+
+## Pontos importantes
+
+1. *Natureza da ética*
+   
+- Perene e contínua.
+- Reflexões eternas sobre o comportamento humano.
+- Universal, aplicável em qualquer tempo e lugar.
+
+2. *Natureza da moral*
+   
+- Temporal, mudando com o tempo e os costumes.
+- Cultural, variando entre diferentes sociedades e lugares.
+     
+3. *Características da ética*
+   
+- Imutável nas suas reflexões.
+- Teórica, situada no campo das reflexões.
+  
+4. *Características da moral*
+
+- Conduta de regras baseadas em valores
+- Prática, relacionada aos costumes, hábitos e valores humanos
+
+## P1
 
 > A Ética é perene, porque suas reflexões são num curso contínuo e eterno, o que reafirma que sempre haverá reflexões sobre esse tema. 
 
-### P2 
+* Dentro desse contexto, o que são reflexões e quem as faz?
+
+- *Reflexões*: São análises e questionamentos profundos sobre o comportamento humano, os valores e os princípios que orientam nossas ações.
+  
+- *Quem as faz*: Filósofos, acadêmicos, teólogos, e pensadores em geral que se dedicam ao estudo da ética e da moral. Além disso, qualquer um pode refletir sobre questões éticas em seu cotidiano.
+
+## P2 
 
 > Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época. 
 
-### P3
+## P3
 
 > A Ética é universal, porque suas reflexões independem da cultura, da sociedade ou mesmo do tempo histórico; cabe em qualquer lugar e em qualquer tempo, mas sempre refere-se ao comportamento humano. 
 
-### P4
+## P4
 
 > A Moral é cultural, porque em cada sociedade e em cada lugar, os costumes e valores são diferentes. 
 
-### P5
+## P5
 
 > A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. 
 
-### P7
+## P7
 
 > A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. 
 
-### P8
+## P8
 
 > A Ética é teoria, porque está situada no campo das reflexões, enquanto a Moral se refere às práticas do comportamentohumano, dos costumes, dos hábitos e dos valores.
