@@ -10,14 +10,19 @@ A moral está ligado às crenças e valores adquiridos desde a infância e trans
 
 ### Pontos importantes
 
-1. Origem da Moral
+1. *Origem da Moral*
 
 - Relacionado a crenças e valores acumulados desde a infância
 - Transmitida por grupos sociais de interação afetiva (família, igreja)
 
+2. *Natureza da moral*
+   
+- Conectada à consciência dos valores
+- Considerada o "lócus" privilegiado dos valores
 
-2. AAAA
+3. Definição da ética
 
+- Exteriorização da conduta humana em sociedade   
 
 ### P1
 
