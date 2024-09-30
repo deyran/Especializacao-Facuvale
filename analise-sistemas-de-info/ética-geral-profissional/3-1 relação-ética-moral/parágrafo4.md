@@ -51,9 +51,13 @@ Além das reflexões sobre ética, existem fatores culturais (tradições e cost
 
 Direitos LGBTQ+
 
-# P3
+# Período 3
 
 > A Ética é universal, porque suas reflexões independem da cultura, da sociedade ou mesmo do tempo histórico; cabe em qualquer lugar e em qualquer tempo, mas sempre refere-se ao comportamento humano. 
+
+*Se os paradigmas de uma pessoa estão vinculados à cultura, sociedade, tempo histórico ou ao lugar, como as reflexões sobre ética podem ser universais?*
+
+A ética é universal, pois seus princípios morais são válidos em qualquer contexto, independentemente da cultura, sociedade ou mesmo do tempo. O que varia são as aplicações desses princípios, que de fato dependem da cultura, sociedade e do tempo.
 
 # P4
 
