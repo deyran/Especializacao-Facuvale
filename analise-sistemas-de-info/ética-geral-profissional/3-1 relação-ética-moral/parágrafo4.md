@@ -29,7 +29,7 @@ A ética é contínua e universal, refletindo sobre o comportamento humano indep
 - Conduta de regras baseadas em valores
 - Prática, relacionada aos costumes, hábitos e valores humanos
 
-# P1
+# Período 1
 
 > A Ética é perene, porque suas reflexões são num curso contínuo e eterno, o que reafirma que sempre haverá reflexões sobre esse tema. 
 
@@ -39,7 +39,7 @@ A ética é contínua e universal, refletindo sobre o comportamento humano indep
   
 - *Quem as faz*: Filósofos, acadêmicos, teólogos, e pensadores em geral que se dedicam ao estudo da ética e da moral. Além disso, qualquer um pode refletir sobre questões éticas em seu cotidiano.
 
-# P2 
+# Período 2 
 
 > Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época.
 
@@ -59,18 +59,22 @@ Direitos LGBTQ+
 
 A ética é universal, pois seus princípios morais são válidos em qualquer contexto, independentemente da cultura, sociedade ou mesmo do tempo. O que varia são as aplicações desses princípios, que de fato dependem da cultura, sociedade e do tempo.
 
-# P4
+# Período 4
 
 > A Moral é cultural, porque em cada sociedade e em cada lugar, os costumes e valores são diferentes. 
 
-# P5
+*Quando se diz "a moral é cultural", o que isso significa?*
+
+Isso significa que os valores, normas e costumes que determinam o que é certo ou errado, bom ou mal, são influenciado pela cultura de uma sociedade específica.
+
+# Período 5
 
 > A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. 
 
-# P7
+# Período 6 
 
 > A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. 
 
-# P8
+# Período 7
 
 > A Ética é teoria, porque está situada no campo das reflexões, enquanto a Moral se refere às práticas do comportamentohumano, dos costumes, dos hábitos e dos valores.
