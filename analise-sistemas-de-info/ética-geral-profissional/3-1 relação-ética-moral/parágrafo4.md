@@ -1,6 +1,6 @@
 **3.1 Relação ética e moral - Parágrafo 4**
 
-> A Ética é perene, porque suas reflexões são num curso contínuo e eterno, o que reafirma que sempre haverá reflexões sobre esse tema. Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época. A Ética é universal, porque suas reflexões independem da cultura, da sociedade ou mesmo do tempo histórico; cabe em qualquer lugar e em qualquer tempo, mas sempre refere-se ao comportamento humano. A Moral é cultural, porque em cada sociedade e em cada lugar, os costumes e valores são diferentes. A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. A Ética é teoria, porque está situada no campo das reflexões, enquanto a Moral se refere às práticas do comportamentohumano, dos costumes, dos hábitos e dos valores.
+> A Ética é perene, porque suas reflexões são num curso contínuo e eterno, o que reafirma que sempre haverá reflexões sobre esse tema. Já a Moral é temporal, porque o tempo, os costumes e valores de uma sociedade se modificam para atender e se adequar a uma época. A Ética é universal, porque suas reflexões independem da cultura, da sociedade ou mesmo do tempo histórico; cabe em qualquer lugar e em qualquer tempo, mas sempre refere-se ao comportamento humano. A Moral é cultural, porque em cada sociedade e em cada lugar, os costumes e valores são diferentes. A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. A Ética é teoria, porque está situada no campo das reflexões, enquanto a Moral se refere às práticas do comportamento humano, dos costumes, dos hábitos e dos valores.
 
 # Resumo
 
@@ -71,9 +71,24 @@ Isso significa que os valores, normas e costumes que determinam o que é certo o
 
 > A Ética é regra, pois não existe mutabilidade nas suas reflexões, mas suas reflexões podem ser realizadas perante as mudanças. 
 
+*Como assim "suas reflexões podem ser realizadas perante as mudanças"?*
+
+1. *Princípios constantes*: A ética pode ser vista como um conjunto de princípios ou regras que não mudam. Esses princípios fornecem uma base estável para julgar ações e comportamentos.
+   
+2. *Reflexão adaptativas*: Mesmo que os princípios éticos sejam constantes, a forma como refletimos sobre eles e os aplicamos pode mudar conforme as circunstâncias mudam. Por exemplo, novas tecnologias, mudanças sociais ou novos desafios podem exigir que reconsideremos como aplicamos esses princípios.
+
+
 # Período 6 
 
 > A Moral é conduta de regra, porque é preciso relacionar os valores para que assim possa instituir a conduta. 
+
+1. *O que é "conduta de regra"?*
+
+Comportamentos que são guiados por normas ou princípios estabelecidos.s
+
+2. *O que são valores?*
+   
+Valores são princípios ou padrões de comportamento que são considerados importantes por uma pessoa ou sociedade.
 
 # Período 7
 
