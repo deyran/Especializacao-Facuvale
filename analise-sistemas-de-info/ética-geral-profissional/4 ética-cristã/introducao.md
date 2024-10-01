@@ -41,4 +41,21 @@ Do século V ao século XV, aproximadamente entre os anos 476 DC e 1453 DC
 Refere-se à maneira como diferentes culturas e religiões visualizam e entendem o conceito de dinvindade ou de um ser supremo. Isso pode incluir imagens, símbolos, idéias e narrativas que expressam a natureza e as qualidades do divino.
 
 1. *Moral e imitação de Cristo*
-2. AA
+
+- A moral passou a ser vista como a busca pela perfeição através da imitação de Cristo.
+- Cada ser humano deveria seguir essa buca.
+
+2. *Indivíduo processo civilizatório ocidental.*
+
+- O indivíduo tornou-se o centro do processo civilizatório ocidental.
+- Isso resultou no reconhecimento dos direitos humanos.
+  
+3. *Ética cristã*
+
+- A ética cristã combinou liberdade e vontade.
+- A vontade foi dividida essencialmente entre o bem e o mal.
+
+4. Virtude e Humildade
+
+- O cristianismo subordinou o ideal de virtude à idéia de dever e obrigação
+- Introduziu a humildade como uma virtude essencial, desconhecida pelos antigos.
