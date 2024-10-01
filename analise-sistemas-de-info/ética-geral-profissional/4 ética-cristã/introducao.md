@@ -15,7 +15,7 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 ## Pontos importantes
 
-1. Estabelecimento do Cristianismo
+1. *Estabelecimento do Cristianismo*
 
 - Durante a idade média, o cristianismo se consolidou como teoria filosófica.
 
@@ -36,4 +36,9 @@ Do século V ao século XV, aproximadamente entre os anos 476 DC e 1453 DC
 
 - A representação do "divino" mudou da natureza para figura de Jesus Cristo
 
-1. AAA
+*O que é representação do "divino"?*
+
+Refere-se à maneira como diferentes culturas e religiões visualizam e entendem o conceito de dinvindade ou de um ser supremo. Isso pode incluir imagens, símbolos, idéias e narrativas que expressam a natureza e as qualidades do divino.
+
+1. *Moral e imitação de Cristo*
+2. AA
