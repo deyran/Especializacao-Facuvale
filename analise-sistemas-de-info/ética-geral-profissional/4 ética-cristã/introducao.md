@@ -32,6 +32,8 @@ Do século V ao século XV, aproximadamente entre os anos 476 DC e 1453 DC
 
 *O que é uma "Teoria filosófica?*
 
+É um conjunto de idéias e princípios que busca explicar aspectos fundamentais da realidade, da existência, do conhencimento, da moralidade e da mente humana. A teoria cristã integra a revelação divina com a razão humana para oferecer uma visão coerente do mundo e da vida.
+
 - A representação do "divino" mudou da natureza para figura de Jesus Cristo
 
 1. AAA
