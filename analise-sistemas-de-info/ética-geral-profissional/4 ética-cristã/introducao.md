@@ -58,4 +58,7 @@ Refere-se à maneira como diferentes culturas e religiões visualizam e entendem
 4. Virtude e Humildade
 
 - O cristianismo subordinou o ideal de virtude à idéia de dever e obrigação
+  
+*Como dever e obrigação podem estar vinculado ao ideal de virtude?*
+
 - Introduziu a humildade como uma virtude essencial, desconhecida pelos antigos.
