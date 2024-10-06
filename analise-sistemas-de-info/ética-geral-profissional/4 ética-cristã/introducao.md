@@ -2,63 +2,12 @@
 
 Durante a Idade Média, o cristianismo se estabeleceu como teoria no campo filosófico; a representação ocidental do “divino” não era mais a natureza e passou a encarnar uma pessoa: Jesus Cristo.
 
-Neste período a Moral passa a ser entendida como a busca da perfeição “imitação de Cristo”, característica de cada ser humano. E nesta nova concepção da pessoa humana o indivíduo é o próprio cerne do processo civilizador ocidental,
-tendo como resultado todos os direitos da pessoa humana.
+Neste período a Moral passa a ser entendida como a busca da perfeição “imitação de Cristo”, característica de cada ser humano. E nesta nova concepção da pessoa humana o indivíduo é o próprio cerne do processo civilizador ocidental, tendo como resultado todos os direitos da pessoa humana.
 
 A ética cristã articula liberdade e vontade; apresenta essa última como essencialmente dividida entre o bem e o mal.
 
-Foi o cristianismo que subordinou o ideal de virtude à ideia de dever e de obrigação, fazendo da humildade uma virtude essencial, o que, até então, era desconhecido pelos antigos.
+Foi o cristianismo que subordinou o *ideal de virtude à ideia de dever e de obrigação*, fazendo da humildade uma virtude essencial, o que, até então, era desconhecido pelos antigos.
 
-## Resumo
+# Resumo
 
 Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica, mudando a representação do "divino" para a figura de Jesus Cristo. A moral passou a ser vista como a busca pela perfeição através da imitação de Cristo, centralizando o indivíduo no processo civilizatório ocidental e resultando nos direitos humanos. A ética cristã combinou liberdade e vontade, dividindo-as entre o bem e o mal, e introduziu a humildade como uma virtude essencial, algo desconhecido pelos antigos.
-
-## Pontos importantes
-
-1. *Estabelecimento do Cristianismo*
-
-- Durante a idade média, o cristianismo se consolidou como teoria filosófica.
-
-*Qual o período da idade média?*
-
-Do século V ao século XV, aproximadamente entre os anos 476 DC e 1453 DC
-
-*Quais os fatores que contribuíram para consolidação do Cristianismo como teoria filosófica?*
-
-1. Influência da igreja: Igreja católica
-2. Patrística e Escolástica: Filósofos cristãos (Santo Augustinho e São Tomas de Aquino)
-3. Monasticismo: Centros de aprendizado e preservação do conhecimento (Mosteiros e conventos)
-4. Cruzadas e missões: A expansão do cristianismo através das cruzadas e missões.
-
-*O que é uma "Teoria filosófica?*
-
-É um conjunto de idéias e princípios que busca explicar aspectos fundamentais da realidade, da existência, do conhencimento, da moralidade e da mente humana. A teoria cristã integra a revelação divina com a razão humana para oferecer uma visão coerente do mundo e da vida.
-
-- A representação do "divino" mudou da natureza para figura de Jesus Cristo
-
-*O que é representação do "divino"?*
-
-Refere-se à maneira como diferentes culturas e religiões visualizam e entendem o conceito de dinvindade ou de um ser supremo. Isso pode incluir imagens, símbolos, idéias e narrativas que expressam a natureza e as qualidades do divino.
-
-1. *Moral e imitação de Cristo*
-
-- A moral passou a ser vista como a busca pela perfeição através da imitação de Cristo.
-- Cada ser humano deveria seguir essa buca.
-
-2. *Indivíduo processo civilizatório ocidental.*
-
-- O indivíduo tornou-se o centro do processo civilizatório ocidental.
-- Isso resultou no reconhecimento dos direitos humanos.
-  
-3. *Ética cristã*
-
-- A ética cristã combinou liberdade e vontade.
-- A vontade foi dividida essencialmente entre o bem e o mal.
-
-4. Virtude e Humildade
-
-- O cristianismo subordinou o ideal de virtude à idéia de dever e obrigação
-  
-*Como dever e obrigação podem estar vinculado ao ideal de virtude?*
-
-- Introduziu a humildade como uma virtude essencial, desconhecida pelos antigos.
