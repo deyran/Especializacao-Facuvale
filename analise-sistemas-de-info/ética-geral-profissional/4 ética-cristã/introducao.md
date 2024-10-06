@@ -33,7 +33,7 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 - Movimentos filosóficos como Patrística e Escolástica
 - Integração com a filosofia grega
 
-1. Resumidamente o que é teoria filosófica?
+4. Resumidamente o que é teoria filosófica?
 
 - É um conjunto de idéias e conceitos, que busca explicar aspectos fundamentais da realidade, como a existência, o conhecimento, a verdade, a moralidade e a mente.
 - Essas idéias são desenvolvidas através da argumentação, lógica, reflexão crítica.
