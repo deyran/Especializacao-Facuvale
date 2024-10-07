@@ -40,6 +40,20 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 > A representação ocidental do "divino" passou da natureza para a figura de Jesus Cristo.
 
+1. **O que você quer dizer quando afirma ocidental e representação ocidental?**
+
+*Ocidental*
+  
+- Refere-se às culturas e sociedades da Europa e, por extensão, às influenciadas por ela, com as américas.
+
+*Representação ocidental*
+
+É a maneira como as culturas específicas visualizam e entendem a divindade.
+
+1. **A natureza era representação ocidental do "divino"? Sob que aspecto?**
+2. **De que forma a figura de Jesus Cristo passou a representar o "divino"?**
+3. **Por quê o "divino" no texto está entre aspas?**
+
 # Moral e imitação de Cristo
 
 > A moral foi entendida como a busca da perfeição através da "imitação de Cristo".
