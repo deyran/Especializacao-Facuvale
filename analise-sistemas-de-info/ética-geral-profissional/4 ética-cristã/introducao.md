@@ -50,14 +50,19 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 - É a maneira como as culturas específicas visualizam e entendem a divindade.
 
-1. **A natureza era representação ocidental do "divino"? Sob que aspecto?**
+2. **A natureza era representação ocidental do "divino"? Sob que aspecto?**
    
 - Antes de Cristo, muitas culturas ocidentais, como as grego-romanas, viam o divino na natureza
 - Deuses e espíritos eram assossiados a elementos da natureza (Sol, lua, rios e etc).
 - Esses elementos eram venerados e considerados manifestações do divino.
 
-2. **De que forma a figura de Jesus Cristo passou a representar o "divino"?**
-3. **Por quê o "divino" no texto está entre aspas?**
+3. **De que forma a figura de Jesus Cristo passou a representar o "divino"?**
+
+- Jesus Cristo passou a ser visto como a encarnação de Deus na terra.
+- Como Filho de Deus, veio salvar a humanidade.
+- Sendo assim, Jesus Cristo tornou-se a principal representação do divino substituindo as representações do divino assossiado a natureza.
+
+4. **Por quê o "divino" no texto está entre aspas?**
 
 # Moral e imitação de Cristo
 
