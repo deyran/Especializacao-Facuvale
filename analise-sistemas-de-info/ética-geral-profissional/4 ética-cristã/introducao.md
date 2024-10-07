@@ -48,7 +48,7 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 *Representação ocidental*
 
-É a maneira como as culturas específicas visualizam e entendem a divindade.
+- É a maneira como as culturas específicas visualizam e entendem a divindade.
 
 1. **A natureza era representação ocidental do "divino"? Sob que aspecto?**
 2. **De que forma a figura de Jesus Cristo passou a representar o "divino"?**
