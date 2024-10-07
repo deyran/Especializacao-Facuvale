@@ -64,6 +64,8 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 4. **Por quê o "divino" no texto está entre aspas?**
 
+- As aspas pode sugerir que a idéia de divindade não é fixa e pode variar conforme a cultura e a época.
+
 # Moral e imitação de Cristo
 
 > A moral foi entendida como a busca da perfeição através da "imitação de Cristo".
