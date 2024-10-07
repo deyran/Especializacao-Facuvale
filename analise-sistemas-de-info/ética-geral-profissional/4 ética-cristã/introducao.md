@@ -82,7 +82,13 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 1. **Busca da perfeição**
    
+- Implica um esfor contínuo para alcançar um estado ideal de virtude e excelência moral.
+
 2. **Imitação de Cristo**
+
+- Seguir o exemplo do vida e os ensinamentos de Jesus Cristo.
+  
+*Portanto, a moralidade era vista como um processo de aperfeiçoamento pessoal, onde o indivíduo se torna moralmente perfeito ao imitar as ações e atitudes de Jesus Cristo, com o objetivo de alcançar um alto padrão de virtude ao seguir os princípios e valores ensinados por Ele*
 
 > Essa nova concepção colocou o indivíduo no centro do processo civilizador ocidental.
 > Resultou no reconhecimento dos direitos humanos.
