@@ -69,6 +69,21 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 # Moral e imitação de Cristo
 
 > A moral foi entendida como a busca da perfeição através da "imitação de Cristo".
+
+1. **Moral**
+  
+- Princípios e valores que orientam o comportamento humano.
+  
+    - **Princípios**: Normas ou regras gerais e universais, ou seja, não dependem de cultura, sociedade ou grupos específicos. Exemplos: liberdade, justiça, igualdade.
+  
+    - **Valores**: Qualidades ou atributos desejáveis dentro de uma cultura, portanto, sua aplicação varia conforme a cultura, sociedade e grupos específicos. Exemplos: honestidade, respeito, responsabilidade.
+  
+- Distinção do certo e errado
+
+1. **Busca da perfeição**
+   
+2. **Imitação de Cristo**
+
 > Essa nova concepção colocou o indivíduo no centro do processo civilizador ocidental.
 > Resultou no reconhecimento dos direitos humanos.
 
