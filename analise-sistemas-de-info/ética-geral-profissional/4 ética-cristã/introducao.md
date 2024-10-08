@@ -109,9 +109,15 @@ Os direitos humanos são normas que protegem a dignidade e os direitos fundament
   
 - **Vontade**: Capacidade interna de desejar e decidir, influênciada pela moral e pelos valores pessoais.
 
-1. Como a combinação de "liberdade" e "vontade" resulta em ética cristã?
-2. Neste contexto, o que é "vontade"?
-3. Porquê vontade é dividida entre bem e mal?
+2. Como a combinação de "liberdade" e "vontade" resulta em ética cristã?
+   
+*A ética cristã considera que a verdadeira liberdade é exercida quando está alinhada com o bem. A liberdade permite escolher, e a vontade direciona essas escolhas. Juntas, elas forma a base para ações morais e éticas, conforme os ensinamentos cristãos.*
+
+3. Neste contexto, o que é "vontade"?
+   
+*A vontade é vista como uma força interna que motiva as ações e decisões de uma pessoa. Na ética cristã, a vontade deve ser orientada pelo bem, seguindo os princípios de Cristo.*
+
+4. Porquê vontade é dividida entre bem e mal?
 
 > A vontade era vista como dividida entre o bem e o mal.
 
