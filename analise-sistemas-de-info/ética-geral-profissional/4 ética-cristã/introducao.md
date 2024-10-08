@@ -119,7 +119,9 @@ Os direitos humanos são normas que protegem a dignidade e os direitos fundament
 
 > A vontade era vista como dividida entre o bem e o mal.
 
-    *A ética cristã ensina que a vontade humana está constantemente em conflito entre o desejo de fazer o bem e a tentação de fazer o mal. Esse conflito é central para a moralidade cristã, pois a escolha do bem é visto como exercício de virtude e alinhamento com a vontade divina.*
+    *A ética cristã ensina que a vontade humana está constantemente em conflito entre o desejo de fazer o bem e a
+    tentação de fazer o mal. Esse conflito é central para a moralidade cristã, pois a escolha do bem é visto como
+    exercício de virtude e alinhamento com a vontade divina.*
 
 # Virtude e dever
 
