@@ -31,7 +31,7 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 3. **Resumidamente o que é teoria filosófica?**
 
-- É um conjunto de idéias e conceitos, que busca explicar aspectos fundamentais da realidade, como a existência, o conhecimento, a verdade, a moralidade e a mente.
+- É um conjunto de idéias e conceitos, que visa explicar aspectos fundamentais da realidade, como a existência, o conhecimento, a verdade, a moralidade e a mente.
   
 - Essas idéias são desenvolvidas através da argumentação, lógica, reflexão crítica.
 
@@ -41,27 +41,27 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 *Ocidental*
   
-- Refere-se às culturas e sociedades da Europa e, por extensão, às influenciadas por ela, com as américas.
+Refere-se às culturas e sociedades da Europa e, por extensão, às influenciadas por ela, com as américas.
 
 *Representação ocidental*
 
-- É a maneira como as culturas específicas visualizam e entendem a divindade.
+É a maneira como as culturas específicas visualizam e entendem a divindade.
 
 2. **A natureza era representação ocidental do "divino"? Sob que aspecto?**
    
-- Antes de Cristo, muitas culturas ocidentais, como as grego-romanas, viam o divino na natureza
-- Deuses e espíritos eram assossiados a elementos da natureza (Sol, lua, rios e etc).
-- Esses elementos eram venerados e considerados manifestações do divino.
+Antes de Cristo, muitas culturas ocidentais, viam o divino na natureza. Deuses e espíritos eram assossiados a elementos da natureza (Sol, lua, rios e etc). Esses elementos eram venerados e considerados manifestações do divino.
 
 3. **De que forma a figura de Jesus Cristo passou a representar o "divino"?**
 
 - Jesus Cristo passou a ser visto como a encarnação de Deus na terra.
+
 - Como Filho de Deus, veio salvar a humanidade.
-- Sendo assim, Jesus Cristo tornou-se a principal representação do divino substituindo as representações do divino assossiado a natureza.
+  
+- Jesus Cristo tornou-se a principal representação do divino substituindo as representações do divino assossiado a natureza.
 
 4. **Por quê o "divino" no texto está entre aspas?**
 
-- As aspas pode sugerir que a idéia de divindade não é fixa e pode variar conforme a cultura e a época.
+As aspas pode sugerir que a idéia de divindade não é fixa e pode variar conforme a cultura e a época.
 
 # Moral e imitação de Cristo
 
@@ -79,7 +79,7 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 1. **Busca da perfeição**
    
-- Implica um esfor contínuo para alcançar um estado ideal de virtude e excelência moral.
+- Implica num esforço contínuo para alcançar um estado ideal de virtude e excelência moral.
 
 2. **Imitação de Cristo**
 
@@ -88,6 +88,8 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 *Portanto, a moralidade era vista como um processo de aperfeiçoamento pessoal, onde o indivíduo se torna moralmente perfeito ao imitar as ações e atitudes de Jesus Cristo, com o objetivo de alcançar um alto padrão de virtude ao seguir os princípios e valores ensinados por Ele*
 
 > Essa nova concepção colocou o indivíduo no centro do processo civilizador ocidental.
+
+
 > Resultou no reconhecimento dos direitos humanos.
 
 # Ética cristã
