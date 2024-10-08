@@ -117,9 +117,9 @@ Os direitos humanos são normas que protegem a dignidade e os direitos fundament
    
 *A vontade é vista como uma força interna que motiva as ações e decisões de uma pessoa. Na ética cristã, a vontade deve ser orientada pelo bem, seguindo os princípios de Cristo.*
 
-4. Porquê vontade é dividida entre bem e mal?
-
 > A vontade era vista como dividida entre o bem e o mal.
+
+*A ética cristã ensina que a vontade humana está constantemente em conflito entre o desejo de fazer o bem e a tentação de fazer o mal. Esse conflito é central para a moralidade cristã, pois a escolha do bem é visto como exercício de virtude e alinhamento com a vontade divina.*
 
 # Virtude e dever
 
