@@ -102,6 +102,17 @@ Os direitos humanos são normas que protegem a dignidade e os direitos fundament
 # Ética cristã
 
 > A ética cristã combinava liberdade e vontade.
+
+1. Neste contexto o que são "liberdade" e "vontade"?
+
+- **Liberdade**: Livre-arbítrio, capacidade de fazer escolhas de forma autônoma, sem coerção externa.
+  
+- **Vontade**: Capacidade interna de desejar e decidir, influênciada pela moral e pelos valores pessoais.
+
+1. Como a combinação de "liberdade" e "vontade" resulta em ética cristã?
+2. Neste contexto, o que é "vontade"?
+3. Porquê vontade é dividida entre bem e mal?
+
 > A vontade era vista como dividida entre o bem e o mal.
 
 # Virtude e dever
