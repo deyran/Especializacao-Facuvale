@@ -23,19 +23,16 @@ Durante a Idade Média, o cristianismo se consolidou como uma teoria filosófica
 
 2. **Por quê o cristianismo se consolidou como teoria filosófica?**
    
-- O cristianismo se consolidou como teoria filosófica durante a idade média devido à sua crescente influência na sociedade e na cultura ocidental.
+- O cristianismo influenciou tanto a sociedade como a cultura.
+
 -  A igreja católica tornou-se uma instituição poderosa, influenciando educação, a política e a vida cotidiana.
--  Filósofos cristãos, como santo Agostinho e São Tomás de Aquino integraram a fé cristã com a filosofia grega, criando uma síntese que dominou o pensamento medieval
 
-3. **Quais são os fatores que levou essa consolidação?**
+-  A integração de fé cristã e filosofia grega dominou o pensamento medieval
 
-- Influência da igreja
-- Movimentos filosóficos como Patrística e Escolástica
-- Integração com a filosofia grega
-
-4. **Resumidamente o que é teoria filosófica?**
+3. **Resumidamente o que é teoria filosófica?**
 
 - É um conjunto de idéias e conceitos, que busca explicar aspectos fundamentais da realidade, como a existência, o conhecimento, a verdade, a moralidade e a mente.
+  
 - Essas idéias são desenvolvidas através da argumentação, lógica, reflexão crítica.
 
 > A representação ocidental do "divino" passou da natureza para a figura de Jesus Cristo.
