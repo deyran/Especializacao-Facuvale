@@ -89,6 +89,11 @@ As aspas pode sugerir que a idéia de divindade não é fixa e pode variar confo
 
 > Essa nova concepção colocou o indivíduo no centro do processo civilizador ocidental.
 
+1. **Importância do indivíduo**: Indivíduo no centro da civilização ocidental
+2. **Mudança de foco**: Antes, a sociedade era mais centrada em conceitos coletivos ou na natureza.
+3. **Direito e deveres**: Cada pessoa passou a ser vista como tendo direitos e deveres próprios.
+4. **Busca pessoal**: A busca pela perfeição moral e espiritual tornou-se uma jornada pessoal.
+5. **Fundamento da civilização ocidental**: Direitos individuais e dignidade humana se tornam fundamentais.
 
 > Resultou no reconhecimento dos direitos humanos.
 
