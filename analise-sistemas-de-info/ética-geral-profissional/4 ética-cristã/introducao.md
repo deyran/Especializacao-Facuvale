@@ -79,11 +79,11 @@ As aspas pode sugerir que a idéia de divindade não é fixa e pode variar confo
 
 1. **Busca da perfeição**
    
-- Implica num esforço contínuo para alcançar um estado ideal de virtude e excelência moral.
+Implica num esforço contínuo para alcançar um estado ideal de virtude e excelência moral.
 
 2. **Imitação de Cristo**
 
-- Seguir o exemplo do vida e os ensinamentos de Jesus Cristo.
+Seguir o exemplo do vida e os ensinamentos de Jesus Cristo.
   
 *Portanto, a moralidade era vista como um processo de aperfeiçoamento pessoal, onde o indivíduo se torna moralmente perfeito ao imitar as ações e atitudes de Jesus Cristo, com o objetivo de alcançar um alto padrão de virtude ao seguir os princípios e valores ensinados por Ele*
 
@@ -96,6 +96,8 @@ As aspas pode sugerir que a idéia de divindade não é fixa e pode variar confo
 5. **Fundamento da civilização ocidental**: Direitos individuais e dignidade humana se tornam fundamentais.
 
 > Resultou no reconhecimento dos direitos humanos.
+
+Os direitos humanos são normas que protegem a dignidade e os direitos fundamentais de todas as pessoas, como a vida, a liberdade, a igualdade e justiça
 
 # Ética cristã
 
