@@ -5,3 +5,7 @@
 > A Idade Média iniciou-se com a desagregação do Império Romano do Ocidente, no século V. Isso deu início a um processo de mescla da cultura latina, oriunda dos romanos, e da cultura germânica, oriunda dos povos que invadiram e instalaram-se nas terras que pertenciam a Roma, na Europa Ocidental.
 
 > Considera-se como marco final da Idade Média o ano de 1453, quando os turcos otomanos tomaram a cidade de Constantinopla, capital do Império Bizantino, ou Império Romano do Oriente.
+
+# Resumo
+
+> A Idade Média, período histórico entre 476 e 1453, começou com a queda do Império Romano do Ocidente e a mistura das culturas latina e germânica na Europa Ocidental. Seu fim é marcado pela tomada de Constantinopla pelos turcos otomanos em 1453.
