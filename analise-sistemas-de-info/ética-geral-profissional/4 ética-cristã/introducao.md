@@ -129,6 +129,6 @@ Os direitos humanos são normas que protegem a dignidade e os direitos fundament
 
 > Introduziu a humildade como uma virtude essencial, algo desconhecido pelos antigos.
 
-*Antes do cristianismo, a humildade não era amplamente valorizada como uma virtude essencial nas culturas antigas. Muitas sociedades antigas valorizavam mais a honra, a glória e a excelência pessoal. A humildade, muitas vezes, era vista como uma fraqueza ou falta de ambição.
+*Antes do cristianismo, a humildade não era amplamente valorizada como uma virtude essencial nas culturas antigas. Muitas sociedades antigas valorizavam mais a honra, a glória e a excelência pessoal. A humildade, muitas vezes, era vista como uma fraqueza ou falta de ambição.*
 
-O cristianismo introduziu a humildade como uma virtude central. Isso representou uma mudança significativa na moralidade e nos valores da época, destacando a importância de ser humilde e servil como um ideal moral elevado.*
+*O cristianismo introduziu a humildade como uma virtude central. Isso representou uma mudança significativa na moralidade e nos valores da época, destacando a importância de ser humilde e servil como um ideal moral elevado.*
