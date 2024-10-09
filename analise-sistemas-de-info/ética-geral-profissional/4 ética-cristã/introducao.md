@@ -124,4 +124,11 @@ Os direitos humanos são normas que protegem a dignidade e os direitos fundament
 # Virtude e dever
 
 > O cristianismo subordinou o ideal de virtude à idéia de dever e obrigação.
+
+*Implica dizer que as virtudes não são apenas qualidades desejaveis, mas são vistas como deveres que cada pessoa deve cumprir. Em outras palvras, ser virtuoso não é apenas uma escolha pessoal, mas uma obrigação moral. Por exemplo, a humildade é considerada uma virtude essencial no cristianismo, e os seguidores são moralmente obrigados a praticá-las.*
+
 > Introduziu a humildade como uma virtude essencial, algo desconhecido pelos antigos.
+
+*Antes do cristianismo, a humildade não era amplamente valorizada como uma virtude essencial nas culturas antigas. Muitas sociedades antigas valorizavam mais a honra, a glória e a excelência pessoal. A humildade, muitas vezes, era vista como uma fraqueza ou falta de ambição.
+
+O cristianismo introduziu a humildade como uma virtude central. Isso representou uma mudança significativa na moralidade e nos valores da época, destacando a importância de ser humilde e servil como um ideal moral elevado.*
