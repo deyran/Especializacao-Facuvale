@@ -20,7 +20,7 @@ Agostinho investiga a origem do mal a partir de uma perspectiva metafísico-onto
 1. **Metafísica**: Estuda a natureza da realidade e do universo, buscando entender o que existe além do mundo físico e perceptível.
 2. **Ontológica**: É uma subárea da metafísica que se concentra na natureza do ser e da existência, explorando questões como o que significa existir e quais são as categorias fundamentais do ser.
 
-Portanto, uma perspectica metafísica-ontológica a origem e a natureza do mal considerando tanto a realidade última do universo quanto a essência do ser e da existência.
+Portanto, uma perspectica metafísica-ontológica investiga a origem e a natureza do mal considerando tanto a realidade última do universo quanto a essência do ser e da existência.
 
 # Influência de Cícero
 
