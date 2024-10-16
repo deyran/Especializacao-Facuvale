@@ -18,3 +18,30 @@ Durante a Alta Idade Média, a Europa passava pelas transformações derivadas d
 # Resumo
 
 > A Idade Média, entre 476 e 1453, começou com a queda do Império Romano do Ocidente e a mistura das culturas latina e germânica. Terminou com a tomada de Constantinopla pelos turcos otomanos. O período é dividido em Alta Idade Média (séculos V e X) e Baixa Idade Média (séculos XI e XV). A Alta Idade Média viu a formação do feudalismo, enquanto a Baixa Idade Média foi marcada pelo auge do feudalismo e o início do renascimento urbano e comercial. O fim da Idade Média trouxe o enfraquecimento do feudalismo, o crescimento do poder dos reis, a invenção da impresa, o Renascimento e as grandes navegações.
+
+## Período
+
+> A idade média ocorreu entre 476 e 1453.
+
+## Nomeação
+
+> Parte da periodização histórica que inclui as idades Antigas, Média, Moderna e Contemporânea.
+
+## Início
+
+> Começou com a desagregação do Império Romano do Ocidente no século V.
+
+## Cultura
+
+> Masclas das culturas latina (romana) e germânica.
+
+## Fim
+
+> Marcado pela tomada de Constantinopla pelos Turcos otomanos em 1453.
+
+## Mudanças
+
+1. Enfraquecimento do sistema feudal
+2. Crescimento do poder dos reis em Portugal, Espanha, França e Inglaterra.
+3. Início do Renascimento, com avanço do conhecimento e nas artes.
+4. Grandes navegações e descoberta da América, mudando a percepção do mundo.
