@@ -28,7 +28,7 @@ Agostinho investiga a origem do mal a partir de uma perspectiva metafísico-onto
 
 **Quem foi Cícero?**
 
-*Marco Túlio Cícero* (106 AC - 43 AC) foi um filósofo, orador, escrito, advogado e político romano. Ele é amplamente reconhecido como um dos maiores oradores da história e teve um papel significativo na política da República Romana.
+*Marco Túlio Cícero* (106 AC - 43 AC) foi um filósofo, orador, escritor, advogado e político romano. Ele é amplamente reconhecido como um dos maiores oradores da história e teve um papel significativo na política da República Romana. Cícero despertou em Agostinho amor pela sabedoria e busca pela verdades.
 
 # Maniqueísmo
 
