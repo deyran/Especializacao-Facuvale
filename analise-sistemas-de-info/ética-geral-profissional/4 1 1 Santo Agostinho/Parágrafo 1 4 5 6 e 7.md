@@ -29,3 +29,5 @@ Viver de acordo com a ordem divina implica ter o amor ordenado e agir de forma j
 > A prática do "uti-fui" (usar e fruir), é essencial para ética Agostiniana, ajudando a viver em harmonia e buscar a verdadeira felicidade.
 
 # Busca da felicidade
+
+> A moral Agostiniana está ligada ao dever de buscar a verdadeira felicidade, usando corretamente os valores de amor para se aproximar do bem supremo.
