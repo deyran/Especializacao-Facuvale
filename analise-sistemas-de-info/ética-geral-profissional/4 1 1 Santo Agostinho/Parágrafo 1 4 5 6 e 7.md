@@ -24,6 +24,8 @@ A estrutura do uti-frui era fundamental para a construção ético-moral agostin
 
 Viver de acordo com a ordem divina implica ter o amor ordenado e agir de forma justa, dando a cada um o que é seu de direito.
 
-# uti-frui
+# Uti-frui
+
+> A prática do "uti-fui" (usar e fruir), é essencial para ética Agostiniana, ajudando a viver em harmonia e buscar a verdadeira felicidade.
 
 # Busca da felicidade
