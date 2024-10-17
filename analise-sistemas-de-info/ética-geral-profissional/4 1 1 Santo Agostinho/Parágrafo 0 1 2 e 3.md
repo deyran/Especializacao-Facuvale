@@ -58,6 +58,14 @@ Agostinho investiga a origem do mal a partir de uma perspectiva metafísico-onto
 
 > Agostinho argumenta que o homem precisa viver de acordo com a ordem divina para bem viver.
 
+1. **O que seria “ordem divina”?**
+
+*Viver de acordo com a ordem divina significa alinhar-se com os princípios e leis estabelecidas por Deus, buscando a harmonia e a justiça que refletem a vontade divina.*
+
+2. **O que Agostinho chama de “viver bem”?**
+
+*Viver bem significa uma vida moralmente reta e espiritualmente alinhada com a vontade de Deus. Isso envolve seguir a ordem divina, buscar a beatitude (felicidade suprema), e ser curado do pecado pela graça. Portanto, viver bem é viver em conformidade com ensinamentos divinos, mesmo dentro das limitações do mundo temporal.*
+
 # Criação divina
 
 > Tudo que Deus criou é bom, mas o mal surge da ruptura na hierarquia da ordem divina.
