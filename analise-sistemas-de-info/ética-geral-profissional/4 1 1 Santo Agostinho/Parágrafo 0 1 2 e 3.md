@@ -34,6 +34,10 @@ Agostinho investiga a origem do mal a partir de uma perspectiva metafísico-onto
 
 > Agostinho inicialmente se aproxima do maniqueísmo devido à resposta oferecida ao problema do mal.
 
+**O que é maniqueísmo?**
+
+*O Maniqueísmo é uma doutrina religiosa e filosófica fundada no século III DC por Mani, um profeta persa. Essa doutrina postula a existência de duas forças primordiais e eternas: o bem (reino da luz) e o mal (reino das trevas). O Maniqueísmo vê o mundo como uma arena de constante luta entre essas duas forças opostas.*
+
 # Nova interpretação
 
 > Ele rompe com Maniqueísmo e desenvolve uma nova interpretação do mal, influenciada pela filosofia neoplatônica e pelos teólogos de Mião.
