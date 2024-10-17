@@ -14,9 +14,11 @@ A estrutura do uti-frui era fundamental para a construção ético-moral agostin
 
 # Fundamento da ética-moral
 
-Agostinho entende amor como fundamento da sua ética e moral, conforme estabelecido por Deus.
+> Agostinho entende amor como fundamento da sua ética e moral, conforme estabelecido por Deus.
 
 # Hierarquia do amor
+
+> O amor deve seguir uma ordem divina, com Deus em primeiro lugar, seguido pelo homem e seu próximo, e depois os objetos temporais.
 
 # Viver ético-moral
 
