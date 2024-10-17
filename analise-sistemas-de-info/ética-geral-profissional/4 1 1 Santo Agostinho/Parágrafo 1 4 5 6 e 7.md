@@ -22,6 +22,8 @@ A estrutura do uti-frui era fundamental para a construção ético-moral agostin
 
 # Viver ético-moral
 
+Viver de acordo com a ordem divina implica ter o amor ordenado e agir de forma justa, dando a cada um o que é seu de direito.
+
 # uti-frui
 
 # Busca da felicidade
