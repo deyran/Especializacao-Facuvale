@@ -42,6 +42,18 @@ Agostinho investiga a origem do mal a partir de uma perspectiva metafísico-onto
 
 > Ele rompe com Maniqueísmo e desenvolve uma nova interpretação do mal, influenciada pela filosofia neoplatônica e pelos teólogos de Mião.
 
+1. **O que levou Agostinho romper com maniqueísmo?**
+   
+*Devido as contradições encontradas na doutrina, especialmente na visão de Deus e na concepção do mal como uma substância independente. Agostinho passou a entender o mal como uma privação do bem, o que não se alinhava com os princípios maniqueístas.*
+   
+2. **O que é filosofia neoplatônica?**
+   
+*Filosofia neoplatônica é uma corrente filosófica do século III. Essa corrente filosófica baseia Se nas idéias de Platão, mas com uma abordagem mais místicas e espiritual. O neoplatonismo defende a existência de uma ser supremo de quem emana tudo. Essa filosofia enfatiza a busca pela união com o divino e a transcendência do mundo material.*
+
+3. **Quem são os teólogos de Milão?**
+
+*Teólogos de Milão referem-se principalmente a figuras influentes como Santo Ambrosio, bispo de Milão, que teve o papel de converter Agustinho ao Cristianismo. Eles contribuíram para o desenvolvimento teológico e filosófico de Agustutinho, ajudando-o a formular suas idéias sobre o mal e a graça divina.*
+
 # Vida reta
 
 > Agostinho argumenta que o homem precisa viver de acordo com a ordem divina para bem viver.
