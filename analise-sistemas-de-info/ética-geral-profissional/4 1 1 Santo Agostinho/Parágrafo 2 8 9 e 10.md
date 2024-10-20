@@ -26,7 +26,15 @@ Agostinho vê o amor como expressão de liberdade que deve guiar o homem para De
 
 # Amor a natureza humana
 
-Para Agostinho, o amor a natureza humana é uma questão ontológica, orientada pelo livre-arbítrio e manifestada no comportamento ético.
+> Para Agostinho, o amor a natureza humana é uma questão ontológica, orientada pelo livre-arbítrio e manifestada no comportamento ético.
+
+*Ontologia*
+
+É um ramo da filosofia que estuda a natureza do ser, da existência e da realidade. Ela investiga questões fundamentais como:
+
+1. O que significa existir?
+2. Quais sãos as categorias básicas do ser?
+3. Quais entidades existem e como elas se relacionam?
 
 # Questão moral
 
