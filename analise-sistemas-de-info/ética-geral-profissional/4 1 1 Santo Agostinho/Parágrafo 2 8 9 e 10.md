@@ -12,7 +12,17 @@ Agostinho vê o amor como expressão de liberdade que deve guiar o homem para De
 
 # Amor e vontade
 
-O amor é conduzido pela vontade, uma expressão de liberdade, que deveria levar o homem para Deus e guiar sua vida ético-moral
+> O amor é conduzido pela vontade, uma expressão de liberdade, que deveria levar o homem para Deus e guiar sua vida ético-moral
+
+*Para Agostinho, a capacidade de decidir vem da vontade humana guiada pelo amor ordenado. A capacidade de decidir alinha o homem com a ordem divina.*
+
+*O amor, segundo Agostinho, tem a seguinte ordem:*
+
+1. Amor primeiramente a Deus
+2. Amor ao próximo
+3. Amor aos objetos temporais
+
+*A hierarquia do amor ordena corretamente os afetos, e como consequência, alinha as ações do homem à reta ordem divina*
 
 # Amor a natureza humana
 
