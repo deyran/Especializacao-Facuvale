@@ -8,4 +8,16 @@ A questão moral estabelecida pelo filósofo era saber o que necessitava ser ama
 
 # Resumo
 
-Agostinho vê o amor como expressão de liberdade que deve guiar io homem para Deus e orientar sua vida ético-moral. O amor a natureza humana é otológico e direcionado pelo livre-arbítrio, manifestando-se pelo comportamento ético. A ordem do amor é crucial para redirecionar o homem à reta ordem divina, dando significado ético-moral à sua antropologia e permitindo que ele encontre a beatitude.
+Agostinho vê o amor como expressão de liberdade que deve guiar o homem para Deus e orientar sua vida ético-moral. O amor a natureza humana é otológico e direcionado pelo livre-arbítrio, manifestando-se pelo comportamento ético. A ordem do amor é crucial para redirecionar o homem à reta ordem divina, dando significado ético-moral à sua antropologia e permitindo que ele encontre a beatitude.
+
+# Amor e vontade
+
+O amor é conduzido pela vontade, uma expressão de liberdade, que deveria levar o homem para Deus e guiar sua vida ético-moral
+
+# Amor a natureza humana
+
+
+
+# Questão moral
+# Significado ético-moral
+# Busca da beatitude
