@@ -27,3 +27,5 @@ A questão moral central é saber o que deve ser amado, com a ordem de amor redi
 A ordem do amor dá à antropologia de Agostinho seu significado ético-moral.
 
 # Busca da beatitude
+
+O amor ordenado é essencial para que o homem encontre a beatitude, que deveria ser buscada incansavelmente.
