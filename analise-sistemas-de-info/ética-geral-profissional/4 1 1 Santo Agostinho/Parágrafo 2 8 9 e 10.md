@@ -16,7 +16,7 @@ O amor é conduzido pela vontade, uma expressão de liberdade, que deveria levar
 
 # Amor a natureza humana
 
-
+Para Agostinho, o amor a natureza humana é uma questão ontológica, orientada pelo livre-arbítrio e manifestada no comportamento ético.
 
 # Questão moral
 # Significado ético-moral
