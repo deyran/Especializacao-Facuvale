@@ -19,5 +19,11 @@ O amor é conduzido pela vontade, uma expressão de liberdade, que deveria levar
 Para Agostinho, o amor a natureza humana é uma questão ontológica, orientada pelo livre-arbítrio e manifestada no comportamento ético.
 
 # Questão moral
+
+A questão moral central é saber o que deve ser amado, com a ordem de amor redirecionando o homem à reta ordem divina
+
 # Significado ético-moral
+
+A ordem do amor dá à antropologia de Agostinho seu significado ético-moral.
+
 # Busca da beatitude
