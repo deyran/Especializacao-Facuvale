@@ -20,6 +20,8 @@ Tomás de Aquino, frade dominicano, destacou-se por aplicar a visão aristotéli
 
 2. *Como assim "responsável pela orientação e proteção religiosa"?*
 
+Significa que Tomás de aquino tinha o papel de guiar espiritualmente e proteger a fé e os ensinos da igreja Católica. Isso envolve educar os fiéis, promover moralidade, defender a doutrina cristã contra heresias, e ajudar a resolver questões teológicas e filosóficas da época.
+
 # Contribuição filosófica
 
 Aplicou a visão aristotélica à doutrina cristã, ajudando no surgimento da Escolástica.
