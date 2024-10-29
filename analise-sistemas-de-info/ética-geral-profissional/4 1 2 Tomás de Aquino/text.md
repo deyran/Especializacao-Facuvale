@@ -24,7 +24,15 @@ Significa que Tomás de aquino tinha o papel de guiar espiritualmente e proteger
 
 # Contribuição filosófica
 
-Aplicou a visão aristotélica à doutrina cristã, ajudando no surgimento da Escolástica.
+> Aplicou a visão aristotélica à doutrina cristã, ajudando no surgimento da Escolástica.
+
+1. *Poderia explar sobre a visão aristotélica aplicada à doutrina cristã ?*
+
+A visão aristotélica refere-se às idéias e filosofia de Arstóteles. Ele enfatizou o uso da razão e da obervação empírica para entender o mundo. Tomas de aquino aplicou esses princípios aristotélicos à doutrina cristã, defendendo que a razão e a fé não se contradizem, mas se complementam. Ele usou a lógica e a metafísica aristotélica para explicar e sistematizar as crenças cristãs, ajudando a integrar o pensamento filosófico clássico coma a teologia cristã.
+
+2. *O que é Escolástica?*
+
+Foi um método de pensamento e ensino desenvolvido nas universidades medievais da Europa, principalmente durante os séculos XII a XVII. Ela combinava a filosofia grega antiga (especialmente a de Aristóteles) com a teologia cristã. O objetivo da Escolástica era reconciliar a razão e a fé, demonstrando que os ensinamentos religiosos podiam ser explicados e defendidos racionalmente.
 
 # Razão e revelação divina
 
