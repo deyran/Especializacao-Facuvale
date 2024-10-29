@@ -12,7 +12,13 @@ Tomás de Aquino, frade dominicano, destacou-se por aplicar a visão aristotéli
 
 # Papel religioso
 
-Frade dominicano responsável pela orientação e proteção religiosa.
+> Frade dominicano responsável pela orientação e proteção religiosa.
+
+1. *O que é um frade domiciano?*
+
+É um membro da ordem dos pregadores (Ordem Dominicana), fundado por São Domingos de Gusmão no início do século XIII. Os dominicanos são conhecidos por seu foco na pregação, no ensino e na defesa da fé.
+
+2. *Como assim "responsável pela orientação e proteção religiosa"?*
 
 # Contribuição filosófica
 
