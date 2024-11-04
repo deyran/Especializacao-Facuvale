@@ -62,7 +62,21 @@ Os padres e líderes religiosos têm a responsabilidade de interpretar e aplicar
 
 # Fé e razão
 
-Fé e razão estão unidas e não pode haver contradição entre elas, pois ambas são direcionadas a Deus.
+> Fé e razão estão unidas e não pode haver contradição entre elas, pois ambas são direcionadas a Deus.
+
+1. **Fé e razão estão unidas**
+
+Tomas de Aquino acreditava que a fé religiosa e a razão humana não são opostas, mas complementares. Ambas são instrumentos dados por Deus para que os seres humanos possam compreender a verdade.
+
+2. **Não pode haver contradição entre elas**
+   
+Se ambas são direcionadas à mesma verdade divina, não deve haver conflitos entre o que é descoberto pela razão e o que é revelado pela fé. Qualquer aparente contradição deve ser resultado de uma compreensão imperfeita de uma ou de ambas as partes.
+
+3. **Ambas são direcionadas a Deus**
+
+A crença de que a verdade última é encontrada em Deus significa que tanto a fé quanto a razão conduzem ao mesmo objetivo final: a compreensão da natureza divina e da verdade universal.
+
+*Tomás de Aquino defendia que, por serem ambas dádivas de Deus, fé e razão devem trabalhar juntas, cada uma iluminando a outra para um compreensão mais plena da realidade e da moralidade.*
 
 # Bondade da criação
 
