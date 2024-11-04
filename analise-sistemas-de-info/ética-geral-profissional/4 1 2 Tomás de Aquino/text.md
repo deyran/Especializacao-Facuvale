@@ -36,7 +36,17 @@ Foi um método de pensamento e ensino desenvolvido nas universidades medievais d
 
 # Razão e revelação divina
 
-Somente pela razão, aliada à revelação divina, o homem pode pode atingir a perfeição das virtudes.
+> Somente pela razão, aliada à revelação divina, o homem pode pode atingir a perfeição das virtudes.
+
+1. **Razão**
+
+Refere-se à capacidade intelectual e racional do ser humano, que permite entender, analisar e discernir a verdade.
+
+2. **Revelação divina**
+
+Refere-se ao conhecimento e orientação que vêm diretamente de Deus, através das Escrituras Sagradas e da fé religiosas.
+
+*Aquino defendia que a união dessas duas fontes de conhecimento é essencial para o ser humano compreenda plenamente a verdade e viva de acordo com os princípios e virtudes divinas. Sem essa combunação, a compreensão e prática das virtudes seriam incompletas, pois a razão sozinha não poderia alcançar a perfeição moral e espiritual que a revelação divina proporciona.*
 
 # Lei divina
 
