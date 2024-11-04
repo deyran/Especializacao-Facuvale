@@ -50,7 +50,15 @@ Refere-se ao conhecimento e orientação que vêm diretamente de Deus, através 
 
 # Lei divina
 
-Deus é o legislador e os padres são os intérpretes da lei.
+> Deus é o legislador e os padres são os intérpretes da lei.
+
+1. **Deus é legislador**
+
+Significa que todas as leis e princípios morais vêm de Deus. Ele é a fonte suprema de autoridade e sabedoria, estabelecendo o que é certo e errado.
+
+2. **Padres são intérpretes da lei**
+
+Os padres e líderes religiosos têm a responsabilidade de interpretar e aplicar essas leis divinas para orientar os fiéis. Eles estudam as Escrituras e tradições religiosas para explicar os ensinamentos de Deus e ajudar as pessoas a viverem de acordo com esses princípios.
 
 # Fé e razão
 
