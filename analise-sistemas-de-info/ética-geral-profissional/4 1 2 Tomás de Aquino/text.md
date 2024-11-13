@@ -80,4 +80,17 @@ A crença de que a verdade última é encontrada em Deus significa que tanto a f
 
 # Bondade da criação
 
-Toda a criação é boa, desde que siga os mandamentos de Deus; o mal é a ausência da perfeição divina.
+> Toda a criação é boa, desde que siga os mandamentos de Deus; o mal é a ausência da perfeição divina.
+
+1. **Toda criação é boa, desde que siga os mandamentos de Deus.**
+
+- Para Tomás de Aquino, tudo o que Deus criou é intrinsecamente bom.
+- Seguir os mandamentos de Deus significa viver de acordo com os princípios e ensinamentos divinos.
+- Portanto, ao seguir os mandamentos, o homem está em harmonia com a ordem e o propósito divino, o que mantém a bondade da criação.
+
+2. **O mal é ausência da perfeição divina**
+
+- Segundo Aquino, o mal não é uma entidade ou força própria, mas a falta ou a ausência de algo que deveria estar presente.
+- A perfeição divina se refere a completa bondade e virtude que provém de Deus.
+- Quando algo ou alguém se desvia dos mandamentos de Deus, ocorre uma falta dessa perfeição, resultando no mal.
+- Portanto, o mal surge quando a criação se afasta do propósito e da ordem estabelecida por Deus, perdendo a bondade inerente.
