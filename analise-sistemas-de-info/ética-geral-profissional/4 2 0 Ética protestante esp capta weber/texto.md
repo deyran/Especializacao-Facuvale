@@ -33,4 +33,9 @@ A vocação, entendida como um chamando divino para o trabalho, foi apresentada 
 Valores protestantes como disciplina, poupança, austeridade, vocação e trabalho foram fundamentais para o surgimento do capitalismo.
 
 # Ética ocidental
+
+Esses valores foram incorporados à ética ocidental, formando a sociedade burguesa.
+
 # Valorização do trabalho
+
+Weber destacou que a valorização do trabalho e da riqueza produzida era um dever moral.
