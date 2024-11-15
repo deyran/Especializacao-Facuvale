@@ -14,7 +14,12 @@ Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que fo
 
 # Contexto
 
-Entre 1904 e 1905, Max Weber escreveu para revista "Arquivos de Ciência Sociais e Política Social".
+> Entre 1904 e 1905, Max Weber escreveu para revista "Arquivos de Ciência Sociais e Política Social".
+
+**Quem foi Max Weber?**
+
+*Foi um socialista, jurista e economista alemão (1864-1920). Considerado um dos fundadores da sociedade moderna, também conhecido por suas contribuições significativas para sociologia, economia, direito e ciência política.*
+
 
 # Obra principal
 
