@@ -21,6 +21,9 @@ Entre 1904 e 1905, Max Weber escreveu para revista "Arquivos de Ciência Sociais
 Esses textos deram origem à sua obra "A ética protestante e o espírito do capitalismo"
 
 # Reflexão principal
+
+Weber analisou a relação entre o protestantismo e o desenvolvimento do capitalismo no século XVI para o XVII.
+
 # Conceito de vocação
 # Influência protestante
 # Ética ocidental
