@@ -58,6 +58,11 @@ Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que fo
 
 2. **Foi apresentada como base do modelo sistema econômico capitalista**
 
+- Weber argumentou que essa idéia de vocação influenciou profundamente a ética de trabalho nas sociedades protestantes.
+- Acreditar que o trabalho é um chamado divino motivou as pessoas a trabalhar arduamente, ser disciplinadas, poupar dinheiro e investir com responsabilidade.
+- Esses valores e comportamento são essenciais para o funcionamento do sistema capitalista, que depende da produtividade, eficiência e reinvestimento dos lucros.
+- Portanto, a ética protestante, com sua ênfase na vocação e no trabalho como dever moral, ajudou a formar e sustentar o desenvolvimento do capitalismo.
+
 # Influência protestante
 
 Valores protestantes como disciplina, poupança, austeridade, vocação e trabalho foram fundamentais para o surgimento do capitalismo.
