@@ -13,6 +13,9 @@ Ressalta-se que foi através da concepção weberiana que foi apresentada a valo
 Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que formaram sua obra "A Ética Protestante e o Espírito do Capitalismo". Ele observou que o protestantismo, especialmente a ética protestante, desempenhou um papel crucial no desenvolvimento do capitalismo moderno. Valores como disciplina, poupança, austeridade e a valorização do trabalho como um dever moral foram fundamentais. Weber destacou que esses valores protestantes moldaram a ética ocidental, contribuindo para a formação da sociedade capitalista moderna, conhecida como sociedade burguesa.
 
 # Contexto
+
+Entre 1904 e 1905, Max Weber escreveu para revista "Arquivos de Ciência Sociais e Política Social".
+
 # Obra principal
 # Reflexão principal
 # Conceito de vocação
