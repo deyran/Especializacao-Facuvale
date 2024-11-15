@@ -89,7 +89,16 @@ Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que fo
 
 # Ética ocidental
 
-Esses valores foram incorporados à ética ocidental, formando a sociedade burguesa.
+> Esses valores foram incorporados à ética ocidental, formando a sociedade burguesa.
+
+1. **Esses valores foram incorporados à ética ocidental**
+
+*Os valores protestantes foram absorvidos pela cultura e pelos padrões éticos da sociedade ocidental.*
+
+2. **Formando a sociedade burguesa**
+
+- *A sociedade burguesa refere-se à classe média emergente durante a era do capitalismo, caracterizada pelos espírito empresarial, investimento em negócios e valorização do trabalho.*
+- *Ao incorporar esses valores, a sociedade ocidental desenvolveu uma nova classe social (a burguesia) que prosperou com base nos princípios protestantes, ajudando a estabelecer um sistema econômico capitalista forte e sustentável.*
 
 # Valorização do trabalho
 
