@@ -65,7 +65,27 @@ Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que fo
 
 # Influência protestante
 
-Valores protestantes como disciplina, poupança, austeridade, vocação e trabalho foram fundamentais para o surgimento do capitalismo.
+> Valores protestantes como disciplina, poupança, austeridade, vocação e trabalho foram fundamentais para o surgimento do capitalismo.
+
+1. **Disciplina**
+
+*Adotar uma vida regrada e focada, com esforço constante e autocontrole. A disciplina promove produtividade e eficiência, essenciais para o crecimento econômico e empresarial*
+
+2. **Poupança**
+
+*Evitar gastos desnecessários e acumular recursos financeiros. A poupança permite a acumulação de capital, que pode ser reinvestido em negócios e empreedimentos, impulsionando o desenvolvimento econômico.*
+
+3. **Austeridade**
+
+*Adotar um estilo de vida simples e evitar luxos e excessos. A austeridade ajuda manter custos baixos e a concentrar recursos em investimentos produtivos, fomentando o crescimento e a estabilidade econômica.*
+
+4. **Vocação**
+
+*Encarar o trabalho como um chamado divino e uma missão a ser cumprida com dedicação. A visão do trabalho como vocação incentica as pessoas a se dedicarem ao trabalho com seriedade e comprometimento, aumentando a produtividade e a inovação.*
+
+5. **Trabalho**
+
+*Valorização do trabalho árduo e diligente como um dever moral espiritual. A ética do trabalho duro promove a iniciativa, a responsabilidade e a criação de valor econômico, pilares fundamentais para o desenvolvimento capitalista.*
 
 # Ética ocidental
 
