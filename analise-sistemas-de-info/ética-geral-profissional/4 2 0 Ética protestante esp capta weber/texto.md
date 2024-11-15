@@ -29,5 +29,8 @@ Weber analisou a relação entre o protestantismo e o desenvolvimento do capital
 A vocação, entendida como um chamando divino para o trabalho, foi apresentada como base do modelo sistema econômico capitalista.
 
 # Influência protestante
+
+Valores protestantes como disciplina, poupança, austeridade, vocação e trabalho foram fundamentais para o surgimento do capitalismo.
+
 # Ética ocidental
 # Valorização do trabalho
