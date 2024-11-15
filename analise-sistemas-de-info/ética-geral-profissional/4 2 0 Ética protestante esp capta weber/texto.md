@@ -17,6 +17,9 @@ Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que fo
 Entre 1904 e 1905, Max Weber escreveu para revista "Arquivos de Ciência Sociais e Política Social".
 
 # Obra principal
+
+Esses textos deram origem à sua obra "A ética protestante e o espírito do capitalismo"
+
 # Reflexão principal
 # Conceito de vocação
 # Influência protestante
