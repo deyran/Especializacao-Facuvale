@@ -23,11 +23,29 @@ Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que fo
 
 # Obra principal
 
-Esses textos deram origem à sua obra "A ética protestante e o espírito do capitalismo"
+> Esses textos deram origem à sua obra "A ética protestante e o espírito do capitalismo"
 
 # Reflexão principal
 
 Weber analisou a relação entre o protestantismo e o desenvolvimento do capitalismo no século XVI para o XVII.
+
+**O que motivou Weber analisar esta relação?**
+
+1. Interesse em entender a Modernidade.
+   
+*Entender como as características da sociedade moderna, especialmente o capitalismo, se desenvolve ao longo do tempo*
+
+2. Impacto das religiões
+
+*Weber estava interessado no papel das religiões e como diferentes sistemas de crenças influenciam o comportamento econômico e social*
+
+3. Contribuições intellectuais
+
+*A obra de Weber foi uma resposta e uma contribuição para o debate intelectual de sua época sobre as origens do capitalismo.*
+
+4. Teoria da racionalização
+
+*Ele queria explorar como a racionalidade e a ética influenciaram o desenvolvimento das instituições econômicas e sociais.*
 
 # Conceito de vocação
 
