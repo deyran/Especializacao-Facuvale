@@ -25,6 +25,9 @@ Esses textos deram origem à sua obra "A ética protestante e o espírito do cap
 Weber analisou a relação entre o protestantismo e o desenvolvimento do capitalismo no século XVI para o XVII.
 
 # Conceito de vocação
+
+A vocação, entendida como um chamando divino para o trabalho, foi apresentada como base do modelo sistema econômico capitalista.
+
 # Influência protestante
 # Ética ocidental
 # Valorização do trabalho
