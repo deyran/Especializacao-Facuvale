@@ -27,7 +27,7 @@ Max Weber, sociólogo alemão, produziu nos anos de 1904 e 1905 os textos que fo
 
 # Reflexão principal
 
-Weber analisou a relação entre o protestantismo e o desenvolvimento do capitalismo no século XVI para o XVII.
+> Weber analisou a relação entre o protestantismo e o desenvolvimento do capitalismo no século XVI para o XVII.
 
 **O que motivou Weber analisar esta relação?**
 
@@ -49,7 +49,14 @@ Weber analisou a relação entre o protestantismo e o desenvolvimento do capital
 
 # Conceito de vocação
 
-A vocação, entendida como um chamando divino para o trabalho, foi apresentada como base do modelo sistema econômico capitalista.
+> A vocação, entendida como um chamando divino para o trabalho, foi apresentada como base do modelo sistema econômico capitalista.
+
+1. **A vocação, entendida como um chamado divino para o trabalho**
+
+- Para Weber, a vocação não é simplesmente uma escolha de profissão ou emprego, mas um chamado divino, uma missão a ser cumprida com dedicação e seriedade.
+- Este conceito vem do protestantismo, que ensina que o trabalho tem valor espiritual e é uma maneira de servir a Deus.
+
+2. **Foi apresentada como base do modelo sistema econômico capitalista**
 
 # Influência protestante
 
