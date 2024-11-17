@@ -16,4 +16,6 @@ Espero que este resumo esteja de acordo com o que você precisava! Se houver mai
 
 Immanuel Kant nasceu em 1724 em Konigsberg, na Prússia. Frequentou o Collegium Fredericianum (1732-1740) e estudou na universidade de Konisberg a partir de 1755.
 
-# 
+# Carreira Acadêmica
+
+Iniciou sua carreira docente em 1755, atuando de forma provisória por 15 anos, e foi nomeado de catedrático de lógica e metafísica em 1770. Escreveu um tratado de pedagogia durante esse período.
