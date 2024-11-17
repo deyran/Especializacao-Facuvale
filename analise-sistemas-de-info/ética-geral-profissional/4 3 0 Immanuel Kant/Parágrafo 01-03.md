@@ -19,3 +19,11 @@ Immanuel Kant nasceu em 1724 em Konigsberg, na Prússia. Frequentou o Collegium 
 # Carreira Acadêmica
 
 Iniciou sua carreira docente em 1755, atuando de forma provisória por 15 anos, e foi nomeado de catedrático de lógica e metafísica em 1770. Escreveu um tratado de pedagogia durante esse período.
+
+# Ética iluminista
+
+Kant foi considerado um representante do iluminismo, acreditando no poder da razão e na reforma das instituições. Defendeu que a paz perpétua seria alcançada se todos os países fossem repúblicas.
+
+# Crítica da razão prática
+
+Em sua obra "Crítica da razão prática", kant explora a questão de como um preceito deve ser reconhecido como moral.
