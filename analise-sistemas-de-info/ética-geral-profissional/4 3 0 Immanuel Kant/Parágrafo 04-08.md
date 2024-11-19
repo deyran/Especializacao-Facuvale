@@ -31,13 +31,13 @@ A Lei Moral não tem efetivamente conteúdo; uma vez que acaba sendo uma express
 
 *Significa agir conforme o que é moralmente correto, não por interesses pessoais, recompensas ou medos, mas simplesmente porque é a coisa certa a fazer. É a idéia de agir com base no dever moral puro, reconhecendo e respeitando a moralidade da ação por si mesma.*
 
-# Saúde, riqueza e intelecto
-
-São bons apenas quando bem usados
-
 # Cumprimento do dever
 
-A obediência à lei moral está acima das inclinações pessoais.
+> A obediência à lei moral está acima das inclinações pessoais.
+
+*Por quê à lei moral está acima das inclinações pessoais?*
+
+Porque a moralidade deve ser baseadas em princípios universais e racionais, não em desejos ou interesses individuais.
 
 # Lei moral
 
