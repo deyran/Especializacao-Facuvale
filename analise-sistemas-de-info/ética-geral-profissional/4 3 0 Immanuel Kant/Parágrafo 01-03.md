@@ -37,4 +37,6 @@ Immanuel Kant, nascido em 1724 em Konigsberg, Prússia, viveu até 1804. Ele est
 
 # Crítica da razão prática
 
-Em sua obra "Crítica da razão prática", kant explora a questão de como um preceito deve ser reconhecido como moral.
+> Em sua obra "Crítica da razão prática", kant explora a questão de como um preceito deve ser reconhecido como moral.
+
+*Kant está investigando os critérios ou condições que fazem com que uma regra ou princípio deve ser considerado moralmente válido. Ele está buscando entender o fundamento da moralidade, ou seja, o que torna uma ação ou decisão moralmente correta.*
