@@ -14,4 +14,26 @@ A Lei Moral não tem efetivamente conteúdo; uma vez que acaba sendo uma express
 
 Kant afirma que nada é incondicionalmente bom, exceto a boa vontade, que é motivada pelo cumprimento do dever pelo dever.
 
-#
+# Saúde, riqueza e intelecto
+
+São bons apenas quando bem usados
+
+# Cumprimento do dever
+
+A obediência à lei moral está acima das inclinações pessoais.
+
+# Lei moral
+
+Não se refere às leis positivas, mas à lei moral que deve ser universalizável.
+
+# Imperatvo categórico
+
+O teste para reconhecer a Lei Moral é se a ação pode ser universalizada.
+
+# Exemplo do cumprimento da promessas
+
+Se as promessas não forem cumpridas, perdem seu sentido e a confiança desaparece.
+
+# Formalismo da ética kantiana
+
+A Lei moral é uma expressão puramente formal, baseado no imperativo categórico, considerada por alguns como a vitória da razão e por outros como estéril.
