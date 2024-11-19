@@ -1,6 +1,11 @@
 # 4.3 Immanuel Kant - Parágrafo 04-08
 
+Na obra “Crítica da Razão Prática”, Kant procura responder a questão: “Que forma deve um preceito assumir para ser reconhecido como moral?”
+
 Kant (2008) aborda esta questão a partir de uma asserção inicial de que nada é incondicionalmente bom, exceto a boa vontade. A saúde, a riqueza, o intelecto, são bons apenas quando são bem usados. O único motivo da boa vontade é cumprir o seu dever pelo dever. O que quer que procure fazer, faça porque esse é o seu dever.
+
+**Asserção inicial** - Declaração ou proposição fundamental que serve como ponto de partida para uma discussão ou argumentação.
+
 
 Segundo o filósofo, o homem, constantemente, era colocado a prova no sentido de ter que escolher entre as suas inclinações e o cumprimento do dever, uma vez que a obediência à lei estava acima de todas as coisas. Ao se referir à lei Kant não afirmava que deveria, em todas as circunstâncias, respeitar as leis positivas, mas que o dever obrigava o cumprimento da Lei Moral.
 
@@ -12,7 +17,19 @@ A Lei Moral não tem efetivamente conteúdo; uma vez que acaba sendo uma express
 
 # Boa vontade
 
-Kant afirma que nada é incondicionalmente bom, exceto a boa vontade, que é motivada pelo cumprimento do dever pelo dever.
+> Kant afirma que nada é incondicionalmente bom, exceto a boa vontade, que é motivada pelo cumprimento do dever pelo dever.
+
+1. **Se nada é incondicionalmente bom então a bondade é condicional, se sim condicionada a quê?**
+
+*Para Kant a bondade é condicionada porque depende de como são usadas. Elas são boas apenas quando empregadas de maneira correta e moral. Por exemplo, riqueza pode se usada para ajudar os outros ou para fins egoístas.*
+
+2. **Por que a boa vontade é incondicionalmente boa?**
+
+*A boa vontade é incondicionalmente boa porque, segundo Kant, é boa por si mesma, independentemente dos resultados que produz. A boa vontade é caracterizada pela intenção de agir moralmente e cumprir o dever, sem ser influenciada por circunstâncias externas ou interesses pessoais.
+*
+3. **O que significa "cumprimento do dever pelo dever"?**
+
+*Significa agir conforme o que é moralmente correto, não por interesses pessoais, recompensas ou medos, mas simplesmente porque é a coisa certa a fazer. É a idéia de agir com base no dever moral puro, reconhecendo e respeitando a moralidade da ação por si mesma.*
 
 # Saúde, riqueza e intelecto
 
