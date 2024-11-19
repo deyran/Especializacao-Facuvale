@@ -44,3 +44,13 @@ Immanuel Kant, nascido em 1724 em Konigsberg, Prússia, viveu até 1804. Ele est
 *Para Kant, a validade moral de um princípio está baseado no conceito **imperativo catergórico**. O imperativo categórico é uma regra fundamental que deve ser seguida independentemente das circustâncias ou desejos pessoais.*
 
 *Kant argumenta que a moralidade de uma ação não está em suas consequências, mas na intenção de cumprir o dever pelo dever.*
+
+*Para que um princípio seja considerado moralmente correto, ele deve:*
+
+1. *Ser unversalizável*
+
+*A ação deve ser aplicada universalmente, ou seja, todos poderiam segui-la sem contradições*
+
+2. *Respeitar a dignidade humana*
+
+*Deve tratar a humanidade sempre como um fim em si mesmo e nunca como um meio para atingir outros fins.*
