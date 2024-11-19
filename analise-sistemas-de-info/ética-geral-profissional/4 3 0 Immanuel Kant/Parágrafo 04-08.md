@@ -39,10 +39,6 @@ A Lei Moral não tem efetivamente conteúdo; uma vez que acaba sendo uma express
 
 Porque a moralidade deve ser baseadas em princípios universais e racionais, não em desejos ou interesses individuais.
 
-# Lei moral
-
-Não se refere às leis positivas, mas à lei moral que deve ser universalizável.
-
 # Imperatvo categórico
 
 O teste para reconhecer a Lei Moral é se a ação pode ser universalizada.
