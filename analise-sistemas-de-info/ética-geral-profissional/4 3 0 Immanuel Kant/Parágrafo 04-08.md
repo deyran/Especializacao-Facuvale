@@ -49,4 +49,12 @@ Se as promessas não forem cumpridas, perdem seu sentido e a confiança desapare
 
 # Formalismo da ética kantiana
 
-A Lei moral é uma expressão puramente formal, baseado no imperativo categórico, considerada por alguns como a vitória da razão e por outros como estéril.
+> A Lei moral é uma expressão puramente formal, baseado no imperativo categórico, considerada por alguns como a vitória da razão e por outros como estéril.
+
+1. **Expressão puramente formal**
+
+Expressão puramente formal significa que a Lei Moral de Kant não se preocupa com as consequências específicas das ações, mas sim com a forma das ações. Para Kant, uma ação é moralmente correta se a intenção por trás for cumprir um dever moral, independentemente dos resultados que a ação possa gerar
+
+2. **Imperativo categórico**
+3. **Considerada por alguns como vitória da razão**
+4. **Por outros estéril**
