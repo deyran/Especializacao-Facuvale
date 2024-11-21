@@ -56,5 +56,8 @@ Se as promessas não forem cumpridas, perdem seu sentido e a confiança desapare
 Expressão puramente formal significa que a Lei Moral de Kant não se preocupa com as consequências específicas das ações, mas sim com a forma das ações. Para Kant, uma ação é moralmente correta se a intenção por trás for cumprir um dever moral, independentemente dos resultados que a ação possa gerar
 
 2. **Imperativo categórico**
+
+É o princípio central da ética de Kant. Ela dita que uma ação é moralmente correta se puder ser universalizada, isto é, se todos pudessem adotar a mesma ação sem contradição. Por exemplo, se todos mentissem, a confiança social se desintegraria, então mentir não pode ser universalizado e, portanto, não é moral.
+
 3. **Considerada por alguns como vitória da razão**
 4. **Por outros estéril**
