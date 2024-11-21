@@ -65,3 +65,5 @@ Expressão puramente formal significa que a Lei Moral de Kant não se preocupa c
 Aqueles que veem a ética kantiana como uma vitória da razão acreditam que ela representa o triunfo da racionalidade sobre os impulsos e desejos. A moralidade é baseada na razão pura, o que confere uma base sólida e universal para os princípios éticos.
 
 4. **Por outros estéril**
+
+Críticos argumentam que a ética kantiana é "estéril" porque, ao ser puramente formal, pode parecer desconectada das realidades e contextos humanos. Eles consideram que uma moralidade que não leva em conta as circunstâncias específicas pode ser implacável ou insensível.
