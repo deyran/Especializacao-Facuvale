@@ -60,4 +60,8 @@ Expressão puramente formal significa que a Lei Moral de Kant não se preocupa c
 É o princípio central da ética de Kant. Ela dita que uma ação é moralmente correta se puder ser universalizada, isto é, se todos pudessem adotar a mesma ação sem contradição. Por exemplo, se todos mentissem, a confiança social se desintegraria, então mentir não pode ser universalizado e, portanto, não é moral.
 
 3. **Considerada por alguns como vitória da razão**
+
+
+Aqueles que veem a ética kantiana como uma vitória da razão acreditam que ela representa o triunfo da racionalidade sobre os impulsos e desejos. A moralidade é baseada na razão pura, o que confere uma base sólida e universal para os princípios éticos.
+
 4. **Por outros estéril**
