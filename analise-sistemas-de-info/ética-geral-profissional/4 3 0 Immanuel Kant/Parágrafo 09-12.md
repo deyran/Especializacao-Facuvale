@@ -28,7 +28,7 @@ Kant exemplifica com a mentira, afirmando que não se pode universalizar a menti
 
 # Formalismo da Ética Kantiana
 
-A ética kantiana ignora contextos e particularismo, focando na obediência ao dever moral, que é legislado a priori e independe da experiência pessoal.
+> A ética kantiana ignora contextos e particularismo, focando na obediência ao dever moral, que é legislado a priori e independe da experiência pessoal.
 
 # Natureza da boa ação
 
