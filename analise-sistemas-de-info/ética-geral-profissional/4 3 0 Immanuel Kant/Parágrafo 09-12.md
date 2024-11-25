@@ -18,7 +18,9 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
 
 # Princípios A prior
 
-Os princípios morais são absolutos e certos como os da matemática, sendo inatos e não derivados da experiência.
+> Os princípios morais são absolutos e certos como os da matemática, sendo inatos e não derivados da experiência.
+
+*Em resumo, Kant argumenta que os princípios morais são universais, invariáveis e parte intríseca da natureza humana, semelhantemente as verdades matemáticas, e não depende das circunstâncias ou experiências individuais para serem compreendidos ou aplicados.*
 
 # Imperativo categórico
 
