@@ -1,4 +1,4 @@
-## 4.3 Immanuel Kant - Parágrafo 09-12
+# 4.3 Immanuel Kant - Parágrafo 09-12
 
 Em seu livro Crítica da Razão Prática (2008), Kant considera que a religião se baseia, não na ciência e na teologia, mas, sim, na moral. Mas para isso a base moral da religião deve ser absoluta e não derivada da experiência sensorial ou da dedução. É preciso encontrar uma ética universal e necessária.
 
@@ -12,7 +12,9 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
 
 # Base da religião
 
-Kant argumenta que a religião deve basear-se na moralidade e não na ciência ou tecnologia, necessitando de uma ética universal.
+> Kant argumenta que a religião deve basear-se na moralidade e não na ciência ou tecnologia, necessitando de uma ética universal.
+
+*Kant argumenta que a base da religião deve ser a moralidade, e não a ciência ou a tecnologia. Isso significa que, para ele, os princípios e os fundamentos morais são mais importantes para a religião do que descobertas científicas ou dogmas teológicos. Ele acredita que a moralidade é universal e necessária, ou seja, deve ser aplicável a todas as pessoas, em todas as situações, sem depender de experiências sensoriais ou deduções racionais.*
 
 # Princípios A prior
 
