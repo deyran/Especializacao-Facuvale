@@ -38,7 +38,7 @@ Na obra “Crítica da Razão Prática”, Kant procura responder a questão: �
     2. Poder exercídos de acordo com leis
     3. Participação dos cidadãos
     
-- *Em seu ensaio "À paz perpétua", Kant argumenta que as repúblicas formariam uma federação de estados pacíficos, onde o direito e a justiça prevaleceriam sobre a guerra e o conflito*
+- *Em seu ensaio "À paz perpétua", Kant argumenta que as repúblicas formariam uma federação de estados pacíficos, onde o **direito** e a **justiça** prevaleceriam sobre a guerra e o conflito*
 
 # Crítica da razão prática
 
