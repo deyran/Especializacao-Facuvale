@@ -22,15 +22,15 @@ Na obra “Crítica da Razão Prática”, Kant procura responder a questão: �
 
 > Kant foi considerado um representante do iluminismo, acreditando no poder da razão e na reforma das instituições. Defendeu que a paz perpétua seria alcançada se todos os países fossem repúblicas.
 
-1. **Por que Kant foi considerado um representante do iluminismo?**
+1. **Kant foi considerado um representante do iluminismo**
 
 *Immanuel Kant é frequentemente associado ao iluminismo porque ele defendia a autônomia da razão humana e a capacidade de cada indivíduo pensar por si mesmo. Ele incentivava a busca pelo conhecimento e a valorização do uso crítico e racional da sua mente.*
 
-2. **Poderia explicar melhor a sentença: "acreditando no poder da razão e na reforma das instituições"**
+2. **acreditando no poder da razão e na reforma das instituições**
 
 *Kant argumentava que, ao aplicar a razão às instituições (como governo, a educação, e a justiça), era possível reformá-las e torná-las mais justas, eficientes e alinhadas com princípios éticos, isto é, uma sociedade mais iluminada e mais equitativa.*
 
-3. **Poderia explicar melhor a sentença: "Defendeu que a paz perpétua seria alcançada se todos os países fossem repúblicas."**
+3. **Defendeu que a paz perpétua seria alcançada se todos os países fossem repúblicas.**
 
 - *Para Kant república refere-se ao um sistema de governo baseados em princípios de liberdade, igualdade e justiça, onde o poder é exercido de acordo com leis e a participação dos cidadãos.*
 - *Em seu ensaio "À paz perpétua", Kant argumenta que as repúblicas formariam uma federação de estados pacíficos, onde o direito e a justiça prevaleceriam sobre a guerra e o conflito*
