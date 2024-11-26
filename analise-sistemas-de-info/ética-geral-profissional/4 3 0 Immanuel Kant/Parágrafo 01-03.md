@@ -6,13 +6,17 @@ A Ética de Kant foi considerada, durante muito tempo, como referência da étic
 
 Na obra “Crítica da Razão Prática”, Kant procura responder a questão: “Que forma deve um preceito assumir para ser reconhecido como moral?”
 
-# Nascimento e educação
+# Nascimento, educação carreira acadêmica
 
-> Immanuel Kant nasceu em 1724 em Konigsberg, na Prússia. Frequentou o Collegium Fredericianum (1732-1740) e estudou na universidade de Konisberg a partir de 1755.
+> Immanuel Kant nasceu em 1724 em Konigsberg, na Prússia. Frequentou o Collegium Fredericianum (1732-1740). Na universidade de Konisberg a partir de 1755 teve as seguintes realizações:
 
-# Carreira Acadêmica
+1. Bacharelado em Artes (BA)
+2. Mestrado em Artes (MA)
+3. Doutorado em Filosofia (PhD)
+4. Docente por 15 anos.
+5. Nomeado catedrático de lógica e metafísica.
+6. Escreveu tratado de pedagogia
 
-> Iniciou sua carreira docente em 1755, atuando de forma provisória por 15 anos, e foi nomeado de catedrático de lógica e metafísica em 1770. Escreveu um tratado de pedagogia durante esse período.
 
 # Ética iluminista
 
@@ -20,7 +24,7 @@ Na obra “Crítica da Razão Prática”, Kant procura responder a questão: �
 
 1. **Por que Kant foi considerado um representante do iluminismo?**
 
-*Immanuel Kant é frequentemente associado ao iluminismo porque ele defendia a autônomia da razão humana e a capacidade de cada indivíduo pensar por si mesmo. Ele incentivaca a busca pelo conhecimento e a valorização do uso crítico e racional da sua mente.*
+*Immanuel Kant é frequentemente associado ao iluminismo porque ele defendia a autônomia da razão humana e a capacidade de cada indivíduo pensar por si mesmo. Ele incentivava a busca pelo conhecimento e a valorização do uso crítico e racional da sua mente.*
 
 2. **Poderia explicar melhor a sentença: "acreditando no poder da razão e na reforma das instituições"**
 
@@ -28,7 +32,7 @@ Na obra “Crítica da Razão Prática”, Kant procura responder a questão: �
 
 3. **Poderia explicar melhor a sentença: "Defendeu que a paz perpétua seria alcançada se todos os países fossem repúblicas."**
 
-- *Para Kant república refere-se ao um sistema de governo baseados em princípios de liberadade, igualdade e justiça, onde o poder é exercido de acordo com leis e a participação dos cidadãos.*
+- *Para Kant república refere-se ao um sistema de governo baseados em princípios de liberdade, igualdade e justiça, onde o poder é exercido de acordo com leis e a participação dos cidadãos.*
 - *Em seu ensaio "À paz perpétua", Kant argumenta que as repúblicas formariam uma federação de estados pacíficos, onde o direito e a justiça prevaleceriam sobre a guerra e o conflito*
 
 # Crítica da razão prática
