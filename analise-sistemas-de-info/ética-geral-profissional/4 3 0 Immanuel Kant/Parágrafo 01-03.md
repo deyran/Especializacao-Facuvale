@@ -6,10 +6,6 @@ A Ética de Kant foi considerada, durante muito tempo, como referência da étic
 
 Na obra “Crítica da Razão Prática”, Kant procura responder a questão: “Que forma deve um preceito assumir para ser reconhecido como moral?”
 
-# Resumo
-
-Immanuel Kant, nascido em 1724 em Konigsberg, Prússia, viveu até 1804. Ele estudou no Collegium Fredericianum e na Universidade de Konigsberg, onde se tornou professor de lógica e metafísica em 1770. Kant foi um importante representante do iluminismo, acreditando no poder da razão e na reforma das instituições, defendendo que a paz perpétua seria garantida com repúblicas. Em sua obra "Crítica da Razão Prática", ele investiga a natureza dos preceitos morais.
-
 # Nascimento e educação
 
 > Immanuel Kant nasceu em 1724 em Konigsberg, na Prússia. Frequentou o Collegium Fredericianum (1732-1740) e estudou na universidade de Konisberg a partir de 1755.
