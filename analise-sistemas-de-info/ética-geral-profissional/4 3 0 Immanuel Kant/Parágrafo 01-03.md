@@ -32,7 +32,12 @@ Na obra “Crítica da Razão Prática”, Kant procura responder a questão: �
 
 3. **Defendeu que a paz perpétua seria alcançada se todos os países fossem repúblicas.**
 
-- *Para Kant república refere-se ao um sistema de governo baseados em princípios de liberdade, igualdade e justiça, onde o poder é exercido de acordo com leis e a participação dos cidadãos.*
+- *Para Kant, república tem as seguintes características:*
+  
+    1. Baseados em princípios como liberdade, igualdade e justiça
+    2. Poder exercídos de acordo com leis
+    3. Participação dos cidadãos
+    
 - *Em seu ensaio "À paz perpétua", Kant argumenta que as repúblicas formariam uma federação de estados pacíficos, onde o direito e a justiça prevaleceriam sobre a guerra e o conflito*
 
 # Crítica da razão prática
