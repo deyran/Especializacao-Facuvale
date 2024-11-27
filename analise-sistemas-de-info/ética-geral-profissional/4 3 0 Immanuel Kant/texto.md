@@ -42,7 +42,17 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
    
 5. “obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins” (fórmula do reino dos fins).
 
-O imperativo categórico kantiano tem sido objeto de várias críticas: a objeção sociológica considera que ele é a matriz de uma ética burguesa; a objeção teológica afirma que é o ponto culminante de uma ética autônoma que atribui ao homem a possibilidade de encontrar o bem sem a inspiração divina; a objeção psicológica afirma que ele faz depender a ética exclusivamente da vontade; a objeção filosófica afirma que é um imperativo inteiramente subordinado à razão, que pode ser contrário aos imperativos da vida. Decorrente do imperativo kantiano é a crença de que cada um de nós é um agente moral autônomo, entregue apenas à autoridade da razão e sem a presença de nenhuma autoridade externa, nem mesmo divina, capaz de proporcionar um critério objetivo para a moralidade. A ética kantiana  "faz do indivíduo o soberano moral; torna-o capaz de rejeitar todas as autoridades externas. Deixa o indivíduo livre para perseguir tudo aquilo que ele quiser, sem sugerir que ele deve fazer outra coisa. Os exemplos típicos do imperativo categórico kantiano dizem-nos o que não fazer: não quebrar as promessas, não dizer mentiras, não cometer suicídio, etc. Mas em relação às atividades que devemos realizar e aos fins que devemos perseguir, o imperativo categórico parece ficar em silêncio". (MacIntyre, 1998, p.197)
+O imperativo categórico kantiano tem sido objeto de várias críticas: 
+
+1. a objeção sociológica considera que ele é a matriz de uma ética burguesa; 
+   
+2. a objeção teológica afirma que é o ponto culminante de uma ética autônoma que atribui ao homem a possibilidade de encontrar o bem sem a inspiração divina; 
+   
+3. a objeção psicológica afirma que ele faz depender a ética exclusivamente da vontade; 
+   
+4. a objeção filosófica afirma que é um imperativo inteiramente subordinado à razão, que pode ser contrário aos imperativos da vida. 
+
+Decorrente do imperativo kantiano é a crença de que cada um de nós é um agente moral autônomo, entregue apenas à autoridade da razão e sem a presença de nenhuma autoridade externa, nem mesmo divina, capaz de proporcionar um critério objetivo para a moralidade. A ética kantiana  "faz do indivíduo o soberano moral; torna-o capaz de rejeitar todas as autoridades externas. Deixa o indivíduo livre para perseguir tudo aquilo que ele quiser, sem sugerir que ele deve fazer outra coisa. Os exemplos típicos do imperativo categórico kantiano dizem-nos o que não fazer: não quebrar as promessas, não dizer mentiras, não cometer suicídio, etc. Mas em relação às atividades que devemos realizar e aos fins que devemos perseguir, o imperativo categórico parece ficar em silêncio". (MacIntyre, 1998, p.197)
 
 O teste kantiano para uma verdadeira máxima moral é o teste da universalidade. Com esse teste não há lugar para a existência de verdadeiros conteúdos morais, porque a noção kantiana do dever é tão formal que pode admitir quase todos os conteúdos. Kant simpatizava com a revolução francesa e mostra ao longo da sua obra uma clara antipatia para com o servilismo e o paternalismo. Amava acima de tudo a independência de espírito e acreditava no poder libertador da razão e da educação.
 
