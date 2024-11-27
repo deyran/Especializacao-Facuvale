@@ -33,7 +33,7 @@ Ou seja, deve ser aplicável a todas as pessoas, em todas as situações, sem de
 3. Não dependem das circunstâncias ou experiências individuais, pois são conhecidos a priori.
 4. Podem ser universalmente compreendidos e aplicados por todas as pessoas.
 
-# ---Imperativo categórico---
+# Imperativo categórico
 
 Kant exemplifica com a mentira, afirmando que não se pode universalizar a mentira sem destruir a confiança, destacando a natureza incondicional da lei moral.
 
