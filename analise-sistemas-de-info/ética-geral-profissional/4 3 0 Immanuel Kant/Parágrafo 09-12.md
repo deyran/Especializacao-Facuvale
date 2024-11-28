@@ -22,10 +22,17 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
 
 > Os princípios morais são absolutos e certos como os da matemática, sendo inatos e não derivados da experiência.
 
-1. Princípios morais são universais, invariáveis e parte intrínseca da natureza humana.
-2. São semelhantes às verdades matemáticas, sendo, portanto, absolutos e inquestionáveis.
-3. Não dependem das circunstâncias ou experiências individuais, pois são conhecidos a priori.
-4. Podem ser universalmente compreendidos e aplicados por todas as pessoas.
+- *Os princípios morais são absolutos e certos como os da matemática*
+
+1. Princípios morais são universais e invariáveis.
+2. Semelhante à verdades matemáticas, são absolutos e inquestionáveis.
+
+- *Sendos inatos e não derivados da experiência*
+
+1. Princípios morais são intrínsecas da natureza humana.
+2. São conhecidos a priori.
+3. Não dependem das circunstâncias ou experiências individuais.
+4. São compreendidos e aplicados por todos os indivíduos
 
 # Imperativo categórico
 
