@@ -14,15 +14,9 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
 
 > Kant argumenta que a religião deve basear-se na moralidade e não na ciência ou tecnologia, necessitando de uma ética universal.
 
+- *Religião e moralidade*: Para Kant, os princípios e fundamentos morais são mais importantes do que descobertas científicas ou dogmas religiosos. A religião deve ser baseado na moralidade
 
-1. **Religião e moralidade**
-
-O princípios e o fundamentos morais são mais importantes para religião do que descobertas científicas ou dogmas teológicos.
-
-2. **Moralidade universal e necessária**
-
-Ou seja, deve ser aplicável a todas as pessoas, em todas as situações, sem depender de experiências sensoriais ou deduções racionais.
-
+- *Moralidade universal e necessária*: A moralidade deve ser aplicável a todas as pessoas em todas as situações, baseando-se em princípios racionais e não em experiências sensoriais ou deduções empíricas.
 
 # Princípios A prior
 
