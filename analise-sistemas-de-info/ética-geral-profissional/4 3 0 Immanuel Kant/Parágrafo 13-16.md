@@ -39,4 +39,15 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 2. **Categórico**: Absolutos, mandam incondicionalmente como se o ordenado fosse um bem em si.
 
 # Fórmulas do imperativo categórico segundo Kant
+
+1. **Fórmula da lei universal**: Obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal.
+   
+2. **Fórmula da lei da natureza**: Obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da natureza.
+   
+3. **Fórmula do Fim em si mesmo**: Obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio.
+   
+4. **Fórmula da autonomia**: Obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo um lei universal por meio da sua máxima.
+   
+5. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
+
 # Críticas ao imperativo categórico
