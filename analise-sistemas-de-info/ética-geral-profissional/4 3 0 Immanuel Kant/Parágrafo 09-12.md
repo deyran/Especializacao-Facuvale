@@ -48,4 +48,4 @@ Refere-se a idéia de que os princípios morais são absolutos e aplicáveis em 
 
 # Natureza da boa ação
 
-Uma ação é boa pela obediência à lei moral, não pelos resultados. A única coisa incodicionalmente boa é a boa vontade, que obedece a lei moral independentemente de suas consequências.
+> Uma ação é boa pela obediência à lei moral, não pelos resultados. A única coisa incodicionalmente boa é a boa vontade, que obedece a lei moral independentemente de suas consequências.
