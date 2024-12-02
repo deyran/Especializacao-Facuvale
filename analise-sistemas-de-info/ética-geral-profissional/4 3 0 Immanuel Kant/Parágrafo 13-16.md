@@ -25,3 +25,8 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 3. a objeção psicológica afirma que ele faz depender a ética exclusivamente da vontade; 
    
 4. a objeção filosófica afirma que é um imperativo inteiramente subordinado à razão, que pode ser contrário aos imperativos da vida. 
+
+# Imperativo categórico
+# Tipos de imperativos
+# Fórmulas do imperativo categórico segundo Kant
+# Críticas ao imperativo categórico
