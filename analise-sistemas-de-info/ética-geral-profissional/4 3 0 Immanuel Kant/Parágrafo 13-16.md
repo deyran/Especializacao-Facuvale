@@ -1,4 +1,4 @@
-# 4.3 Immanuel Kant - Parágrafo 13-15
+# 4.3 Immanuel Kant - Parágrafo 13-16
 
 O imperativo categórico obriga, incondicionalmente, um proceder para consigo e para com os outros sempre como um fim e nunca como um meio.
 
@@ -15,3 +15,13 @@ Kant, op. cit., formula o imperativo categórico de várias maneiras:
 4. “obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo uma lei universal por meio da sua máxima” (fórmula da autonomia);
    
 5. “obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins” (fórmula do reino dos fins).
+
+O imperativo categórico kantiano tem sido objeto de várias críticas: 
+
+1. a objeção sociológica considera que ele é a matriz de uma ética burguesa; 
+   
+2. a objeção teológica afirma que é o ponto culminante de uma ética autônoma que atribui ao homem a possibilidade de encontrar o bem sem a inspiração divina; 
+   
+3. a objeção psicológica afirma que ele faz depender a ética exclusivamente da vontade; 
+   
+4. a objeção filosófica afirma que é um imperativo inteiramente subordinado à razão, que pode ser contrário aos imperativos da vida. 

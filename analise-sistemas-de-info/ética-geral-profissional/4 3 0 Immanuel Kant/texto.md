@@ -42,7 +42,7 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
    
 5. “obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins” (fórmula do reino dos fins).
 
-O imperativo categórico kantiano tem sido objeto de várias críticas: 
+**P16** O imperativo categórico kantiano tem sido objeto de várias críticas: 
 
 1. a objeção sociológica considera que ele é a matriz de uma ética burguesa; 
    
