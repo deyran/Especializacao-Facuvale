@@ -33,5 +33,10 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 2. **Objetivo**: Construir uma comunidade racional ideal.
 
 # Tipos de imperativos
+
+1. **Hipotético**: Condicionais.
+   
+2. **Categórico**: Absolutos, mandam incondicionalmente como se o ordenado fosse um bem em si.
+
 # Fórmulas do imperativo categórico segundo Kant
 # Críticas ao imperativo categórico
