@@ -34,9 +34,13 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
 3. Não dependem das circunstâncias ou experiências individuais.
 4. São compreendidos e aplicados por todos os indivíduos
 
-# --Imperativo categórico--
+# Imperativo categórico
 
-Kant exemplifica com a mentira, afirmando que não se pode universalizar a mentira sem destruir a confiança, destacando a natureza incondicional da lei moral.
+> Kant exemplifica com a mentira, afirmando que não se pode universalizar a mentira sem destruir a confiança, destacando a natureza incondicional da lei moral.
+
+*O que seria a "natureza incondicional da lei moral"?*
+
+Refere-se a idéia de que os princípios morais são absolutos e aplicáveis em todas as situações, sem exceções.
 
 # Formalismo da Ética Kantiana
 
