@@ -51,3 +51,8 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 5. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
 
 # Críticas ao imperativo categórico
+
+1. **Sociológica**: Considera que é a matriz de uma ética burguesa.
+2. **Teologia**: Afirma que é o ponto culminante de uma ética autônoma que atrubui ao homem a possibilidade de encontrar o bem sem a inspiração divina.
+3. **Psicológica**: Afirma que faz depender a ética exclusivamente da vontade.
+4. **Filosófica**: Afirma que é um imperativo inteiramente subordinado à razão, que pode ser contrário os imperativos da vida.
