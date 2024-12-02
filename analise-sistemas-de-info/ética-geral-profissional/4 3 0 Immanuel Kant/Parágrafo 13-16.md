@@ -27,6 +27,11 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 4. a objeção filosófica afirma que é um imperativo inteiramente subordinado à razão, que pode ser contrário aos imperativos da vida. 
 
 # Imperativo categórico
+
+1. **Definição**: Obriga incondicionalmente um proceder para consigo e para com os outros sempre como um fim e nunca como um meio.
+   
+2. **Objetivo**: Construir uma comunidade racional ideal.
+
 # Tipos de imperativos
 # Fórmulas do imperativo categórico segundo Kant
 # Críticas ao imperativo categórico
