@@ -1,1 +1,17 @@
 # 4.3 Immanuel Kant - Parágrafo 13-15
+
+O imperativo categórico obriga, incondicionalmente, um proceder para consigo e para com os outros sempre como um fim e nunca como um meio.
+
+Vivendo no respeito pelo imperativo categórico, pode-se construir uma comunidade racional ideal. Mas o que é o imperativo categórico? A linguagem imperativa é prescritiva e os imperativos podem ser hipotéticos ou categóricos. Os primeiros são condicionais, os segundos são absolutos. Para Kant, a concepção de um princípio objetivo, na medida em que se impõe necessariamente a uma vontade chama-se mandamento, e a fórmula deste mandamento chama-se imperativo. Todo o imperativo que manda incondicionalmente como se o ordenado fosse um bem em si, é categórico.
+
+Kant, op. cit., formula o imperativo categórico de várias maneiras:
+
+1. “obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal” (fórmula da lei universal);
+
+2. “obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da Natureza” (fórmula da lei da Natureza);
+   
+3. “obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio” (fórmula do fim em si mesmo);
+   
+4. “obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo uma lei universal por meio da sua máxima” (fórmula da autonomia);
+   
+5. “obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins” (fórmula do reino dos fins).
