@@ -4,7 +4,7 @@ O imperativo categórico obriga, incondicionalmente, um proceder para consigo e 
 
 Vivendo no respeito pelo imperativo categórico, pode-se construir uma comunidade racional ideal. Mas o que é o imperativo categórico? A linguagem imperativa é prescritiva e os imperativos podem ser hipotéticos ou categóricos. Os primeiros são condicionais, os segundos são absolutos. Para Kant, a concepção de um princípio objetivo, na medida em que se impõe necessariamente a uma vontade chama-se mandamento, e a fórmula deste mandamento chama-se imperativo. Todo o imperativo que manda incondicionalmente como se o ordenado fosse um bem em si, é categórico.
 
-Kant, op. cit., formula o imperativo categórico de várias maneiras:
+Kant, op. cit., fórmula o imperativo categórico de várias maneiras:
 
 1. “obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal” (fórmula da lei universal);
 
@@ -40,15 +40,17 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 
 # Fórmulas do imperativo categórico segundo Kant
 
-1. **Fórmula da lei universal**: Obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal.
+1. **Máxima**: São princípios de ações que o sujeito dar a si mesmo.
    
-2. **Fórmula da lei da natureza**: Obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da natureza.
+2. **Fórmula da lei universal**: Obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal.
    
-3. **Fórmula do Fim em si mesmo**: Obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio.
+3. **Fórmula da lei da natureza**: Obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da natureza.
    
-4. **Fórmula da autonomia**: Obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo um lei universal por meio da sua máxima.
+4. **Fórmula do Fim em si mesmo**: Obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio.
    
-5. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
+5. **Fórmula da autonomia**: Obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo um lei universal por meio da sua máxima.
+   
+6. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
 
 # Críticas ao imperativo categórico
 
