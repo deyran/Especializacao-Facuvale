@@ -34,13 +34,17 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 
 # Tipos de imperativos
 
-1. **Hipotético**: Condicionais.
+1. **Imperativo**: O imperativo é diferente da máxima, pois, enquanto a máxima o individuo dá a si mesmo e isso varia de pessoa para pessoa. O imperativo é válido para todos.
    
-2. **Categórico**: Absolutos, mandam incondicionalmente como se o ordenado fosse um bem em si.
+2. **Hipotético**: O imperativo hipotético funciona na hipótese de que você queira algo.
+   
+    Exemplo: **SE** você está com sede, **ENTÃO** beba água.
+
+3. **Categórico**: Absolutos, mandam incondicionalmente como se o ordenado fosse um bem em si.
 
 # Fórmulas do imperativo categórico segundo Kant
 
-1. **Máxima**: São princípios de ações que o sujeito dar a si mesmo.
+1. **Máxima**: São princípios de ações que o sujeito dar a si mesmo. Esses princípios de ações varia de cada um.
    
 2. **Fórmula da lei universal**: Obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal.
    
