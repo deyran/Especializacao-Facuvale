@@ -52,13 +52,18 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
   
 - Essa máxima tem que ser possível de ser aplicada por todos, assim se determina se essa máxima é uma ação ética.
 
-1. **Fórmula da lei da natureza**: Obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da natureza.
+2. **Fórmula da lei da natureza**: “obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da Natureza”.
+
+- *Máxima da tua ação*: Princípio ou motivo por trás da ação que o indivíduo está considerando.
+  
+- *Converter-se pela tua vontande*: Implica que o indivíduo, através da própria vontade ou intenção, deve ser capaz de imaginar que todos poderiam agir segundo essa máxima.
+
    
-2. **Fórmula do Fim em si mesmo**: Obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio.
+1. **Fórmula do Fim em si mesmo**: Obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio.
    
-3. **Fórmula da autonomia**: Obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo um lei universal por meio da sua máxima.
+2. **Fórmula da autonomia**: Obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo um lei universal por meio da sua máxima.
    
-4. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
+3. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
 
 # Críticas ao imperativo categórico
 
