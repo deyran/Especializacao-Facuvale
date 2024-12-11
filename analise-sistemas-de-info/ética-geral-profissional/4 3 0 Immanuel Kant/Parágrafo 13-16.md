@@ -28,13 +28,15 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 
 # Tipos de imperativos
 
-1. **Imperativo**: O imperativo é diferente da máxima, pois, enquanto na máxima o individuo dá a si mesmo, e isso varia de pessoa para pessoa, o imperativo é válido para todos.
+1. **Máxima**: São princípios de ações que o sujeito dar a si mesmo. Esses princípios de ações varia de cada um.
+
+2. **Imperativo**: O imperativo é diferente da máxima, pois, enquanto na máxima o individuo dá a si mesmo, e isso varia de pessoa para pessoa, o imperativo é válido para todos.
    
-2. **Hipotético**: O imperativo hipotético funciona na hipótese de que você queira algo, portanto está condicionado ao querer.
+3. **Hipotético**: O imperativo hipotético funciona na hipótese de que você queira algo, portanto está condicionado ao querer.
    
     Exemplo: **SE** você está com sede, **ENTÃO** beba água.
 
-3. **Categórico**: Absolutos, mandam incondicionalmente como se o ordenado fosse um bem em si.
+4. **Categórico**: Absolutos, mandam incondicionalmente como se o ordenado fosse um bem em si.
 
 # Imperativo categórico
 
@@ -43,20 +45,20 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
 2. **Objetivo**: Construir uma comunidade racional ideal.
 
 # Fórmulas do imperativo categórico segundo Kant
+  
+1. **Fórmula da lei universal**: "Obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal".
 
-1. **Máxima**: São princípios de ações que o sujeito dar a si mesmo. Esses princípios de ações varia de cada um.
-   
-2. **Fórmula da lei universal**: Obra só de acordo com a máxima pela qual possas ao mesmo tempo querer que se converta em lei universal.
+- Em outras palavras: "Aja de forma que tua máxima possa ser traduzida numa lei universal". 
+  
+- Essa máxima tem que ser possível de ser aplicada por todos, assim se determina se essa máxima é uma ação ética.
 
-- Em outras palavras: "Aja de forma que tua máxima possa ser traduzida numa lei universal". Essa máxima tem que ser possível de ser aplicada por todos, assim se determina se essa máxima é uma ação ética.
-
-3. **Fórmula da lei da natureza**: Obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da natureza.
+1. **Fórmula da lei da natureza**: Obra como se a máxima da tua ação devesse converter-se pela tua vontade em lei universal da natureza.
    
-4. **Fórmula do Fim em si mesmo**: Obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio.
+2. **Fórmula do Fim em si mesmo**: Obra de tal maneira que uses a humanidade tanto na tua própria pessoa como na pessoa de qualquer outro, sempre por sua vez como um fim, nunca simplesmente como um meio.
    
-5. **Fórmula da autonomia**: Obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo um lei universal por meio da sua máxima.
+3. **Fórmula da autonomia**: Obra de tal modo que a tua vontade possa considerar-se a si mesma como constituindo um lei universal por meio da sua máxima.
    
-6. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
+4. **Fórmula do reino dos fins**: Obra como se por meio das tuas máximas fosses sempre um membro legislador em um reino universal de fins.
 
 # Críticas ao imperativo categórico
 
