@@ -26,21 +26,21 @@ O imperativo categórico kantiano tem sido objeto de várias críticas:
    
 4. a objeção filosófica afirma que é um imperativo inteiramente subordinado à razão, que pode ser contrário aos imperativos da vida. 
 
-# Imperativo categórico
-
-1. **Definição**: Obriga incondicionalmente um proceder para consigo e para com os outros sempre como um fim e nunca como um meio.
-   
-2. **Objetivo**: Construir uma comunidade racional ideal.
-
 # Tipos de imperativos
 
-1. **Imperativo**: O imperativo é diferente da máxima, pois enquanto a máxima o individuo dá a si mesmo, e isso varia de pessoa para pessoa, o imperativo é válido para todos.
+1. **Imperativo**: O imperativo é diferente da máxima, pois, enquanto na máxima o individuo dá a si mesmo, e isso varia de pessoa para pessoa, o imperativo é válido para todos.
    
 2. **Hipotético**: O imperativo hipotético funciona na hipótese de que você queira algo, portanto está condicionado ao querer.
    
     Exemplo: **SE** você está com sede, **ENTÃO** beba água.
 
 3. **Categórico**: Absolutos, mandam incondicionalmente como se o ordenado fosse um bem em si.
+
+# Imperativo categórico
+
+1. **Definição**: Obriga incondicionalmente um proceder para consigo e para com os outros sempre como um fim e nunca como um meio.
+   
+2. **Objetivo**: Construir uma comunidade racional ideal.
 
 # Fórmulas do imperativo categórico segundo Kant
 
