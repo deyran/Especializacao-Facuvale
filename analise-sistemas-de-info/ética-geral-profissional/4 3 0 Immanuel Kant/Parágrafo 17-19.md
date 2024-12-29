@@ -7,8 +7,17 @@ O teste kantiano para uma verdadeira máxima moral é o teste da universalidade.
 "A vitória aparente da Revolução sobre os exércitos reacionários em 1795 levou Kant a esperar que as repúblicas se espalhariam então por toda a Europa e surgiria a ordem internacional baseada numa democracia sem servidão nem explorações e empenhada na manutenção da paz. A função do governo é, afinal de contas, auxiliar e desenvolver o indivíduo e, não, usar e abusar dele. Todo o homem deve ser respeitado como um fim absoluto em si mesmo - e é um crime contra a sua dignidade de ser humano utilizar-se do homem como mero instrumento para algum fim no exterior". (Durant (s/d). p. 282).
 
 # Agente moral autônomo
+
+Cada indivíduo é um agente moral autônomo, guiado pela razão, sem a necessidade uma autoridade externa, nem mesmo divina, para determinar a moralidade.
+
 # Soberania moral e liberdade
+
+A ética kantiana faz do indivíduo o soberano moral, capaz de rejeitar todas as autoridades externas, deixando-o livre para proseguir seus próprios objetivos, sem ditar o que ele deve fazer.
+
 # Exemplos do imperativo categórico
+
+O Imperativo catergórico kantiano diz o que não fazer, como não quebrar promessas, não mentir e não cometer suicídio, mas não especifica quais atividades realizar ou fins perseguir.
+
 # Teste da universidade
 # Kant e a revolução francesa
 # Visão de Kant sobre o governo
