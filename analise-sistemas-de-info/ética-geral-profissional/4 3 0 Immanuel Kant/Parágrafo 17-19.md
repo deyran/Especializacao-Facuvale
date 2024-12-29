@@ -19,5 +19,13 @@ A ética kantiana faz do indivíduo o soberano moral, capaz de rejeitar todas as
 O Imperativo catergórico kantiano diz o que não fazer, como não quebrar promessas, não mentir e não cometer suicídio, mas não especifica quais atividades realizar ou fins perseguir.
 
 # Teste da universidade
+
+O teste kantiano para uma verdadeira máxima moral é a universalidade, mas este teste é tão formal que pode admitir quase todos os conteúdos morais.
+
 # Kant e a revolução francesa
+
+Kant simpatizava com a revolução francesa, mostrando antipatia pelo servilismo e paternalismo, valorizando a independência do espírito e acreditando no poder libertador da razão e da educação.
+
 # Visão de Kant sobre o governo
+
+Kant esperava que as repúblicas se espalhassem pela Europa, criando uma ordem internacional democrática, sem servidão e nem exploração, comprometida com a paz. Ele acreditava que o governo deve auxiliar e desenvolver o indivíduo, respeitando-o como um fim absoluto em si mesmo.
