@@ -1,0 +1,37 @@
+# 4.3 Immanuel Kant - Parágrafo 20-24
+
+Esta nova forma classifica-se como imperativo categórico ou lei moral em que deste o agir, norma de conduta, possa dar origem a uma norma de conduta universal. Assim, se perante uma ação qualquer pode-se admiti-la sinceramente como norma de conduta geral, essa ação é legítima moralmente; caso contrário, não. Esta lei ou imperativo é puramente formal, uma vez que em si mesma não ordena nada em concreto, mas serve para quaisquer tipos de conteúdo ou atos. Segundo Kant, não se deve praticar um ato porque é bom, mas é bom porque se deve fazer. A moral radica apenas em uma forma do agir - o da razão prática.
+
+Vale ressaltar, que segundo Kant, estas regras são puramente formais, pois não fornecem receita material para nenhuma norma de conduta. Só a intenção formal conta - “age como deve, suceda o que suceder”. A liberdade do Homem consiste no agir por dever. E a reta conduta torna-me digno de felicidade, mas não a garante. Agindo por dever cumpro o papel de ser moral, mas não garanto a minha felicidade, tornando-me apenas digno dela.
+
+Mas, então, qual é a relação existente entre moralidade e felicidade? O pensador afirmava que a felicidade era o bem-estar máximo no nosso estado presente e em toda a nossa condição futura. Contudo, não aceitava que a felicidade fosse sinônimo de satisfação dos nossos desejos e inclinações. A vida moral nos torna dignos de ser felizes, mas não constitui um passaporte para a felicidade. Para ser digno da felicidade era necessário ser virtuoso, mas a virtude baseava-se na autonomia da razão, mas deveria ser desinteressada e não poderia depender de nenhuma autoridade externa, tão pouco poderia ser condicionada pelo medo ou pelo interesse.
+
+A noção de boa vontade apresenta-se como central na ética kantiana, porque era a única coisa que poderia ser considerada boa, sem quaisquer restrições. É a boa vontade que distingue um ato reto de um ato mau. Por fim, segundo Kant, a inteligência, a coragem e o autodomínio não são, em si, qualidades morais, porque podiam ser usadas para o bem ou para o mal.
+
+# Imperativo Categórico e Lei Moral
+
+- A lei moral ou imperativo categórico define que uma ação é moralmente legítima se poder ser aceita como norma de conduta universal.
+  
+- Esta lei é formal e não ordena nada em específico, mas pode ser aplicada a qualquer conteúdo ou ato.
+
+# Intenção e Dever Moral
+
+- A moralidade está na intenção de cumprir o dever, e não na natureza boa do ato.
+  
+- As regras morais são formais e não fornecem normas de condução específicas.
+  
+- A liberdade em agir por dever, e a conduta reta torna uma pessoa digna de felicidade, mas não a garante.
+
+# Relação entre Moralidade e Felicidade
+
+- A felicidade é vista como um bem-estar máximo, não como satisfação de desejos;
+  
+- A vida moral torna as pessoas dignas de felicidade, mas não garante felicidade;
+  
+- A virtude é baseada na autônomia da razão, deve ser desinteressada e não dependente de autoridade externa ou interesses.
+  
+# Boa Vontade e Qualidades Morais
+
+- A boa vontade é central na ética kantiana e é a única coisa boa sem restrições.
+- A boa vontade distingue atos retos de atos maus. 
+- Inteligência, coragem e autodomínio não são qualidades morais em si, pois podem ser usados para o bem ou para o mal.
