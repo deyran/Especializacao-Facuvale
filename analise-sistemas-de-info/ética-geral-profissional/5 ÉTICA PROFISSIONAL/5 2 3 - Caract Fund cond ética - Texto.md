@@ -45,4 +45,13 @@ Para Platão, a virtude é um conjunto de disposições que contribuem para uma 
 > 5. Humilmdade
 > 6. Resonsabilidade
 
-Assim, contextualizando observa-se que as virtudes intelectuais, estão ligadas à inteligência e as virtudes morais, estão relacionadas ao bem. A virtude intelectual consiste na capacidade de aprender com o diálogo e com a reflexão em busca do verdadeiro conhecimento. A virtude moral, por sua vez, é a ação ou comportamento moral; é o hábito que é considerado bom de acordo com a ética. 
+Assim, contextualizando observa-se que as virtudes intelectuais, estão ligadas à inteligência e as virtudes morais, estão relacionadas ao bem. A virtude intelectual consiste na capacidade de aprender com o diálogo e com a reflexão em busca do verdadeiro conhecimento. A virtude moral, por sua vez, é a ação ou comportamento moral; é o hábito que é considerado bom de acordo com a ética.
+
+> ## Exemplos de virtude:
+>
+> - **Altruísmo**: Preocupação com os interesses do outro de uma forma expontânea e positiva.
+> - **Moralidade**: Conjuntos de valores que conduzem o comportamento às escolhas, às decisões e à ações.
+> - **Virtude**: Pode ser definida como a "excelência humana" ou aquilo que nos faz plenos e autênticos.
+> - **Solidariedade**: Princípios que se aplica às relações sociais orientam a vivência e o convívio em harmonia do indivíduo com os demais.
+> - **Consciência**: Capacidade ou percepção em distinguir o que é certo ou errado de acordo com as virtudes ou a moralidade.
+> - **Responsabilidade ética**: Consenso entre responsabilidade (assumir consquência dos atos praticados) pessoal ou coletivo.
