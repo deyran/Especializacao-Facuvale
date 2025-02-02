@@ -55,3 +55,5 @@ Assim, contextualizando observa-se que as virtudes intelectuais, estão ligadas 
 > - **Solidariedade**: Princípios que se aplica às relações sociais orientam a vivência e o convívio em harmonia do indivíduo com os demais.
 > - **Consciência**: Capacidade ou percepção em distinguir o que é certo ou errado de acordo com as virtudes ou a moralidade.
 > - **Responsabilidade ética**: Consenso entre responsabilidade (assumir consquência dos atos praticados) pessoal ou coletivo.
+
+Para Aristóteles a virtude é aquilo que completa de forma excelente a natureza do ser. Se a virtude do cavalo é correr bem, a do homem é agir conforme a razão, ou seja, segundo o **meio justo** entre duas atitudes ou comportamentos externos. Assim a coragem é o meio justo entre o medo e a temeridade; a temperança entre o desregramento e a insensibilidade; a calma (mansidão) é o justo meio entre a cólera e a apatia.
