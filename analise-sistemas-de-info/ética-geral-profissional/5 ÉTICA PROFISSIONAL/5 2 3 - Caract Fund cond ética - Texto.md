@@ -44,4 +44,5 @@ Para Platão, a virtude é um conjunto de disposições que contribuem para uma 
 > 4. Respeito
 > 5. Humilmdade
 > 6. Resonsabilidade
- 
+
+Assim, contextualizando observa-se que as virtudes intelectuais, estão ligadas à inteligência e as virtudes morais, estão relacionadas ao bem. A virtude intelectual consiste na capacidade de aprender com o diálogo e com a reflexão em busca do verdadeiro conhecimento. A virtude moral, por sua vez, é a ação ou comportamento moral; é o hábito que é considerado bom de acordo com a ética. 
