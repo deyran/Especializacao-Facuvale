@@ -11,3 +11,9 @@ Os estudos sobre o assunto lidam com a compreensão das noções e dos princípi
 Os estudiosos da época faziam crítica da realidade social e, a partir dela, ofereciam ideias e direcionamentos (valores) orientadores para a conduta das pessoas, o que tinha como objetivo evitar os infortúnios que levariam ao desaparecimento do ethos comum.
 
 Assim, a sociedade de posse destas ideias, passou a orientar e educar as novas gerações de acordo com estes valores e muitas vezes, por ser um novo dever, o Estado transforma tais normas em leis, até que tais condutas fossem incorporadas à consciência individual. Dessa forma, progressivamente foram estruturados os valores que hoje consideramos essenciais.
+
+A separação entre o bem comum e o bem individual (o público e o privado), que começa ocorrer durante o período da decadência grega, justifica a necessidade de uma teoria que explicasse a dualidade entre moral e ética.
+
+A atual visão de Ética se deve muito a Platão. A Ética de Platão relaciona-se intimamente com sua filosofia política, pois, segundo o filósofo, a "polis" (cidade-estado) é o terreno próprio para a vida moral. Assim, buscou em seus estudos, um Estado ideal, um estado modelo e utópico, tendo o corpo do ser humano como parâmetro.
+
+O agir ético perpassa a simples reprodução de ações das gerações anteriores e se dá através de uma atividade reflexiva, que orienta a ação a ser seguida, num determinado momento da vida pessoal. É com o surgimento de questionamentos sobre a validade de determinados valores ou costumes, ou mesmo quando a realidade exigia novos valores que pudessem orientar a ética, que surge a necessidade de uma teoria que justificasse este novo agir, já que é impossível uma ação ética sem que o agente dela compreenda sua racionalidade.
