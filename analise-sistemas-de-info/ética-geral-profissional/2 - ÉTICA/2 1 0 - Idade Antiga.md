@@ -1,4 +1,4 @@
-## 2 1 - Idade Antiga
+# 2 1 - Idade Antiga
 
 A idade antiga é representada pelos filósofos Sócrates, Platão e Aristóteles e é nessa época que a ética adquire extremo valor. Esses filósofos se preocupavam com o ser no mundo físico, voltados aos problemas sociais e morais. Embora não haja propriamente coesão no pensamento e doutrina dos três, ainda assim suas ideias tornam-se próximas no sentido da reflexão acerca do homem e da cidade. O estudo da Ética, pode-se dizer, que teve início com os filósofos Sócrates, Platão e Aristóteles.
 
