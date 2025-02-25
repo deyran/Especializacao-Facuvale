@@ -15,8 +15,30 @@ Em seu livro Crítica da Razão Prática (2008), Kant considera que a religião 
 ## Base moral da religião
 
 - Kant considera que a base religião está na moral e não na ciência ou tecnologia.
+  
+- A base moral da religião deve ser absoluta e não derivada da experiência sensorial ou dedução.
+  
+- Portanto, a moralidade deve ser universal e necessária, sem depender das variações individuais ou culturais.
 
 ## Princípios a priori da moral
+
+Os princípios morais, assim como os princípios matemáticos, são absolutos e certos independentemente da experiência. Portanto, ambos são universais e necessários.
+
 ## Razão pura pode ser prática
+
+- A razão pura pode ser prática, pois determina a vontade humana sem depender de influências empíricas.
+  
+- Portanto, a moralidade está enraizada na razão humana e não nas experiências externas.
+
 ## Senso moral inato
 ## Imperativo absoluto e categórico
+
+-----------
+Senso moral inato
+Kant defende que o senso moral é inato, ou seja, não é derivado da experiência. Isso significa que os seres humanos possuem uma capacidade moral intrínseca, que não é adquirida através da experiência, mas é parte da natureza humana.
+
+Imperativo absoluto e categórico
+O imperativo moral, que serve de base para a religião segundo Kant, deve ser absoluto e categórico. Um imperativo categórico é uma lei moral que deve ser seguida incondicionalmente, independentemente de desejos ou circunstâncias. Ele é universal e aplicável a todos, sem exceções.
+
+Se precisar de mais detalhes sobre algum desses pontos ou quiser discutir outras ideias, estou por aqui!
+
