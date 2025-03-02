@@ -1,4 +1,4 @@
-# 2 1 1 - Sócrates
+# 2 1 2 - Sócrates
 
 Sócrates, Platão e Aristóteles são os pensadores gregos mais estudados e citados no campo da Ética. De um modo geral, afirmavam que a conduta do ser humano deveria ser pautada no equilíbrio, a fim de evitar a falta de ética. Pregavam a virtude, a estreiteza moral e outras atitudes voltadas para ética.
 

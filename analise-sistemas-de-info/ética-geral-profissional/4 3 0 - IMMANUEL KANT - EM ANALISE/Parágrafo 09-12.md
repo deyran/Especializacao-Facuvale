@@ -10,7 +10,7 @@ Este exemplo ilustra o formalismo da ética kantiana, que levado às últimas co
 
 Em seu livro Crítica da Razão Prática (2008), Kant considera que a religião se baseia, não na ciência e na teologia, mas, sim, na moral. Mas para isso a base moral da religião deve ser absoluta e não derivada da experiência sensorial ou da dedução. É preciso encontrar uma ética universal e necessária.
 
-"Os princípios a priori da moral são absolutos e certos como os da matemática. Devemos mostrar que a razão pura pode ser prática, isto é, pode por si mesma determinar à vontade, independentemente de qualquer coisa empírica e que o senso moral é inato e não derivado da experiência. O imperativo moral requerido para base da religião deve ser um imperativo absoluto e categórico" (Durant (s/d). p. 274).
+> Os princípios a priori da moral são absolutos e certos como os da matemática. Devemos mostrar que a razão pura pode ser prática, isto é, pode por si mesma determinar à vontade, independentemente de qualquer coisa empírica e que o senso moral é inato e não derivado da experiência. O imperativo moral requerido para base da religião deve ser um imperativo absoluto e categórico" (Durant (s/d). p. 274).
 
 ## Base moral da religião
 
@@ -31,14 +31,9 @@ Os princípios morais, assim como os princípios matemáticos, são absolutos e 
 - Portanto, a moralidade está enraizada na razão humana e não nas experiências externas.
 
 ## Senso moral inato
+
+Kant defende que o senso moral é inato, ou seja, não é derivado da exeperiência. Isso significa que os seres humanos possuem uma capacidade moral intrínseca, que não é adquirida através da experiência, mas é parte da natureza humana.
+
 ## Imperativo absoluto e categórico
 
------------
-Senso moral inato
-Kant defende que o senso moral é inato, ou seja, não é derivado da experiência. Isso significa que os seres humanos possuem uma capacidade moral intrínseca, que não é adquirida através da experiência, mas é parte da natureza humana.
-
-Imperativo absoluto e categórico
-O imperativo moral, que serve de base para a religião segundo Kant, deve ser absoluto e categórico. Um imperativo categórico é uma lei moral que deve ser seguida incondicionalmente, independentemente de desejos ou circunstâncias. Ele é universal e aplicável a todos, sem exceções.
-
-Se precisar de mais detalhes sobre algum desses pontos ou quiser discutir outras ideias, estou por aqui!
-
+O imperativo moral, que serve de base para religião segundo Kant, deve ser absoluto e categórico. Um imperativo categórico é uma lei moral que deve ser seguida incodicionalmente, independentemente de desejos ou circunstâncias. Ela é universal e aplicável a todos, sem exceções.
