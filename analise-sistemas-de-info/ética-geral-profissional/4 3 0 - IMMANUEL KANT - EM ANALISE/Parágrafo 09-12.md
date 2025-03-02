@@ -13,15 +13,9 @@ Em seu livro Crítica da Razão Prática (2008), Kant considera que a religião 
 - Assim como as verdades matemática são deduzidas de princípios lógicos e universais, a moralidade kantiana também deve se basear em princípios lógico e universais.
 - Portanto, a moralidade deve ser universal e necessária, sem depender das variações individuais ou culturais.
 
-## Princípios a priori da moral
-
-Os princípios morais, assim como os princípios matemáticos, são absolutos e certos independentemente da experiência. Portanto, ambos são universais e necessários.
-
 ## Razão pura pode ser prática
 
-- A razão pura pode ser prática, pois determina a vontade humana sem depender de influências empíricas.
-  
-- Portanto, a moralidade está enraizada na razão humana e não nas experiências externas.
+Uma vez que a lei moral, baseada no imperativo categórico, é absoluta, podemos concluir que a razão pura, prática, determina a vontade humana independentemente de qualquer influência, incluindo as empíricas. Portanto, a moralidade está fundamentada na razão humana, que é acessível a todos os seres racionais, e não em experiências externas ou contingentes.
 
 ## Senso moral inato
 
