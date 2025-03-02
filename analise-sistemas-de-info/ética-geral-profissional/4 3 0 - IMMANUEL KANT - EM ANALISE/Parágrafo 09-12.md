@@ -8,10 +8,9 @@ Em seu livro Crítica da Razão Prática (2008), Kant considera que a religião 
 
 ## Base moral da religião
 
-- Kant considera que a base religião está na moral e não na ciência ou tecnologia.
-  
+- Kant considera que a base da religião está na moral e não na ciência ou tecnologia.
 - A base moral da religião deve ser absoluta e não derivada da experiência sensorial ou dedução.
-  
+- Assim como as verdades matemática são deduzidas de princípios lógicos e universais, a moralidade kantiana também deve se basear em princípios lógico e universais.
 - Portanto, a moralidade deve ser universal e necessária, sem depender das variações individuais ou culturais.
 
 ## Princípios a priori da moral
