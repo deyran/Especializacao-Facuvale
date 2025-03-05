@@ -15,3 +15,5 @@ O dicionário Aurélio (2010) define moral como sendo "de acordo com os bons cos
 Pode-se concluir que uma atitude moral é uma ação positiva, uma atitude imoral é uma ação negativa e uma atitude amoral é uma ação neutra. Dessa forma, no âmbito da moral, decidir como agir é uma questão de prática, enquanto que no âmbito da ética, é refletir sobre as ações e as implicações sobre a felicidade humana.
 
 A forma concreta como a ética é vivida depende de cada cultura, que é sempre diferente uma da outra. Um indígena, um chinês, um africano vivem de um jeito o amor, o cuidado, a solidariedade e o perdão e a esse jeito diferente chamamos de moral.
+
+Existe só uma Ética e ela é para todos. Já a Moral existe muitas e é consoante com as maneiras diferentes de como os seres humanos organizam a vida. Exemplificando praticamente: o importante é ter uma casa (ética); o estilo e a maneira de construí-la pode variar (moral); pode ser simples, rústica, moderna, colonial, gótica, mas deve ser casa habitável. É assim é com a ética e com a moral.
