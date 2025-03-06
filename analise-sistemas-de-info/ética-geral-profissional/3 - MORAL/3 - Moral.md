@@ -19,3 +19,5 @@ A forma concreta como a ética é vivida depende de cada cultura, que é sempre 
 Existe só uma Ética e ela é para todos. Já a Moral existe muitas e é consoante com as maneiras diferentes de como os seres humanos organizam a vida. Exemplificando praticamente: o importante é ter uma casa (ética); o estilo e a maneira de construí-la pode variar (moral); pode ser simples, rústica, moderna, colonial, gótica, mas deve ser casa habitável. É assim é com a ética e com a moral.
 
 Vale destacar que a moral não se reduz apenas ao seu aspecto social, pois a medida em que desenvolvemos nossa reflexão crítica, passamos a questionar os valores herdados, para então assim decidir se aceitamos ou não as normas. A ética se move historicamente, se amplia e se adensa. A ética tanto quanto a moral não são um conjunto de verdades fixas e imutáveis.
+
+Por isso, pode-se considerar que entre a Moral e a Ética há uma tensão permanente, já que a ação moral busca uma compreensão e uma justificação crítica e universal e, a Ética exerce uma permanente vigilância crítica sobre a Moral para reforçá-la ou transformá-la.
