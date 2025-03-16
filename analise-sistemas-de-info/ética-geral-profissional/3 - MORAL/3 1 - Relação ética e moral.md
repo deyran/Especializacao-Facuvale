@@ -1,3 +1,7 @@
 # 3 1 - Relação ética e moral
 
 Frequentemente se confunde ética com moral e isso tem uma razão de ser. É que a palavra "moral" vem do latim "mos" (singular) e "mores" (plural), que significa "costumes" e a palavra "ética" vem do grego e possui o mesmo significado, ou seja, "costumes" e por isso, utiliza-se a expressão "bons costumes" como sinônimo de moral ou moralidade.
+
+A moral está mais relacionada às crenças estruturadas em valores acumulados desde a mais tenra infância e transmitidos pelos grupos sociais de interação afetiva, tais como a família e a igreja. Está diretamente relacionada à consciência de que é o "lócus" privilegiado dos valores, enquanto a Ética é a exteriorização da conduta humana em sociedade.
+
+Sendo cultural, a moral é o conjunto de regras que são impostas às pessoas pelo grupo que pertencem, numa ação coletiva, que tendem a agir de determinada maneira, que são consolidadas através de práticas e costumes observadas no geral, muitas vezes devido ao receio de uma reprovação social (a pressão é externa). Assim, partindo deste pressuposto, considera-se que todo ser humano é moral ao cumprir as normas de conduta oriundas de um conjunto de crenças inquestionáveis existentes dentro de uma cultura.
