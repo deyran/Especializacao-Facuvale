@@ -6,3 +6,5 @@ Diante deste entendimento, o processo de desenvolvimento de software ou simplesm
 
 Assim, no processo de software são estabelecidos os métodos (o que fazer), as ferramentas (material a ser utilizado), e os procedimentos (como fazer) de modo garantir que o produto alcance o resultado planejado (PRESSMAN, 2011).
 
+É justamente pelo desenvolvimento de um bom processo de software que se pretende alcançar a qualidade do produto desenvolvido e/ou evoluído, o que por sua vez requer organização e definição de ações atuantes para o alcance de agilidade e transformação tecnológica, considerando o contexto de prazo e assertividade do produto (WAZLAWICK, 2013).
+
