@@ -17,3 +17,21 @@ Era destaque à época a questão referente aos defeitos de software em face do 
 Além deste fato, a comunicação entre o cliente e a TI era precária ou inexistente, acarretando numa série de falhas no desenvolvimento pelo fato de a equipe de tecnologia ter dificuldade em compreender as reais necessidades a serem atendidas pelos softwares, levando a correções praticamente infinitas (WAZLAWICK, 2013).
 
 Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que permitissem proceder com a definição de estimativas de maior precisão em relação ao software desenvolvido e entregue, o que efetivamente impactava na possibilidade de se prospectar a necessidade de treinamentos  de manutenções preventivas aos sistemas (SOMMERVILLE, 2011).
+
+Assim a crise de software impulsionou o processo de software, e este, por sua vez, passou a englobar atividades fundamentais voltadas ao desenvolvimento e/ou evolução em um processo de software, como mostrado a seguir:
+
+1. *Especificação de Software*
+   
+Atividades em que se define as funcionalidades que devem ser atendidas pelo software e possíveis restrições que podem ser interpostas ao projeto.
+
+2. *Projeto e implantação de Software*
+
+Atividade longa que parte das especificações definidas anteriormente e se volta ao desenvolvimento do software.
+
+3. *Validação de Software*
+
+Atividade de validação da ferramenta desenvolvida, no intuito de se atestar se a solução realiza o que fora solicitado pelo cliente.
+
+4. *Evolução de Software*
+
+Atividade de ajuste com mudanças voltadas a garantir total atendimento às necessidades do cliente.
