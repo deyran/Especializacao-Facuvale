@@ -53,3 +53,5 @@ Pessoas responsáveis e envolvidas no processo.
 3. *Condições*
 
 Declarações prévias ou posteriores ao processo e que merecem atenção
+
+Cabe destacar, que quando definidos os papeis referente as pessoas responsáveis e envolvidas no processo tem-se um termo técnico comumente utilizado que é o Stakeholder, ou seja, todos aqueles que são responsáveis, possuem interesses e/ou ainda são afetados pela criação de software e pela incorporação deles nas atividades de negócio (OLIVEIRA, 2018).
