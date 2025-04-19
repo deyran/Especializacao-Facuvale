@@ -37,3 +37,19 @@ Atividade de validação da ferramenta desenvolvida, no intuito de se atestar se
 Atividade de ajuste com mudanças voltadas a garantir total atendimento às necessidades do cliente.
 
 Tais ações demonstram o nível de profissionalismo alcançado a partir do processo de software em oposição à ausência de definição do processo como acontecia anteriormente à crise do software.
+
+O processo de software passou a permitir efetivas melhorias em relação ao treinamento de usuários, padronização de desenvolvimento e possibilidade da experiência do usuário se mais compreendida e aperfeiçoada por meio do sistema (WASTLAWICK, 2013).
+
+Neste âmbito, cabe reconhecer que quando um processo de software é especificado também são definidas descrições, como é mostrado logo abaixo:
+
+1. *Produtos*
+
+Resultado que se deseja alcançar com o processo que se encontra em execução
+
+2. *Papéis*
+
+Pessoas responsáveis e envolvidas no processo.
+
+3. *Condições*
+
+Declarações prévias ou posteriores ao processo e que merecem atenção
