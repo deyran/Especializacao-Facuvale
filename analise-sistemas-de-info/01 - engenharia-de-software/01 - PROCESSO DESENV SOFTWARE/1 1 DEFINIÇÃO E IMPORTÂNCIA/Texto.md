@@ -35,3 +35,5 @@ Atividade de validação da ferramenta desenvolvida, no intuito de se atestar se
 4. *Evolução de Software*
 
 Atividade de ajuste com mudanças voltadas a garantir total atendimento às necessidades do cliente.
+
+Tais ações demonstram o nível de profissionalismo alcançado a partir do processo de software em oposição à ausência de definição do processo como acontecia anteriormente à crise do software.
