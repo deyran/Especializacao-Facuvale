@@ -14,6 +14,10 @@ O imperativo categórico de Kant nos diz o que não fazer (mentir, quebrar prome
 
 # Parágrafo 18
 
-O teste kantiano para uma verdadeira máxima moral é o teste da universalidade. Com esse teste não há lugar para a existência de verdadeiros conteúdos morais, porque a noção kantiana do dever é tão formal que pode admitir quase todos os conteúdos. Kant simpatizava com a revolução francesa e mostra ao longo da sua obra uma clara antipatia para com o servilismo e o paternalismo. Amava acima de tudo a independência de espírito e acreditava no poder libertador da razão e da educação.
+- *O teste kantiano para uma verdadeira máxima moral é o teste da universalidade. Com esse teste não há lugar para a existência de verdadeiros conteúdos morais, porque a noção kantiana do dever é tão formal que pode admitir quase todos os conteúdos.*
+
+Para kant, uma regra moral verdadeira deve poder ser aplicada a todos, universalmente. O problema é que essa idéia de "dever" é tão geral que quase qualquer coisa pode se encaixar como uma regra moral, sem realmente dizer o que é certo ou errado em casos específicos. É como ter uma regra que diz "seja bom", mas sem explicar o que significa ser bom.
+
+- *Kant simpatizava com a revolução francesa e mostra ao longo da sua obra uma clara antipatia para com o servilismo e o paternalismo. Amava acima de tudo a independência de espírito e acreditava no poder libertador da razão e da educação.*
 
 # Parágrafo 19
