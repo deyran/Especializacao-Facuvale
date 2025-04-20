@@ -1,7 +1,5 @@
 # 4.3 Immanuel Kant
 
-O teste kantiano para uma verdadeira máxima moral é o teste da universalidade. Com esse teste não há lugar para a existência de verdadeiros conteúdos morais, porque a noção kantiana do dever é tão formal que pode admitir quase todos os conteúdos. Kant simpatizava com a revolução francesa e mostra ao longo da sua obra uma clara antipatia para com o servilismo e o paternalismo. Amava acima de tudo a independência de espírito e acreditava no poder libertador da razão e da educação.
-
 "A vitória aparente da Revolução sobre os exércitos reacionários em 1795 levou Kant a esperar que as repúblicas se espalhariam então por toda a Europa e surgiria a ordem internacional baseada numa democracia sem servidão nem explorações e empenhada na manutenção da paz. A função do governo é, afinal de contas, auxiliar e desenvolver o indivíduo e, não, usar e abusar dele. Todo o homem deve ser respeitado como um fim absoluto em si mesmo - e é um crime contra a sua dignidade de ser humano utilizar-se do homem como mero instrumento para algum fim no exterior". (Durant (s/d). p. 282).
 
 # Parágrafo 17
@@ -15,4 +13,7 @@ Para Kant, cada pessoa decide o que é certo usando a própria razão, sem preci
 O imperativo categórico de Kant nos diz o que não fazer (mentir, quebrar promessas ...), mas não nos diz o que fazer ou quais objetivos buscar na vida. Ele nos deixa livre para escolher nossos próprios caminhos.
 
 # Parágrafo 18
+
+O teste kantiano para uma verdadeira máxima moral é o teste da universalidade. Com esse teste não há lugar para a existência de verdadeiros conteúdos morais, porque a noção kantiana do dever é tão formal que pode admitir quase todos os conteúdos. Kant simpatizava com a revolução francesa e mostra ao longo da sua obra uma clara antipatia para com o servilismo e o paternalismo. Amava acima de tudo a independência de espírito e acreditava no poder libertador da razão e da educação.
+
 # Parágrafo 19
