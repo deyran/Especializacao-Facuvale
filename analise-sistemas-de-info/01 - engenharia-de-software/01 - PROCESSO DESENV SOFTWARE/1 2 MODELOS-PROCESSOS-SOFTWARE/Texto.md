@@ -19,6 +19,9 @@ Etapa que parte do levantamento de requisitos e permite que a equipe de processo
 Etapa de elaboração de modelos mentais e conceituais voltados para solucionar as necessidades do cliente por meio do software.
 
 ### Projeto
+
+Etapa de desenho do produto de software, partindo dos requisitos, ou seja, do que o sistema deverá executar.
+
 ### Implantação
 ### Integração
 ### Testes
