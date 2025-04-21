@@ -22,8 +22,14 @@ Etapa de elaboração de modelos mentais e conceituais voltados para solucionar 
 
 Etapa de desenho do produto de software, partindo dos requisitos, ou seja, do que o sistema deverá executar.
 
-### Implantação
+### Implementação
+
+Etapa de transformação do projeto através da linguagem de programação escolhida, não devendo se fazer completamente dissociada da interação com o cliente.
+
 ### Integração
+
+Etapa em que os módulos desenvolvidos durante a impla
+
 ### Testes
 ### Implantação
 ### Manunteção
