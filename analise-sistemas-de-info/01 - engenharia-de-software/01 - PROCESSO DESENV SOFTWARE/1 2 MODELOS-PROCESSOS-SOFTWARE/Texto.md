@@ -31,5 +31,8 @@ Etapa de transformação do projeto através da linguagem de programação escol
 Etapa em que os módulos desenvolvidos durante a implementação se fazem integradas para que possam trocar dados entre si.
 
 ### Testes
+
+Etapa de verificação quanto ao alcance de objetivos por parte do software e da possibilidade de falhas de execução ou funcionalidades mal dimensionadas.
+
 ### Implantação
 ### Manunteção
