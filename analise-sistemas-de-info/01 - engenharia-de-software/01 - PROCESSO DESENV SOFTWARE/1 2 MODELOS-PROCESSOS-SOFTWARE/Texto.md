@@ -28,7 +28,7 @@ Etapa de transformação do projeto através da linguagem de programação escol
 
 ### Integração
 
-Etapa em que os módulos desenvolvidos durante a impla
+Etapa em que os módulos desenvolvidos durante a implementação se fazem integradas para que possam trocar dados entre si.
 
 ### Testes
 ### Implantação
