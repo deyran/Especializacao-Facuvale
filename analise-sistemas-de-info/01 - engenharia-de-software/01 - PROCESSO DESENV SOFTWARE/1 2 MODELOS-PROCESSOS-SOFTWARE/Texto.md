@@ -11,6 +11,9 @@ Um modelo de processo de software possui em seu bojo estruturas que demonstram a
 Etapa voltada ao levantamento de informações atinentes ao problema que a ferramenta de software se destinará a resolver. Tais informações, ou seja, os requisitos configuram-se como condições, necessidades, características, funcionalidades, restrições e demais aspectos que carecem ser atendidos, necessitando ser devidamente documentados.
 
 ### Análise
+
+Etapa que parte do levantamento de requisitos e permite que a equipe de processo conheça a atividade do usuário, discuta os requisitos levantados e identifique melhorias que carecem de implantação.
+
 ### Abstração e representação
 ### Projeto
 ### Implantação
