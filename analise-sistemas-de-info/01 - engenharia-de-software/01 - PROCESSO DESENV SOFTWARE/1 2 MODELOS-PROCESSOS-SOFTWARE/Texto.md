@@ -12,9 +12,12 @@ Etapa voltada ao levantamento de informações atinentes ao problema que a ferra
 
 ### Análise
 
-Etapa que parte do levantamento de requisitos e permite que a equipe de processo conheça a atividade do usuário, discuta os requisitos levantados e identifique melhorias que carecem de implantação.
+Etapa que parte do levantamento de requisitos e permite que a equipe de processo conheça a atividade do usuário, discuta os requisitos levantados e identifique melhorias que carecem de implantação. 
 
 ### Abstração e representação
+
+Etapa de elaboração de modelos mentais e conceituais voltados para solucionar as necessidades do cliente por meio do software.
+
 ### Projeto
 ### Implantação
 ### Integração
