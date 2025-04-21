@@ -39,3 +39,5 @@ Etapa de verificação quanto ao alcance de objetivos por parte do software e da
 Fase em que estando o sistema finalizado, ele é disseminado pela organização e o desenvolvedor se matém em atenção para necessidade de ajustes em face de questões de usuário ou modelo de negócios.
 
 ### Manunteção
+
+Fase em que após a entrega, faz-se importante a correção de falhas, a melhoria de desempenho e adaptações de acordo com a necessidade do cliente.
