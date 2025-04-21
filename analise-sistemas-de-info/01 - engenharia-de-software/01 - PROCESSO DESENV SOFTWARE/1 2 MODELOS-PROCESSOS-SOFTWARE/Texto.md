@@ -41,3 +41,4 @@ Fase em que estando o sistema finalizado, ele é disseminado pela organização 
 ### Manunteção
 
 Fase em que após a entrega, faz-se importante a correção de falhas, a melhoria de desempenho e adaptações de acordo com a necessidade do cliente.
+
