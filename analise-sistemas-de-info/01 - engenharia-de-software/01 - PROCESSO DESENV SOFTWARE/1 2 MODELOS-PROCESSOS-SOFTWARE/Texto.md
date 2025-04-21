@@ -1,1 +1,3 @@
 # Modelos de processos de software
+
+Um processo de software configura-se em um conjunto de atividades complexas e especializadas, de modo que um modelo de um processo de software representa e fornece, de modo simples, informações e visibilidade acerca do processo em si traduzidas na forma de estruturas/esquematizações fornecedores de uma visão didática de como proceder com as etapas que devem se fazer efetivadas (SOMMERVILLE, 2011; PRESSMAN, 2011).
