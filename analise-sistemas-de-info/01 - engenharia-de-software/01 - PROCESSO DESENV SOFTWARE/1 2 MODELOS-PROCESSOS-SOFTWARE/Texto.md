@@ -35,4 +35,7 @@ Etapa em que os módulos desenvolvidos durante a implementação se fazem integr
 Etapa de verificação quanto ao alcance de objetivos por parte do software e da possibilidade de falhas de execução ou funcionalidades mal dimensionadas.
 
 ### Implantação
+
+Fase em que estando o sistema finalizado, ele é disseminado pela organização e o desenvolvedor se matém em atenção para necessidade de ajustes em face de questões de usuário ou modelo de negócios.
+
 ### Manunteção
