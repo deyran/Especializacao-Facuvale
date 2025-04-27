@@ -11,10 +11,15 @@ Assim, o modelo se aplica plenamente para o levantamento e validação de requis
 > **Etapas do modelo de prototipação**
 >
 > *1º Etapa*: Obtenção de requisitos para o plano de prototipação
+> 
 > *2º Etapa*: Definição geral e rápida do protótipo
+> 
 > *3º Etapa*: Desenvolvimento do protótipo executável
+> 
 > *4º Etapa*: Avaliação do protótipo pelo cliente
+> 
 > *5º Etapa*: Refinamento do protótipo
+> 
 > *6º Etapa*: Construção do produto final
 
 Com sua etapa inicial na etapa de Obtenação de requisitos para o Plano de Prototipação, observa-se que em seu processo cíclico melhorias podem ser incorporadas até que o produto alcance a possibilidade de atender às necessidades do cliente, permitindo que o produto alcance condições de efetivamente implementado em código.
