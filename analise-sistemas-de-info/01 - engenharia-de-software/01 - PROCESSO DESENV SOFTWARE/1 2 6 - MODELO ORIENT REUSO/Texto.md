@@ -20,3 +20,15 @@ Basicamente, são orientados ao reuso os Serviços Web, as coleções de objetos
 
 
 Assim, diminuindo o quantitativo de software a ser desenvolvido, este modelo se aplica na redução de custos e do tempo de execução do projeto, contudo, a possibilidade de que os requisitos não se mantenham sincronizados com as necessidades dos usuários e com os módulos entregues no sistema é elevada, levando por vezes à necessidade de retrabalho e até novos desenvolvimento de software desde o processo inicial (PRESSMAN, 2011; HIMERA, 2012; PRESSMAN; MAXIM, 2016; PETERS, 2001).
+
+Assim,  em si tratando de manutenção de software, ou seja, da necessidade de ajustes após a entrega do produto em si, cabe destacar os tipos de manutenção existentes, os quais seguem especificadas abaixo:
+
+1. *Corretiva*: Efetivada após a entrega do produto no intuito de corrigir um erro descoberto em garantia de pleno funcionamento do Sistema.
+   
+2. *Adaptativa*: Efetivada após a entrega do produto visando estabelecer ajustes/alterações que garantam o uso do sistema.
+
+3. *Perfectiva*: Efetivada após a entrega do produto no intuito de melhorar o desempenho e/ou a manutenibilidade.
+
+4. *Preventiva*: Efetivada após a entrega do produto para reparo de falhas antes que o sistema se faça afetado.
+
+Sendo a manuteção um requisito necessário e relacionado diretamente com a qualidade do software (Manutenibilidade), cabe que o processo de software incorpore em seu circlo de execução esta fase, garantindo que o sistema não se torne obsoleto pelo simples fato de sua desatualização.
