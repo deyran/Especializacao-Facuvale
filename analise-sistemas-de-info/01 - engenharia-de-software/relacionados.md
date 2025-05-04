@@ -25,3 +25,8 @@ UNIVESP. Projeto Integrador para Engenharia de Computação IV - Prototipação 
 - Modelo em desenvolvimento incremental (1 2 4 - Modelo em desenvolvimento incremental)
 
 ASSUNTOS SOBRE TECNOLOGIA PARA CONCURSOS PÚBLICOS. Modelo Incremental - Desenvolvimento de Software. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=cu6RpHdp7Wc. Acesso em: 4 de maio de 2025.
+
+
+- Modelo orientado ao Reuso (1 2 6 - Modelo orientado ao Reuso)
+
+FANTINATO, Marcelo. Engenharia de Software - Aula 21 - Visão geral de reúso de software. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=vSXV5egMeU8. Acesso em: 4 de maio de 2025.
