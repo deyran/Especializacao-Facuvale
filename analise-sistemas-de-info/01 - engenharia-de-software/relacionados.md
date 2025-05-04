@@ -20,3 +20,8 @@ TU QUER SABER MAIS?. Engenharia de Software - Modelo em Espiral de Boehm. [Víde
 - *Modelo de prototipação (1 2 3 - MODELO DE PROTOTIPAÇÃO)*
 
 UNIVESP. Projeto Integrador para Engenharia de Computação IV - Prototipação de Software. [Vídeo]. Disponível em: http://www.youtube.com/watch?v=e56sKpuPE0Q. Acesso em: 27 de abril de 2025.
+
+
+- Modelo em desenvolvimento incremental (1 2 4 - Modelo em desenvolvimento incremental)
+
+ASSUNTOS SOBRE TECNOLOGIA PARA CONCURSOS PÚBLICOS. Modelo Incremental - Desenvolvimento de Software. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=cu6RpHdp7Wc. Acesso em: 4 de maio de 2025.
