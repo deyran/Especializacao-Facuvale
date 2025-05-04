@@ -1,11 +1,11 @@
-# Processo de desenvolvimento de software
+# 01 - Processo de desenvolvimento de software
 
 - *Crise do Software (1 1 0 - DEFINIÇÃO E IMPORTÂNCIA)*
 
 FEITOSA, Rafael. Prática de Desenvolvimento de Software: Aula 2 Evolução e Crise do Software. [Vídeo]. Disponível em: https://youtu.be/-s3GyJjuH5g?si=fovaZ985y4mKusLV. Acesso em: 18 de abril de 2025.
 
 
-# Modelos de processos de software
+## Modelos de processos de software
 
 - *Modelo em Cascata (1 2 1 - MODELO EM CASCATA)*
 
@@ -30,3 +30,6 @@ ASSUNTOS SOBRE TECNOLOGIA PARA CONCURSOS PÚBLICOS. Modelo Incremental - Desenvo
 - Modelo orientado ao Reuso (1 2 6 - Modelo orientado ao Reuso)
 
 FANTINATO, Marcelo. Engenharia de Software - Aula 21 - Visão geral de reúso de software. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=vSXV5egMeU8. Acesso em: 4 de maio de 2025.
+
+
+# 02 - Atividades relacionadas ao processo de Desenvolvimento de Software
