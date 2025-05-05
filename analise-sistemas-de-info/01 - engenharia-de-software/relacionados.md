@@ -33,3 +33,16 @@ FANTINATO, Marcelo. Engenharia de Software - Aula 21 - Visão geral de reúso de
 
 
 # 02 - Atividades relacionadas ao processo de Desenvolvimento de Software
+
+## Especificação de software
+
+- O que é Levantamento de Requisitos
+
+FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 08 - Requisitos Não Funcionais. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=VcOeM2AD8Yk. Acesso em: 5 de maio de 2025.
+
+
+- Estudo de viabilidade
+  
+GUIMARÃES, Rubens. Engenharia de Software - Estudo de Viabilidade, conceito e tipos e Análise de Requisitos. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=jVW2-t98z9w. Acesso em: 5 de maio de 2025.
+
+-AAAAAAAA
