@@ -45,4 +45,21 @@ FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 08
   
 GUIMARÃES, Rubens. Engenharia de Software - Estudo de Viabilidade, conceito e tipos e Análise de Requisitos. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=jVW2-t98z9w. Acesso em: 5 de maio de 2025.
 
--AAAAAAAA
+
+- Elicitação de Análise de requisitos
+
+UNIVESP. Engenharia de Software - Aula 07 - Elicitação e análise de requisitos. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=ME0LrcqbeO0. Acesso em: 7 de maio de 2025.
+
+
+- Especificação de requisitos
+
+FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 10 - Validação de Software. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=jrBzkjVaf4E. Acesso em: 7 de maio de 2025.
+
+UNIVESP. Engenharia de Software - Aula 08 - Modelagem de requisitos. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=L9YfkuWNhtk. Acesso em: 7 de maio de 2025.
+
+
+- Validação de requisitos
+
+FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 11 - Arquitetura de Software. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=WOyF1_dEiTA. Acesso em: 7 de maio de 2025.
+
+FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 12 - Padrões de Projeto. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=1Y-1zz6rZxo. Acesso em: 7 de maio de 2025.
