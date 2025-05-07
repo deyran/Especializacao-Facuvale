@@ -27,3 +27,4 @@ Constata se os requisitos especificados serão efetivamente atendidos na ferrame
 
 Cabe o destaque quanto os modos de levantamento de informações junto a clientes/usuários na fase de Estudo de Viabilidade, de modo que estes podem se dar por meio de entrevista, questionário, reuniões, observações, análise documentais (WAZLAWICK, 2013; PRESSMAN, 2011).
 
+Quanto ao processo de Análise de Requisitos, naturalmente serão levantados Requisitos Funcionais e Não Funcionais. Em relação aos Requisitos Funcionais, tem-se que estes retratam as funcionalidades do software no intuito de que se planeje o treinamento dos usuários (Exemplo: dados de cadastros de cliente, dados de cadastro de pedido); já os Requisitos Não Funcionais referem-se às estratégias utilizadas para que o sistema computacional esteja apto a resolver as problemáticas para as quais se fez desenvolvido (exemplo: )
