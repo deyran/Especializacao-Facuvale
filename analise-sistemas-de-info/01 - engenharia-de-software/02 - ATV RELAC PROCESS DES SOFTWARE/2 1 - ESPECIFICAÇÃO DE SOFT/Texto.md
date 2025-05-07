@@ -23,3 +23,7 @@ Tendo estudado a viabilidade e efetuivada a elicitação de requisitos, parti-se
 - **Validação de requisitos**
 
 Constata se os requisitos especificados serão efetivamente atendidos na ferramenta a ser desenvolvida, permitindo a correção das especificações.
+
+
+Cabe o destaque quanto os modos de levantamento de informações junto a clientes/usuários na fase de Estudo de Viabilidade, de modo que estes podem se dar por meio de entrevista, questionário, reuniões, observações, análise documentais (WAZLAWICK, 2013; PRESSMAN, 2011).
+
