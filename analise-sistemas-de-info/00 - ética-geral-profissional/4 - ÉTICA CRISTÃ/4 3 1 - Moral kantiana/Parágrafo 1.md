@@ -1,4 +1,4 @@
-# 4.3.1 Moral kantiana - Paragráfo 1
+# 4.3.1 Moral kantiana - Parárafo 1
 
 A moral kantiana foi concebida por Immanuel Kant (1724-1804), filósofo prussiano. 
 -----------------------------------------------------------------------------------------------
