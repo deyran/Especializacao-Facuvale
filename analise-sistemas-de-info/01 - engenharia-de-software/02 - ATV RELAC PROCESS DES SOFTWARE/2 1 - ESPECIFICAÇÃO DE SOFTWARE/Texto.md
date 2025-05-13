@@ -27,4 +27,10 @@ Constata se os requisitos especificados serão efetivamente atendidos na ferrame
 
 Cabe o destaque quanto os modos de levantamento de informações junto a clientes/usuários na fase de Estudo de Viabilidade, de modo que estes podem se dar por meio de entrevista, questionário, reuniões, observações, análise documentais (WAZLAWICK, 2013; PRESSMAN, 2011).
 
-Quanto ao processo de Análise de Requisitos, naturalmente serão levantados Requisitos Funcionais e Não Funcionais. Em relação aos Requisitos Funcionais, tem-se que estes retratam as funcionalidades do software no intuito de que se planeje o treinamento dos usuários (Exemplo: dados de cadastros de cliente, dados de cadastro de pedido); já os Requisitos Não Funcionais referem-se às estratégias utilizadas para que o sistema computacional esteja apto a resolver as problemáticas para as quais se fez desenvolvido (exemplo: )
+Quanto ao processo de Análise de Requisitos, naturalmente serão levantados Requisitos Funcionais e Não Funcionais. Em relação aos Requisitos Funcionais, tem-se que estes retratam as funcionalidades do software no intuito de que se planeje o treinamento dos usuários (Exemplo: dados de cadastros de cliente, dados de cadastro de pedido); já os Requisitos Não Funcionais referem-se às estratégias utilizadas para que o sistema computacional esteja apto a resolver as problemáticas para as quais se fez desenvolvido (exemplo: Efetivação de login e de autenticação de usuário) (WALAWICK, 2013; VAZQUEZ; SIMÕES, 2016; HIRAMA, 2012).
+
+Isto, se bem definido auxiliará no pleno entendimento das necessidades do cliente/usuário, na manutenção futura do sistema, na redução do esforço desempenhado para o desenvolvimento, na diminuição dos custos e tempos de entrega e na validação final do sistema (WAZLAWICK, 2013; PETERS, 2001).
+
+Em se tratando de Validação de Requisitos, é importante atentar para o papel do cliente/usuário neste processo, pois é justamente o seu feedback que dará ao desenvolvedor o entendimento quanto ao cumprimento dos requisitos funcionais e não funcionais (PRESSMAN, 2011; VAZQUEZ, 2016).
+
+Contudo, cabe destacar que a Especificação de Software não é uma ação que se deve efetivar apenas no início do Processo de Software, sendo importante que durante todo o cumprimento das ações de desenvolvimento do software a especificação se faça presente (PRESSMAN, 2011).
