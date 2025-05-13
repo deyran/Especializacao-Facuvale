@@ -12,7 +12,7 @@ Caso a resposta fosse negativa, esta ação não era digna de um ser racional, n
 O bem ético era um bem em si mesmo. Ao realçar a exigência da autonomia da ação moral, Kant desperta a questão da liberdade ética.
 ------------------------------------------------------------------------------------------------
 
-O conceito de liberdade ética parte da distinção entre ação reflexa e ação deliberada. A ação deliberada é aquela que resulta de uma decisão, de uma escolha; é o mesmo que ação autônoma. A ação reflexa é "instintiva", independe da vontade do agente. 
+O conceito de **liberdade ética parte da distinção entre ação reflexa e ação deliberada**. A ação deliberada é aquela que resulta de uma decisão, de uma escolha; é o mesmo que ação autônoma. A ação reflexa é "instintiva", independe da vontade do agente. 
 ------------------------------------------------------------------------------------------------
 
 Apenas as ações deliberadas podem ser analisadas sob o ponto de vista ético. A exemplo desta situação cita-se o caso gato que mordeu o homem por ter pisado na sua cauda O gato tentou se afastar do que lhe era um mal, mas não podemos dizer que escolheu morder o homem. Logo, não se pode dizer que o gato agiu de forma imoral ou antiética.
