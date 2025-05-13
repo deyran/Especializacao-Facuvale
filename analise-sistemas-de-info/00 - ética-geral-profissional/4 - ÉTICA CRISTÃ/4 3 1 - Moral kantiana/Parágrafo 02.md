@@ -1,6 +1,6 @@
 # 4.3.1 Moral kantiana - Parágrafo 2
 
-Para realizar a autonomia, a ação moral devia obedecer apenas ao imperativo categórico, validando o bom senso interior, que nós temos, que é o de perceber que não somos instrumentos e sim agentes. 
+Para realizar a **autonomia**, a **ação moral** devia obedecer apenas ao **imperativo categórico**, validando o bom senso interior, que nós temos, que é o de perceber que **não somos instrumentos e sim agentes**. 
 ------------------------------------------------------------------------------------------------
 
 Nunca instrumentalizar o homem era a exigência maior do imperativo categórico. Por isso, Kant fornece uma regra para saber se uma decisão obedecia ou não ao imperativo categórico, que é a indagação de si mesmo, se a razão que faz agir de determinada maneira pode ser convertida em lei universal, ou seja, válida para todos os homens. 
