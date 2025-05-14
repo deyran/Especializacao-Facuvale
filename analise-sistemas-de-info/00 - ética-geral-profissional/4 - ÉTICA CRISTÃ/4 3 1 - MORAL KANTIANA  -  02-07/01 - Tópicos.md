@@ -6,7 +6,7 @@ Immanuel Kant ensina que a ação moral é baseada na autônomia, onde o indiví
 
 # Autonomia VS Heteronomia
 
-A ação requer a autônomia do agente, significando obedecer a si mesmo e não algo externo (heteronomia). Moral aristocrática e utilitarista são inválidas eticamente porque dependem de fatores externos.
+A ação requer a autônomia do agente, significando obedecer a si mesmo e não algo externo (heteronomia). A moral aristocrática e utilitarista são inválidas eticamente porque dependem de fatores externos.
 
 # Imperativo Categórico
 
