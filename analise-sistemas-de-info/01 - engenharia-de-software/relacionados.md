@@ -63,3 +63,8 @@ UNIVESP. Engenharia de Software - Aula 08 - Modelagem de requisitos. [Vídeo]. D
 FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 11 - Arquitetura de Software. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=WOyF1_dEiTA. Acesso em: 7 de maio de 2025.
 
 FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 12 - Padrões de Projeto. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=1Y-1zz6rZxo. Acesso em: 7 de maio de 2025.
+
+
+## Projeto e implementação de software
+
+- FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 12 - Projeto de software e Padrões de projeto. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=Zywc5kZyscg. Acesso em: 13 de maio de 2025.
