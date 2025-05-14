@@ -55,7 +55,26 @@ Assim, contextualizando observa-se que as virtudes intelectuais, estão ligadas 
 > - **Solidariedade**: Princípios que se aplica às relações sociais orientam a vivência e o convívio em harmonia do indivíduo com os demais.
 > - **Consciência**: Capacidade ou percepção em distinguir o que é certo ou errado de acordo com as virtudes ou a moralidade.
 > - **Responsabilidade ética**: Consenso entre responsabilidade (assumir consquência dos atos praticados) pessoal ou coletivo.
+=============================================================================================================
 
-Para Aristóteles a virtude é aquilo que completa de forma excelente a natureza do ser. Se a virtude do cavalo é correr bem, a do homem é agir conforme a razão, ou seja, segundo o **meio justo** entre duas atitudes ou comportamentos externos. Assim a coragem é o meio justo entre o medo e a temeridade; a temperança entre o desregramento e a insensibilidade; a calma (mansidão) é o justo meio entre a cólera e a apatia; A liberdade entre a prodigalidade e a avareza; a magnificência é o meio justo entre a falta de gosto e a mesquinhez; a magnanimidade entre vaidade e a humildade; a afabilidade entre obsequiosidade e o espírito conflituoso; a reserva é o justo meio entre a timidez e o desembaraço; a justa indignação é o justo meio entre a inveja e a maledicência; a justiça entre a injustiça por defeito e a injustiça por excesso. A prática mora é, neste caso, a permanete tentativa de encontrar o equilíbrio entre duas atitudes ou comportamentos exagerados por defeito ou por excesso.
+Para Aristóteles **a virtude é aquilo que completa de forma excelente a natureza do ser**. 
+-------------------------------------------------------------------------------------------------------------
+
+Se a virtude do cavalo é correr bem, a do homem é agir conforme a razão, ou seja, segundo o meio justo entre duas atitudes ou comportamentos extremos. Assim 
+
+- a coragem é o meio justo entre o medo e a temeridade; 
+- a temperança entre o desregramento e a insensibilidade; 
+- a calma (mansidão) é o justo meio entre a cólera e a apatia; 
+- A liberdade entre a prodigalidade e a avareza; 
+- a magnificência é o meio justo entre a falta de gosto e a mesquinhez; 
+- a magnanimidade entre vaidade e a humildade; 
+- a afabilidade entre obsequiosidade e o espírito conflituoso; 
+- a reserva é o justo meio entre a timidez e o desembaraço; 
+- a justa indignação é o justo meio entre a inveja e a maledicência; 
+- a justiça entre a injustiça por defeito e a injustiça por excesso. 
+-------------------------------------------------------------------------------------------------------------
+
+A prática mora é, neste caso, a permanete tentativa de encontrar o equilíbrio entre duas atitudes ou comportamentos exagerados por defeito ou por excesso.
+=============================================================================================================
 
 Aristóteles defende, contrariamente a Platão, que a virtude pode ser ensinada, no entanto, ela é mais produto do hábito do que do ensino.
