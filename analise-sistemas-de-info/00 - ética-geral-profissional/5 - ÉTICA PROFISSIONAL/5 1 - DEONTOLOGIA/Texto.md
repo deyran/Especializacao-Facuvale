@@ -11,3 +11,7 @@ Também é chamada por ética profissional, porque a deontologia profissional fa
 A deontologia profissional é chamada por ética profissional também, devido ao fato de constituir uma das grandes divisões da ética. Entre as várias divisões encontradas destaca-se, algumas consideradas as mais simples: a Metaética, a Ética Normativa e a Ética Aplicada.
 
 Ressalta-se que Deontologia profissional ou ética profissional é o conjunto das normas de condutas que devem ser postas em prática, por qualquer indivíduo no exercício de sua profissão.
+
+# Resumo
+
+A deontologia profissional, também chamada de ética profissional, é o estudo dos deveres, princípios e normas de conduta de um grupo profissional. Ela possui caráter normativo e até jurídico, regulamentando as profissões. A deontologia profissional é uma divisão da ética e abrange as normas de conduta que devem ser praticadas no exercício de qualquer profissão.
