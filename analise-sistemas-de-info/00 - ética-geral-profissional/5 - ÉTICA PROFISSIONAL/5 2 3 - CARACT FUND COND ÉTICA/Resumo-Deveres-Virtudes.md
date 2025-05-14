@@ -1,4 +1,4 @@
-# 5 2 3 - Características Fundamentais de uma Conduta Ética - Deveres
+# 5 2 3 - Características Fundamentais de uma Conduta Ética - Deveres e Virtudes
 
 - **Deveres**: O texto de Sá (2007) define deveres profissionais como as capacidades necessárias para o bom desempenho de uma profissão, cujo propósito é servir a terceiros. O profissional tem a obrigação de aplicar suas habilidades para atender às necessidades dos solicitantes. A escolha da profissão deve ser consciente, alinhada às expectativas e vocação do indivíduo. Conhecer as tarefas e os deveres inerentes à profissão escolhida leva à execução adequada dessas tarefas. Mesmo quando a escolha profissional não coincide com a vocação, é fundamental observar, respeitar e cumprir as normas e deveres da profissão exercida.
 
