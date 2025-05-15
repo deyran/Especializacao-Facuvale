@@ -68,3 +68,11 @@ FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 12
 ## Projeto e implementação de software
 
 - FATEC ZONA LESTE - PROF. DR. FÁBIO G. AKAMINE. Engenharia de Software - Aula 12 - Projeto de software e Padrões de projeto. [Vídeo]. Disponível em: https://www.youtube.com/watch?v=Zywc5kZyscg. Acesso em: 13 de maio de 2025.
+
+- Projeto de Arquitetura
+
+UNIVEST. Engenharia de Software - Projeto de arquitetura e visões de arquitetura. Disponível em: https://youtu.be/TFrVaC8JMVQ?si=dXZ7YQf4HQWMBQfn. Acesso em: 15-05-25
+
+- Projeto de Interface
+- Projeto de Componente
+- Projeto de Banco de dados
