@@ -13,7 +13,7 @@ A ação moral exigia a autonomia do agente e ser autônomo era obedecer a si me
 *Agir moralmente é ser livre e seguir suas próprias regras internas, não ordens externas.*
 -----------------------------------------------------------------------------------------------
 
-É o inverso do heterônomo (o que obedece a ordem do outro, obedece ao que vem de fora). Não se podia falar em ética sem autonomia, pois a ação heterônoma (cuja vontade vem de fora) não era uma ação ética. 
+É o inverso do heterônomo (o que obedece a ordem do outro, obedece ao que vem de fora). **Não se podia falar em ética sem autonomia**, pois a ação heterônoma (cuja vontade vem de fora) não era uma ação ética. 
 
 *Agir por ordens de outros (heteronomia) não é uma ação ética para Kant. A verdadeira ação moral exige que a pessoa decida por si mesma (autonomia).*
 -----------------------------------------------------------------------------------------------
