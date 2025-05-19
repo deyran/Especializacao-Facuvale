@@ -7,3 +7,6 @@ Neste período a moral passou a ser entendida como a busca da perfeição "imita
 A ética cristã articula liberdade e vontade; apresenta essa última como essencialmente dividida entre o bem e o mal.
 
 Foi o cristianismo que subordinou o ideal de virtude à ideia de dever e de obrigação, fazendo da humildade uma virtude essencial, o que, até então, era desconhecido pelos antigos.
+
+
+*Civilização ocidental, históricamente e culturalmente está ligada a Europa e seus descendentes nas Américas e Oceania*
