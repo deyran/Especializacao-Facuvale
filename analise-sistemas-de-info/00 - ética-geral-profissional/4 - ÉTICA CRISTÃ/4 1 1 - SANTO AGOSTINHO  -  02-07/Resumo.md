@@ -2,8 +2,6 @@
 
 - Problema Central: A origem do mal numa perspectiva metafísico-ontológica ("Qual a origem do mal?").
 
-*Perspectiva metafísica-ontológica busca entender o que realmente existe (ontologia) e a natureza fundamental da realidade (metafísica), explorando os princípios mais básicos do ser e da existência.*
-
 - Influências:
     
     - Inicialmente influenciado por Cícero na busca pela sabedoria.
