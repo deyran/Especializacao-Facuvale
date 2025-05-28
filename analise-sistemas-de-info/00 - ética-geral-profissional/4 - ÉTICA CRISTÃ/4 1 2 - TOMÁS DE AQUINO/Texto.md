@@ -1,4 +1,4 @@
-# 4 1 2 Tomás de Aquino
+# Tomás de Aquino
 
 Tomás de Aquino (1225 - 1274) foi um frade dominicano, responsável pela orientação e proteção religiosa da sociedade da sua época. Seu maior mérito foi aplicar a visão aristotélica na doutrina cristã, fato que colaborou com o surgimento da Escolástica.
 
