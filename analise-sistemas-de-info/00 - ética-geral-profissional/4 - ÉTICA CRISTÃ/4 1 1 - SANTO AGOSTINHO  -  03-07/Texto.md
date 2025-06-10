@@ -11,10 +11,17 @@ Iniciamos o percurso pela própria proposta que desperta Agostinho, isto é, **o
 
 Agostinho, como estudioso, lê Cícero, que lhe impulsiona na busca pela sabedoria e da verdade.
 
-*Agostinho buscava sabedoria e verdade*
+******************************************************************************
+Agostinho buscava sabedoria e verdade, através de Cícero, podemos destacar alguns pontos:
+
+1. Livro Hortênsio
+2. Valorização da filosofia e da razão
+3. A retórica e expressão
+4. Noções sobre a alma
 ---------------------------------------------------------------------------------------------
 
 Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ontológico do mal; rompeu com os maniqueístas e construiu uma nova interpretação, para o problema do mal ontológico, com implicações ético-moral, considerando a ajuda e a influência da filosofia neoplatônica e dos teólogos de Milão.
+******************************************************************************
 
 * **Filosofia neoplatônica**
   
@@ -31,35 +38,53 @@ Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ont
 ============================================================================================
 
 Toda esta construção mostrava que o homem precisava bem viver, mas para isto acontecer era necessário ter uma **vida pautada na reta ordem divina**.
+******************************************************************************
 
-*Para o homem viver bem é necessário que a vida do mesmo seja pautada na reta ordem divina.*
+Bem viver -> Reta ordem divina
 ---------------------------------------------------------------------------------------------
 
-**Defendia que tudo que Deus criou era bom, contudo, o mal rompeu com a hierarquia da reta ordem divina.** 
+Defendia que tudo que Deus criou era bom, contudo, o mal rompeu com a hierarquia da reta ordem divina.
+******************************************************************************
+
+- Hierarquia da reta ordem divina
+
+1. Deus
+2. Seres celestiais
+3. A humanidade
+4. Animais e plantas
+5. Matéria inanimada
+
+- Toda criação era boa
+- O mal rompe com a hierarquia
 ---------------------------------------------------------------------------------------------
 
 Assim considerava que a beatitude do homem só poderia ser encontrada em Deus, mas para isto o homem precisava ser curado do pecado pela graça divina e, somente quando isto acontecesse, poderia viver segundo a hierarquia da reta ordem divina, mesmo que dentro de um mundo temporal.
+******************************************************************************
 
-- *Bem viver -> Reta ordem divina*
-- *Para viver a hierarquia da reta ordem divina o homem precisa ser curado do pecado através da graça divina*
+1. Beatitude do homem -> Deus
+2. Graça divina -> cura do pecado -> hierarquia da reta ordem divina
 ============================================================================================
 
-Agostinho passar a entender e a praticar o amor como fundamento do seu ético-moral. Todavia este amor não era simplesmente de qualquer forma, mas sim amar segundo o próprio Deus estabeleceu. Assim, **tem-se aqui uma hierarquia estabelecida pelo divino**, o viver ético-moral e que o homem precisava ser regido por esse princípio. 
+Agostinho passar a entender e a praticar o amor como fundamento do seu ético-moral. Todavia este amor não era simplesmente de qualquer forma, mas sim amar segundo o que o próprio Deus estabeleceu. Assim, **tem-se aqui uma hierarquia estabelecida pelo divino**, o viver ético-moral e que o homem precisava ser regido por esse princípio. O amor era o fundamento ético-moral em Agostinho e para tanto era necessário saber fluir ou utilizar as coisas, o "uti-frui".
+******************************************************************************
 
-*Prática do amor estabelecido por Deus (hierarquia) -> Fundamento ético-moral*
------------------------------------------------------------------------------------
-
-O amor era o fundamento ético-moral em Agostinho e para tanto era necessário saber fluir ou utilizar as coisas, o "uti-frui".
-
-- *Fundamento ético-moral -> Uti-frui*
-- *Uti-frui -> Uti -> usar, meios para um fim | Frui -> Deus como próprio fim.*
+- Amor, em harmonia com a vontade de Deus, é o princípio que rege toda vida étivo-moral
+  
+- Frui -> Amar a Deus sobre todas as coisas
+  
+- Uti -> Meio para se chegar a Deus
+    - Amar o próximo
+    - Usar bens materiais para sutentar a vida, servir a Deus e ao próximo
+    
+- Quando essa ordem é invertida, a hierarquia divina é rompida.
 ============================================================================================
 
 Viver de forma ética-moral era, segundo a reta ordem divina, ter o amor ordenado, em que a graça divina ajudasse o homem, mas para isso ele precisaria viver ético e moralmente pela reta ordem. Isto implicava no agir ético-moral do homem, ou seja, agir de forma justa, dando a cada um o que era seu de direito. Isso resultaria em viver em harmonia com todas as coisas, mas ao homem caberia saber o valor ou a intensidade de amor que deveria atribuir às coisas.
+******************************************************************************
 
-- *Fundamento ético-moral -> Amor ordenado pela graça divina -> Reta ordem*
-- *Viver na reta ordem -> Harmonia com todas as coisas*
-- *Homem -> Saber o valor ou a intensidade -> Às coisas*
+- Amor ordenado e a graça divina
+- Agir justamente: Dar a cada um o que é seu de direito
+- Harmonia e o valor do amor atribuído às coisas
 ============================================================================================
 
 Agostinho colocava o amor numa hierarquia onde Deus ocupava o primeiro lugar, o homem e seu próximo, logo a seguir, e somente depois desses dois, os objetivos temporais e, mesmo assim, estes últimos estando em função de Deus.
