@@ -9,10 +9,12 @@ Iniciamos o percurso pela própria proposta que desperta Agostinho, isto é, **o
 - *Perspectiva metafísica-ontológica busca entender o que realmente existe (ontologia) e a natureza fundamental da realidade (metafísica), explorando os princípios mais básicos do ser e da existência.*
 ============================================================================================
 
-Agostinho, como estudioso, lê Cícero, que lhe impulsiona na busca pela sabedoria e da verdade. Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ontológico do mal; 
+Agostinho, como estudioso, lê Cícero, que lhe impulsiona na busca pela sabedoria e da verdade.
+
+*Agostinho buscava sabedoria e verdade*
 ---------------------------------------------------------------------------------------------
 
-rompeu com os maniqueístas e construiu uma nova interpretação, para o problema do mal ontológico, com implicações ético-moral, considerando a ajuda e a influência da filosofia neoplatônica e dos teólogos de Milão.
+Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ontológico do mal; rompeu com os maniqueístas e construiu uma nova interpretação, para o problema do mal ontológico, com implicações ético-moral, considerando a ajuda e a influência da filosofia neoplatônica e dos teólogos de Milão.
 
 * **Filosofia neoplatônica**
   
@@ -28,7 +30,7 @@ rompeu com os maniqueístas e construiu uma nova interpretação, para o problem
 
 ============================================================================================
 
-Toda esta construção mostrava que o homem precisava bem viver, mas para isto acontecer era necessário ter uma vida pautada na reta ordem divina. 
+Toda esta construção mostrava que o homem precisava bem viver, mas para isto acontecer era necessário ter uma **vida pautada na reta ordem divina**.
 
 *Para o homem viver bem é necessário que a vida do mesmo seja pautada na reta ordem divina.*
 ---------------------------------------------------------------------------------------------
