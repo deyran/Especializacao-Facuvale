@@ -2,19 +2,18 @@
 
 ## P1
 
-Iniciamos o percurso pela própria proposta que desperta Agostinho, isto é, **o problema do mal numa perspectiva metafísica-ontológica, através do questionamento/problema: "Qual a origem do mal?"**.
+*Iniciamos o percurso pela própria proposta que desperta Agostinho, isto é, o problema do mal numa perspectiva metafísica-ontológica, através do questionamento/problema: "Qual a origem do mal?"*.
 
-- *Metafísica é o ramo da filosofia que estuda a natureza fundamental da realidade, questionando a existência, a essência das coisas e a relação entre mente e matéria, entre outras questões.*
+- Metafísica é o ramo da filosofia que estuda a natureza fundamental da realidade, questionando a existência, a essência das coisas e a relação entre mente e matéria, entre outras questões.
 
-- *Ontologia é o ramo da filosofia que estuda a natureza do ser, da existência e da própria realiadade*
+- Ontologia é o ramo da filosofia que estuda a natureza do ser, da existência e da própria realiadade
 
-- *Perspectiva metafísica-ontológica busca entender o que realmente existe (ontologia) e a natureza fundamental da realidade (metafísica), explorando os princípios mais básicos do ser e da existência.*
+- Perspectiva metafísica-ontológica busca entender o que realmente existe (ontologia) e a natureza fundamental da realidade (metafísica), explorando os princípios mais básicos do ser e da existência.
 
 ## P2
 
-Agostinho, como estudioso, lê Cícero, que lhe impulsiona na busca pela sabedoria e da verdade.
+*Agostinho, como estudioso, lê Cícero, que lhe impulsiona na busca pela sabedoria e da verdade.*
 
-******************************************************************************
 Agostinho buscava sabedoria e verdade, através de Cícero, podemos destacar alguns pontos:
 
 1. Livro Hortênsio
@@ -23,8 +22,8 @@ Agostinho buscava sabedoria e verdade, através de Cícero, podemos destacar alg
 4. Noções sobre a alma
 ---------------------------------------------------------------------------------------------
 
-Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ontológico do mal; rompeu com os maniqueístas e construiu uma nova interpretação, para o problema do mal ontológico, com implicações ético-moral, considerando a ajuda e a influência da filosofia neoplatônica e dos teólogos de Milão.
-******************************************************************************
+*Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ontológico do mal; rompeu com os maniqueístas e construiu uma nova interpretação, para o problema do mal ontológico, com implicações ético-moral, considerando a ajuda e a influência da filosofia neoplatônica e dos teólogos de Milão.*
+
 
 * **Filosofia neoplatônica**
   
@@ -40,13 +39,7 @@ Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ont
 
 ## P3
 
-Toda esta construção mostrava que o homem precisava bem viver, mas para isto acontecer era necessário ter uma **vida pautada na reta ordem divina**.
-******************************************************************************
-
-Bem viver -> Reta ordem divina
-
-Defendia que tudo que Deus criou era bom, contudo, o mal rompeu com a hierarquia da reta ordem divina.
-******************************************************************************
+*Toda esta construção mostrava que o homem precisava bem viver, mas para isto acontecer era necessário ter uma vida pautada na reta ordem divina. Defendia que tudo que Deus criou era bom, contudo, o mal rompeu com a hierarquia da reta ordem divina.*
 
 - Hierarquia da reta ordem divina
 
@@ -60,16 +53,14 @@ Defendia que tudo que Deus criou era bom, contudo, o mal rompeu com a hierarquia
 - O mal rompe com a hierarquia
 ---------------------------------------------------------------------------------------------
 
-Assim considerava que a beatitude do homem só poderia ser encontrada em Deus, mas para isto o homem precisava ser curado do pecado pela graça divina e, somente quando isto acontecesse, poderia viver segundo a hierarquia da reta ordem divina, mesmo que dentro de um mundo temporal.
-******************************************************************************
+*Assim considerava que a beatitude do homem só poderia ser encontrada em Deus, mas para isto o homem precisava ser curado do pecado pela graça divina e, somente quando isto acontecesse, poderia viver segundo a hierarquia da reta ordem divina, mesmo que dentro de um mundo temporal.*
 
 1. Beatitude do homem -> Deus
 2. Graça divina -> cura do pecado -> hierarquia da reta ordem divina
 
 ## P4
 
-Agostinho passar a entender e a praticar o amor como fundamento do seu ético-moral. Todavia este amor não era simplesmente de qualquer forma, mas sim amar segundo o que o próprio Deus estabeleceu. Assim, **tem-se aqui uma hierarquia estabelecida pelo divino**, o viver ético-moral e que o homem precisava ser regido por esse princípio. O amor era o fundamento ético-moral em Agostinho e para tanto era necessário saber fluir ou utilizar as coisas, o "uti-frui".
-******************************************************************************
+*Agostinho passar a entender e a praticar o amor como fundamento do seu ético-moral. Todavia este amor não era simplesmente de qualquer forma, mas sim amar segundo o que o próprio Deus estabeleceu. Assim, **tem-se aqui uma hierarquia estabelecida pelo divino**, o viver ético-moral e que o homem precisava ser regido por esse princípio. O amor era o fundamento ético-moral em Agostinho e para tanto era necessário saber fluir ou utilizar as coisas, o "uti-frui".*
 
 - Amor, em harmonia com a vontade de Deus, é o princípio que rege toda vida étivo-moral
   
@@ -84,11 +75,7 @@ Agostinho passar a entender e a praticar o amor como fundamento do seu ético-mo
 ## P5
 
 Viver de forma ética-moral era, segundo a reta ordem divina, ter o amor ordenado, em que a graça divina ajudasse o homem, mas para isso ele precisaria viver ético e moralmente pela reta ordem. Isto implicava no agir ético-moral do homem, ou seja, agir de forma justa, dando a cada um o que era seu de direito. Isso resultaria em viver em harmonia com todas as coisas, mas ao homem caberia saber o valor ou a intensidade de amor que deveria atribuir às coisas.
-******************************************************************************
 
-- Amor ordenado e a graça divina
-- Agir justamente: Dar a cada um o que é seu de direito
-- Harmonia e o valor do amor atribuído às coisas
   
 ## P6
 
