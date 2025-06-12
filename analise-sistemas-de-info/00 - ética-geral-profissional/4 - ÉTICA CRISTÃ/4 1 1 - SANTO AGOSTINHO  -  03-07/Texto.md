@@ -1,5 +1,7 @@
 # 4 1 1 Santo Agostinho
 
+## P1
+
 Iniciamos o percurso pela própria proposta que desperta Agostinho, isto é, **o problema do mal numa perspectiva metafísica-ontológica, através do questionamento/problema: "Qual a origem do mal?"**.
 
 - *Metafísica é o ramo da filosofia que estuda a natureza fundamental da realidade, questionando a existência, a essência das coisas e a relação entre mente e matéria, entre outras questões.*
@@ -7,7 +9,8 @@ Iniciamos o percurso pela própria proposta que desperta Agostinho, isto é, **o
 - *Ontologia é o ramo da filosofia que estuda a natureza do ser, da existência e da própria realiadade*
 
 - *Perspectiva metafísica-ontológica busca entender o que realmente existe (ontologia) e a natureza fundamental da realidade (metafísica), explorando os princípios mais básicos do ser e da existência.*
-============================================================================================
+
+## P2
 
 Agostinho, como estudioso, lê Cícero, que lhe impulsiona na busca pela sabedoria e da verdade.
 
@@ -35,7 +38,7 @@ Aproximou-se do maniqueísmo pela resposta oferecida ao problema metafísico-ont
 - Interpretação alegórica das escrituras
 - O poder da retórica cristã
 
-============================================================================================
+## P3
 
 Toda esta construção mostrava que o homem precisava bem viver, mas para isto acontecer era necessário ter uma **vida pautada na reta ordem divina**.
 ******************************************************************************
