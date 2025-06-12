@@ -44,7 +44,6 @@ Toda esta construção mostrava que o homem precisava bem viver, mas para isto a
 ******************************************************************************
 
 Bem viver -> Reta ordem divina
----------------------------------------------------------------------------------------------
 
 Defendia que tudo que Deus criou era bom, contudo, o mal rompeu com a hierarquia da reta ordem divina.
 ******************************************************************************
@@ -66,7 +65,8 @@ Assim considerava que a beatitude do homem só poderia ser encontrada em Deus, m
 
 1. Beatitude do homem -> Deus
 2. Graça divina -> cura do pecado -> hierarquia da reta ordem divina
-============================================================================================
+
+## P4
 
 Agostinho passar a entender e a praticar o amor como fundamento do seu ético-moral. Todavia este amor não era simplesmente de qualquer forma, mas sim amar segundo o que o próprio Deus estabeleceu. Assim, **tem-se aqui uma hierarquia estabelecida pelo divino**, o viver ético-moral e que o homem precisava ser regido por esse princípio. O amor era o fundamento ético-moral em Agostinho e para tanto era necessário saber fluir ou utilizar as coisas, o "uti-frui".
 ******************************************************************************
@@ -80,7 +80,8 @@ Agostinho passar a entender e a praticar o amor como fundamento do seu ético-mo
     - Usar bens materiais para sutentar a vida, servir a Deus e ao próximo
     
 - Quando essa ordem é invertida, a hierarquia divina é rompida.
-============================================================================================
+
+## P5
 
 Viver de forma ética-moral era, segundo a reta ordem divina, ter o amor ordenado, em que a graça divina ajudasse o homem, mas para isso ele precisaria viver ético e moralmente pela reta ordem. Isto implicava no agir ético-moral do homem, ou seja, agir de forma justa, dando a cada um o que era seu de direito. Isso resultaria em viver em harmonia com todas as coisas, mas ao homem caberia saber o valor ou a intensidade de amor que deveria atribuir às coisas.
 ******************************************************************************
@@ -88,24 +89,31 @@ Viver de forma ética-moral era, segundo a reta ordem divina, ter o amor ordenad
 - Amor ordenado e a graça divina
 - Agir justamente: Dar a cada um o que é seu de direito
 - Harmonia e o valor do amor atribuído às coisas
-============================================================================================
+  
+## P6
 
 Agostinho colocava o amor numa hierarquia onde Deus ocupava o primeiro lugar, o homem e seu próximo, logo a seguir, e somente depois desses dois, os objetivos temporais e, mesmo assim, estes últimos estando em função de Deus.
 
 - *Hierarquia -> 1 - Deus; 2 - Homem e seu próximo; 3 - Objetivos temporais*
 - *Hierarquia -> Em função de Deus*
-============================================================================================
+
+## P7 
 
 A estrutura do uti-frui era fundamental para construção ético-moral agostiniana e toda moral estava ligada, de forma ontológica, ao dever de buscar a verdadeira felicidade. 
---------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
 
 Assim, o homem precisava usar retamente os valores do amor, ordenando para se aproximar do bem supremo e só agindo assim o amor se tornaria um bem para o próprio homem e o seu próximo.
-============================================================================================
+
+
+## P8
 
 O amor era conduzido pela vontade, uma expressão de liberdade, mas deveria levar o homem para Deus e guiar toda sua vida ético-moral, para que as escolhas fossem dentro da reta ordem divina do que deveria ser amado.
-============================================================================================
+
+## P9
 
 Na concepção de Agostinho o amor à natureza humana era uma questão ontológica, objetivada pelo livre-arbítrio, o que pela razão de ser orientava o ser para Deus e se manifestava no Modus Vivendi, no ético-moral.
-============================================================================================
+
+## P10
 
 A questão moral estabelecida pelo filósofo era saber o que necessitava ser amado e a ordem do amor era o que redirecionava o homem, sendo esse amor o que colocava o homem na "reta ordem divina". É a ordem do amor que deu à antropologia de Agostinho o significado ético-moral e era o amor ordenado que faria o homem encontrar beatitude que, incansalvemente, deveria buscar.
