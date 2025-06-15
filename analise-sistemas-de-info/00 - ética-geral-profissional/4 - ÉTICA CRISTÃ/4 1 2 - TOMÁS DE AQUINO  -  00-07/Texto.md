@@ -46,7 +46,7 @@ Deus é o legislador, padres intérpretes da lei
 
 *Para Tomás de Aquino a fé e a razão estavam unidas e entre elas não poderiam haver contradições, pois seriam sempre direcionadas a Deus.*
 
-*União de fé e razão -> Conhecimento e intimidade com Deus*
+União de fé e razão -> Conhecimento e intimidade com Deus
 
 ------------------------------------------------------------------------------
 
