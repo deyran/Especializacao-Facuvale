@@ -4,11 +4,13 @@
 
 *Iniciamos o percurso pela própria proposta que desperta Agostinho, isto é, o problema do mal numa perspectiva metafísica-ontológica, através do questionamento/problema: "Qual a origem do mal?"*.
 
-- Metafísica é o ramo da filosofia que estuda a natureza fundamental da realidade, questionando a existência, a essência das coisas e a relação entre mente e matéria, entre outras questões.
+- Qual a orgiem do mal numa perspequitica metafísica-ontológica?
+
+- Metafísica é o ramo da filosofia que estuda a **natureza fundamental da realidade**, **questionando a existência**, a **essência das coisas** e a **relação entre mente e matéria**, entre outras questões.
 
 - Ontologia é o ramo da filosofia que estuda a natureza do ser, da existência e da própria realiadade
 
-- Perspectiva metafísica-ontológica busca entender o que realmente existe (ontologia) e a natureza fundamental da realidade (metafísica), explorando os princípios mais básicos do ser e da existência.
+- Perspectiva metafísica-ontológica busca entender **o que realmente existe (ontologia)** e a **natureza fundamental da realidade (metafísica)**, explorando os princípios mais básicos do ser e da existência.
 
 ## P2
 
