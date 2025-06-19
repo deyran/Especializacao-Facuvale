@@ -22,19 +22,23 @@ Há vários códigos de ética e das mais diversas profissões, sendo alguns: c�
 
 ## P3
 
-Os conselhos profissionais e das instituições, geralmente, possuem um conselho de ética que é o responsável por definir e elaborar o conteúdo do documento. 
+*Os conselhos profissionais e das instituições, geralmente, possuem um conselho de ética que é o responsável por definir e elaborar o conteúdo do documento.* 
 
 --------------------------------------------------------------------------------------------------------------
 
-O conselho de Ética é formado por profissionais conceituados, escolhidos pela classe profissional que a representam, sem vínculo empregatício com os Conselhos, mas possuem responsabilidade ética legal sobre os assuntos da categoria.
+*O conselho de Ética é formado por profissionais conceituados, escolhidos pela classe profissional que a representam, sem vínculo empregatício com os Conselhos, mas possuem responsabilidade ética legal sobre os assuntos da categoria.*
 
 --------------------------------------------------------------------------------------------------------------
 
-Atuam como tribunais, julgando as situações que podem gerar sanções éticas ou disciplinares e são baseados nas regulamentações dos códigos.
+*Atuam como tribunais, julgando as situações que podem gerar sanções éticas ou disciplinares e são baseados nas regulamentações dos códigos.*
 
 ## P4
 
-No mundo tem acontecido encontros para a formulação de um conjunto de padrões éticos com o intuito de serem aplicados em todas as organizações. Em um encontro na cidade de Caux, Suíça, em 2004, líderes empresariais europeus, norte-americanos e japoneses elaboraram um código internacional de ética respaldado num conjunto de valores compartilhados mundialmente, sendo eles a veracidade, a integridade, a equidade e a igualdade.
+*No mundo tem acontecido encontros para a formulação de um conjunto de padrões éticos com o intuito de serem aplicados em todas as organizações.* 
+
+--------------------------------------------------------------------------------------------------------------
+
+*Em um encontro na cidade de Caux, Suíça, em 2004, líderes empresariais europeus, norte-americanos e japoneses elaboraram um código internacional de ética respaldado num conjunto de valores compartilhados mundialmente, sendo eles a veracidade, a integridade, a equidade e a igualdade.*
 
 ## P5
 
