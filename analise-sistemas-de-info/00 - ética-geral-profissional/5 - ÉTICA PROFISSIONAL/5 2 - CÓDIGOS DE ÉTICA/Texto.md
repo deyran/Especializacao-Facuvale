@@ -2,19 +2,19 @@
 
 ## P1
 
-Cada sociedade e cada grupo possuem seus próprios códigos de ética. 
+*Cada sociedade e cada grupo possuem seus próprios códigos de ética.* 
 
 ---------------------------------------------------------------------------------------------------
 
-Num país, por exemplo, sacrificar animais para pesquisa científica pode ser ético, já em outro, essa atitude pode ser considerada um desrespeito a um princípio ético, o de não utilizar animais para estes fins. 
+*Num país, por exemplo, sacrificar animais para pesquisa científica pode ser ético, já em outro, essa atitude pode ser considerada um desrespeito a um princípio ético, o de não utilizar animais para estes fins.* 
 
 ---------------------------------------------------------------------------------------------------
 
-Aproveitando o exemplo, a ética na área de pesquisas biológicas é denominada *bioética*.
+*Aproveitando o exemplo, a ética na área de pesquisas biológicas é denominada *bioética*.*
 
 ## P2
 
-Além dos princípios gerais que norteiam o bom funcionamento social, existe também a ética de determinados grupos ou locais específicos, como são os casos da ética médica, da ética profissional (trabalho), da ética empresarial, da ética educacional, da ética nos esportes, da ética jornalística, da ética na política, e outras.
+*Além dos princípios gerais que norteiam o bom funcionamento social, existe também a ética de determinados grupos ou locais específicos, como são os casos da ética médica, da ética profissional (trabalho), da ética empresarial, da ética educacional, da ética nos esportes, da ética jornalística, da ética na política, e outras.*
 
 ## P3
 
