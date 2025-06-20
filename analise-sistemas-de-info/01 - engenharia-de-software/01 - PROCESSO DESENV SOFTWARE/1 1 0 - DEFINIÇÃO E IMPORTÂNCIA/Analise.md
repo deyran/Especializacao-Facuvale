@@ -18,15 +18,17 @@
 
 ## P5 
 
-Tratando destes aspectos, Wazlawick (2013) segue destacando que o prazo incorpora o tempo de execução do projeto, incluindo os limites e datas estabelecidos previamente, 
+*Tratando destes aspectos, Wazlawick (2013) segue destacando que o prazo incorpora o tempo de execução do projeto, incluindo os limites e datas estabelecidos previamente,* 
 
 ---------------------------------------------------------------------------
 
-e a assertividade em produto se faz relacionada ao fato de o software, uma vez entregue ao cliente, se fazer preparado para **atender as demandas** que lhe foram solicitadas sem a incorrência de falhas ou a necessidade frequente de paralisação para manutenções e correções que não foram previamente definidas.
+*e a assertividade em produto se faz relacionada ao fato de o software, uma vez entregue ao cliente, se fazer preparado para **atender as demandas** que lhe foram solicitadas sem a incorrência de falhas ou a necessidade frequente de paralisação para manutenções e correções que não foram previamente definidas.*
 
-## P
+## P6
 
 Tal preocupação, deu-se a partir dos anos de 1960, quando, por falta de padronização no desenvolvimento, a demanda crescente de desenvolvimento, os custos de prazos mal definidos, o serviço descompromissado das equipes de tecnologia e a ausência de confiança dos clientes, fez sugir uma fase denominada pela expressão Crise de Software, evidenciando a necessidade de que adequações fossem definidas para que o processo se tornasse mais profissinal (SOMMERVILLE, 2011).
+
+## P
 
 Era destaque à época a questão referente aos defeitos de software em face do seu mal dimensionamento, o custo elevado e a estimativa de prazo que não conseguia se fazer cumprida. A isto, somava-se a complexidade do código e a total ausência de documentação, o que dificultava a manuntenção, atrapalhando o processo de evolução do software e o consequente acompanhamento ao progresso dos equipamentos existentes (PRESSMAN, 2011).
 
