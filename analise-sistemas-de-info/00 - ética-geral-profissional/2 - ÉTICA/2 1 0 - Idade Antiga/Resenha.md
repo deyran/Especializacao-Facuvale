@@ -30,7 +30,11 @@
 
 ### P1.2
 
-Embora não haja propriamente coesão no pensamento e doutrina dos três, ainda assim suas ideias tornam-se próximas no sentido da reflexão acerca do homem e da cidade. O estudo da Ética, pode-se dizer, que teve início com os filósofos Sócrates, Platão e Aristóteles.
+*Embora não haja propriamente coesão no pensamento e doutrina dos três, ainda assim suas ideias tornam-se próximas no sentido da reflexão acerca do homem e da cidade. O estudo da Ética, pode-se dizer, que teve início com os filósofos Sócrates, Platão e Aristóteles.*
+
+1. Socrátes, Platão e Aristóteles tinha o mesmo foco de preocupação e reflexão: O homem (ética pessoal) e a cidade (cidades-estado; sociedade). Eles dedicaram-se em entender como os indivíduos devem viver e como a sociedade deve ser organizada para ser justa e boa. Mesma preocupação com pontos de vista diferentes.
+
+2. A ética como conhecemos hoje, centrada no homem e na sociedade teve início com esses três filósofos.
 
 ## P
 ========================================================================================
