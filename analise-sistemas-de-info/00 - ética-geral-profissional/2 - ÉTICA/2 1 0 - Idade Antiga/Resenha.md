@@ -1,25 +1,38 @@
 # 2 1 - Idade Antiga - Resenha
 
-*A idade antiga é representada pelos filósofos Sócrates, Platão e Aristóteles e é nessa época que a **ética adquire extremo valor**. Esses filósofos se preocupavam com o ser no **mundo físico**, voltados aos problemas sociais e morais.* 
+## P1
+
+### P1.1
+
+*A idade antiga é representada pelos filósofos Sócrates, Platão e Aristóteles e é nessa época que a **ética adquire extremo valor**. Esses filósofos se preocupavam com o ser no **mundo físico**, voltados aos **problemas sociais e morais**.* 
 
 - *ética adquire extremo valor*
 
-1. Antes de Sócrates, Platão e Aristóteles questões sobre ética estava relacionada a mitos, religião e tradições. As regras de conduta eram impostas pelos deuses ou ancestrais.
+    1. Antes de Sócrates, Platão e Aristóteles questões sobre ética estava relacionada a mitos, religião e tradições. As regras de conduta eram impostas pelos deuses ou ancestrais.
 
-2. Com Sócrates, Platão e Aristóteles ética foi investigada de forma racional e sistemática, fundamentada na razão humana, na busca pela virtude e na compreensão da natureza do bem.
+    2. Com Sócrates, Platão e Aristóteles ética foi investigada de forma racional e sistemática, fundamentada na razão humana, na busca pela virtude e na compreensão da natureza do bem.
 
 - *Mundo físico*
 
-1. Realidade tangível e observável
+    1. Realidade tangível e observável
 
-2. Para os três filósofos, a ética e a moralidade eram inseparáveis da vida prática e da experiência humana, conectados a realidade.
+    2. Para os três filósofos, a ética e a moralidade eram inseparáveis da vida prática e da experiência humana, conectados a realidade.
 
-3. O mundo físico era onde as teorias éticas eram testadas e aplicadas, buscando orientar a conduta humana para uma vida boa e justa
+    3. O mundo físico era onde as teorias éticas eram testadas e aplicadas, buscando orientar a conduta humana para uma vida boa e justa.
 
---------------------------------------------------------------------------------
+- *problemas sociais e morais*
+
+    1. Questões que afligiam as cidades-esta da época
+
+    2. Dificuldade individuais na busca por uma vida virtuosa
+
+    3. Exemplos: Injustiça e Corrupção; Definição de virtude e bem; Relativismo moral; ...
+
+### P1.2
 
 Embora não haja propriamente coesão no pensamento e doutrina dos três, ainda assim suas ideias tornam-se próximas no sentido da reflexão acerca do homem e da cidade. O estudo da Ética, pode-se dizer, que teve início com os filósofos Sócrates, Platão e Aristóteles.
 
+## P
 ========================================================================================
 
 O livro "Ética a Nicômaco", de Aristóteles, é uma obra de referência, em que a ética é considerada a felicidade (Eudaimonia) e sua finalidade suprema.
