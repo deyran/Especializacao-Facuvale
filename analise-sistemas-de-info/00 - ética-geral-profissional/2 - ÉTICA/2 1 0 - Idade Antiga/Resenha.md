@@ -38,9 +38,34 @@
 
 ## P2
 
-O livro "Ética a Nicômaco", de Aristóteles, é uma obra de referência, em que a ética é considerada a felicidade (Eudaimonia) e sua finalidade suprema.
+"O livro "Ética a Nicômaco", de Aristóteles, é uma obra de referência, em que a ética é considerada a felicidade (Eudaimonia) e sua finalidade suprema."
 
-Nessa época, a questão da ética era o bem supremo da vida humana e, de acordo com Passos (2004, p. 32), "não deveria consistir em ter a sorte ou ser rico, por exemplo, e sim em proceder e ter uma alma boa".
+"Nessa época, a questão da ética era o bem supremo da vida humana e, de acordo com Passos (2004, p. 32), "não deveria consistir em ter a sorte ou ser rico, por exemplo, e sim em proceder e ter uma alma boa"."
+
+
+- **Ética a Nicômaco**
+
+    - *A Felicidade (Eudaimonia)*
+
+        1. Não é prazer momentâneo/Emoção passageira, é algo mais profundo e complexo.
+        2. É um estado de realização plena, viver bem, fazer o que é certo.
+        3. Bem supremo que almejamos alcançar.
+        4. Ser virtuoso, e desenvolver o pontencial ao máximo.
+        5. Processo contínuo de aprimoramento e prática de excelência.
+
+    - *Finalidade suprema*
+
+        1. Toda atividade humana busca um fim.
+        2. Existem fins intermediários, buscados em função do fim superior.
+        3. Portanto, a finalidade suprema é o que todos desejam.
+
+    - *Ética a Nicômaco - Referência*
+
+        1. Trata ética não como um conjunto de regras, mas um processo investigativo
+        2. Aristótelos define felicidade, mas explora virtudes (morais e intellectuais)
+        3. Discute hábito, razão e prática na formação do caráter virtuoso.
+
+- AAA
 
 ## P3
 
