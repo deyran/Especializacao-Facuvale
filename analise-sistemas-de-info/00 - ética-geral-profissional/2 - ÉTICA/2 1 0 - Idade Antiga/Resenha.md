@@ -36,7 +36,7 @@
 
 2. A ética como conhecemos hoje, centrada no homem e na sociedade teve início com esses três filósofos.
 
-## P2
+## P2 - Aristóteles
 
 "O livro "Ética a Nicômaco", de Aristóteles, é uma obra de referência, em que a ética é considerada a felicidade (Eudaimonia) e sua finalidade suprema."
 
@@ -71,11 +71,20 @@
  
     2. Não se resume a riquezas ou sorte, mas no caráter e na conduta da pessoa
 
-## P3
+## P3 - Socrátes
 
-Para Sócrates a questão ética era o que bastava ao homem saber, ou seja, ter bondade para ser bom. O conhecimento era uma virtude, porque pensava que com ele o homem conseguia ser bom e ter a felicidade. E assim, por esse motivo, observa-se que há um entrelaçamento entre bondade, conhecimento e felicidade.
+*Para Sócrates a questão ética era o que bastava ao homem saber, ou seja, ter bondade para ser bom. O conhecimento era uma virtude, porque pensava que com ele o homem conseguia ser bom e ter a felicidade. E assim, por esse motivo, observa-se que há um entrelaçamento entre bondade, conhecimento e felicidade.*
 
-========================================================================================
+- **Conhecimento como suficiência ética**
+
+    1. Para questões éticas, conhecimento era o suficiente.
+    2. Se o homem sauber o que é o bem, então agirá de acordo.
+    3. A fonte da virtude não são regras ou dogmas, mas vem do autoconhecimento e da compreensão do que é intrinsecamente bom.
+
+- **Conhecimento como virtude**
+- **Bondade, conhecimento e Felicidade**
+
+## P4
 
 Já para Platão a definição de cidade (polis) perfeita estava baseada em valores éticos e morais. Colocava que os conceitos da mente humana não eram reais, mas sim, imagens reflexas. Diferente de Sócrates, Platão considerava que a moral era a arte de preparar o indivíduo para a felicidade e não era encontrada na vida terrena.
 
