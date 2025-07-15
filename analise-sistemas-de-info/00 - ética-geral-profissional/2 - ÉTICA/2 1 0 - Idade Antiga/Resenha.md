@@ -65,7 +65,11 @@
         2. Aristótelos define felicidade, mas explora virtudes (morais e intellectuais)
         3. Discute hábito, razão e prática na formação do caráter virtuoso.
 
-- AAA
+- **Ética como o Bem Supremo**
+
+    1. Ideia central de Aristóteles, a ética não é um campo de estudo isolado, mas a busca pelo que é melhor para o ser humano.
+ 
+    2. Não se resume a riquezas ou sorte, mas no caráter e na conduta da pessoa
 
 ## P3
 
