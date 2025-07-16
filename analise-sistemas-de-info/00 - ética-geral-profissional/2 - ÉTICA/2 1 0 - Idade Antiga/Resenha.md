@@ -82,7 +82,15 @@
     3. A fonte da virtude não são regras ou dogmas, mas vem do autoconhecimento e da compreensão do que é intrinsecamente bom.
 
 - **Conhecimento como virtude**
+
+    1. Conhecimento é uma virtude que leva o homem a ser bom.
+    2. O mal é ignorância sendo uma prática involuntária.
+    3. A busca pelo conhecimento representa a busca pela virtude.
+
 - **Bondade, conhecimento e Felicidade**
+
+    1. Há uma relação intrínseca entre bondade, conhecimento e felicidade.
+    2. Conhecimento leva a bondade, a bondade leva à felicidade.
 
 ## P4
 
