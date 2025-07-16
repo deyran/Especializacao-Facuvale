@@ -62,7 +62,7 @@
     - *Ética a Nicômaco - Referência*
 
         1. Trata ética não como um conjunto de regras, mas um processo investigativo
-        2. Aristótelos define felicidade, mas explora virtudes (morais e intellectuais)
+        2. Aristótelos define felicidade e virtudes (morais e intellectuais)
         3. Discute hábito, razão e prática na formação do caráter virtuoso.
 
 - **Ética como o Bem Supremo**
