@@ -114,12 +114,23 @@
 
 ## P5
 
-Em Aristóteles, a felicidade, finalidade suprema da ética, só poderia ser alcançada se o homem fosse capaz de moderar suas paixões. Preocupou-se com a forma como as pessoas viviam em sociedade e contribuiu muito para o entendimento da ética e a busca da felicidade individual e coletiva.
+*Em Aristóteles, a felicidade, finalidade suprema da ética, só poderia ser alcançada se o homem fosse capaz de moderar suas paixões. Preocupou-se com a forma como as pessoas viviam em sociedade e contribuiu muito para o entendimento da ética e a busca da felicidade individual e coletiva.*
 
-========================================================================================
+*As ideias defendidas por Sócrates foram consideradas um marco da filosofia, tanto que os filósofos que o antecederam ficaram conhecidos como "pré-socráticos".*
 
-As ideias defendidas por Sócrates foram consideradas um marco da filosofia, tanto que os filósofos que o antecederam ficaram conhecidos como "pré-socráticos".
+*É necessário registrar aqui que os pré-socráticos também eram conhecidos como naturalistas, o mesmo como filósofos da natureza, devido à preocupação em entender as coisas, dar explicação para a natureza e para o mundo.*
 
-========================================================================================
+- **A ética aristotélicas e a busca pela felicidade**
 
-É necessário registrar aqui que os pré-socráticos também eram conhecidos como naturalistas, o mesmo como filósofos da natureza, devido à preocupação em entender as coisas, dar explicação para a natureza e para o mundo.
+    1. A felicidade é o objetivo primordial da ética.
+    2. Para isso é necessário moderação das paixões. 
+    3. Aristóteles contribuiu para o entendimento da ética
+    4. Pela busca da felicidade individual e coletiva.   
+
+- **O marco filosófico de Sócrates**
+
+    As ideias de Sócrates foram tão importantes que pensadores anteriores a eles são denominado pré-socráticos.
+
+- **Os filósofos pré-socrásticos: Naturalistas e Cosmólogos**
+
+    A principal característica de seus estudos era a busca por explicações para a natureza e para a origem do mundo.
