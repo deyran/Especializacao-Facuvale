@@ -92,11 +92,27 @@
     1. Há uma relação intrínseca entre bondade, conhecimento e felicidade.
     2. Conhecimento leva a bondade, a bondade leva à felicidade.
 
-## P4
+## P4 - Platão
 
-Já para Platão a definição de cidade (polis) perfeita estava baseada em valores éticos e morais. Colocava que os conceitos da mente humana não eram reais, mas sim, imagens reflexas. Diferente de Sócrates, Platão considerava que a moral era a arte de preparar o indivíduo para a felicidade e não era encontrada na vida terrena.
+*Já para Platão a definição de cidade (polis) perfeita estava baseada em valores éticos e morais. Colocava que os conceitos da mente humana não eram reais, mas sim, imagens reflexas. Diferente de Sócrates, Platão considerava que a moral era a arte de preparar o indivíduo para a felicidade e não era encontrada na vida terrena.*
 
-========================================================================================
+- **A pólis perfeita segundo platão**
+
+    1. A cidade (pólis) está alicerçada em princípios éticos e morais.
+    2. A sociedade ideal dependia da aplicação de valores fundamentais na sua estrutura.
+
+- **A natureza das ideias**
+
+    1. Conceitos originais na mente humana não são reais, mas imagens reflexas.
+    2. As idéias que formamos são apenas cópias de uma realidade superior, o mundo das formas.
+
+- **A moralidade e a felicidade**
+
+    1. Para Platão, a moral prepara o indivíduo para a alcançar a felicidade.
+    2. Essa felicidade não poderia ser encontrada na vida terrena, mas num plano superior.
+    3. Este conceito está alinhado com a teoria das formas.
+
+## P5
 
 Em Aristóteles, a felicidade, finalidade suprema da ética, só poderia ser alcançada se o homem fosse capaz de moderar suas paixões. Preocupou-se com a forma como as pessoas viviam em sociedade e contribuiu muito para o entendimento da ética e a busca da felicidade individual e coletiva.
 
