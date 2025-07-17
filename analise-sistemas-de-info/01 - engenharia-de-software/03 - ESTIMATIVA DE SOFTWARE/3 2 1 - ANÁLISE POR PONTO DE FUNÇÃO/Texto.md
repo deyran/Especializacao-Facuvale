@@ -17,3 +17,14 @@ Nesta base, destaca-se os seguintes elementos dispostos abaixo na figura 7 como 
 
     Figura 7
 
+Efetivando-se a Análise por Ponto de Função em atributos do sistema, aos quais compreende-se que seja os requisitos, o resultado alcançado pelo processo também pode se voltar as intenções que não estejam elencados na Figura 7, cabendo ainda para outros intentos como os apontados por meio da Figura 8.
+	
+	1. Melhorias em produção
+		
+		Após a efetivação de uma manutenção contabiliza-se as funcionalidades adicionais, alteradas e excluídas.
+
+	2. Contagem em aplicação
+
+		Aplicadas na contabilização de pontos de aplicação existentes.
+
+	Figura 8
