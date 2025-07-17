@@ -7,3 +7,13 @@ Como os métodos de medição identificam e quantificam as qualidades existentes
 Como já especificado, considera-se como requisitos funcionais aqueles que expressam as ações do software ao ser aplicado na atividade do usuário, de modo que, caracterizam elementos aplicados ao processo de negócios da organização, podendo se fazer relacionados à transferência e armazenagem de dados (WAZLAWICK, 2013).
 
 Deste modo, aos Pontos de Função, sendo os requisitos que passarão por medição, efetiva-se a atribuição de valores numéricos, os quais processados posteriormente, permitem identificar o esforço dispendido durante o desenvolvimento do software, pois em se tratando deste aspecto, amplia-se o entendimento considerando esforço, prazo, custo e demais parâmetros, o que pode em projetos de software respadar as conclusões acerca do seu tamanho e complexidade (WAZLAWICK, 2013; VAZQUEZ et al., 2018).
+
+Nesta base, destaca-se os seguintes elementos dispostos abaixo na figura 7 como objetivo atribuíveis à Análise por Ponto de Função:
+
+	1. Medir a funcionalidade solicitada pelo usuário
+	2. Medir a funcionalidade efetivamente recebida pelo usuário
+	3. Medir o desempenho do software independente da tecnologia de desenvolvimento
+	4. Medir a manutenção do software independente da tecnologia de desenvolvimento
+
+    Figura 7
+
