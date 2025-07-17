@@ -28,3 +28,19 @@ Efetivando-se a Análise por Ponto de Função em atributos do sistema, aos quai
 		Aplicadas na contabilização de pontos de aplicação existentes.
 
 	Figura 8
+
+Para tal, o processo que envolve a Análise por Ponto de Função necessita seguir os parâmetros dispostos pela Figura 9:
+
+	1. Simplicidade
+		
+		Pela necessidade do envolvido humano e manual no processo de análise de métrica, a simplicidade é essencial, de modo que o esforço seja minimizado, não onerando o projeto
+
+	2. Consistência
+		
+		Pela possibilidade de haver mais de uma pessoa envolvida na análise, há de se identificar sistemáticas que garantam resultados semelhantes entre os avaliadores, denotando a qualidade da medição por meio de uma melhor e igualitária compreensão dos requisitos.
+
+	3. Capacitação
+
+		O medidor necessita possuir conhecimentos suficientes que o dotem para a ação que pretende efetivar sob o risco de que o processo se faça permeado de erros em face da ausência de uma formação consistente para tal
+
+	Figura 9: Parâmetros ideais para a Análise por Ponto de Função
