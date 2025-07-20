@@ -2,9 +2,19 @@
 
 ## P01
 
-A palavra Ética é de origem grega, derivada da etimologia de "ethos", que está relacionada aos costumes e aos hábitos dos homens. Na Grécia, o homem aparece no cerne da política, da ciência, da arte e da moral, visto que de acordo com a cultura, até os deuses apresentavam características humanas, possuindo assim defeitos e qualidades.
+*A palavra Ética é de origem grega, derivada da etimologia de "ethos", que está relacionada aos costumes e aos hábitos dos homens. Na Grécia, o homem aparece no cerne da política, da ciência, da arte e da moral, visto que de acordo com a cultura, até os deuses apresentavam características humanas, possuindo assim defeitos e qualidades.*
 
-Em Roma, Ética deriva do latim "mores"; que significa "moral", e segundo o direito romano, remete às normas de conduta e aos princípios que regem uma sociedade ou um determinado grupo.
+*Em Roma, Ética deriva do latim "mores"; que significa "moral", e segundo o direito romano, remete às normas de conduta e aos princípios que regem uma sociedade ou um determinado grupo.*
+
+- **Etimologia**
+
+    1. Grécia -> "Ethos" -> Costumes e hábitos dos homens.
+    2. Roma -> "Mores" (Latim) -> Regras de conduta de uma sociedade.
+
+- **Posição dos homens/deuses na Grécia antiga**
+
+    1. Homens: Ponto central da política, ciência, arte e moral.
+    2. Deuses: Com características humanas (Qualidades e defeito)
 
 ## P02
 
