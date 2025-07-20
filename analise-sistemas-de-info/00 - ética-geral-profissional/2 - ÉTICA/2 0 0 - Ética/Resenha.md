@@ -1,6 +1,6 @@
 # 2 - ÉTICA
 
-## P01
+## Etimologia | Posição dos homens e deuses na grécia antiga
 
 *A palavra Ética é de origem grega, derivada da etimologia de "ethos", que está relacionada aos costumes e aos hábitos dos homens. Na Grécia, o homem aparece no cerne da política, da ciência, da arte e da moral, visto que de acordo com a cultura, até os deuses apresentavam características humanas, possuindo assim defeitos e qualidades.*
 
@@ -11,7 +11,7 @@
     1. Grécia -> "Ethos" -> Costumes e hábitos dos homens.
     2. Roma -> "Mores" (Latim) -> Regras de conduta de uma sociedade.
 
-- **Posição dos homens/deuses na Grécia antiga**
+- **Posição dos homens e deuses na grécia antiga**
 
     1. Homens: Ponto central da política, ciência, arte e moral.
     2. Deuses: Com características humanas (Qualidades e defeito)
