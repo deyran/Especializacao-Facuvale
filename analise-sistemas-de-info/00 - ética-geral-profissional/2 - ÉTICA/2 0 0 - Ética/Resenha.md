@@ -22,6 +22,20 @@
 
 *Para SROUR, a ética é: Um saber científico que se enquadra no campo das Ciências Sociais. É uma disciplina teórica, um sistema conceitual, um corpo de conhecimentos que se torna inteligível aos fatos morais. Mas o que são fatos morais? São os fatos sociais que dizem respeito ao bem e ao mal, juízos sobre as condutas dos agentes, convenções históricas sobre o que é certo e errado, justo e injusto, o que é certo ou errado? Toda coletividade formula e adota os padrões morais que mais lhe convém (SROUR, 2003, p. 7-8).*
 
+- A ética estuda ações, valores e a moralidade de indivíduo e social
+
+- Para Srour
+
+    1. Saber científico social: Forma de conhecimento científico do campo das ciências sociais.
+    2. Disciplia teórica | Sistema conceitual: Ajuda a compreender os fatos morais.
+    3. Fatos morais
+
+        1. Noção de bem e mal.
+        2. Juízo sobre a conduta social e individual.
+        3. Conveções históricas (certo e errado; justo e injusto).
+
+    4. Padrões morais: Toda coletividade cria e adora os próprios padrões morais que melhor se adequam a ela
+
 ## P03
 
 Os estudiosos da época faziam crítica da realidade social e, a partir dela, ofereciam ideias e direcionamentos (valores) orientadores para a conduta das pessoas, o que tinha como objetivo evitar os infortúnios que levariam ao desaparecimento do ethos comum. Assim, a sociedade de posse destas ideias, passou a orientar e educar as novas gerações de acordo com estes valores e muitas vezes, por ser um novo dever, o Estado transforma tais normas em leis, até que tais condutas fossem incorporadas à consciência individual. Dessa forma, progressivamente foram estruturados os valores que hoje consideramos essenciais.
