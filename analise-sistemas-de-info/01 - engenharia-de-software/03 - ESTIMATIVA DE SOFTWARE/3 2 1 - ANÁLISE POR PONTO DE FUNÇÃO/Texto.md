@@ -44,3 +44,25 @@ Para tal, o processo que envolve a Análise por Ponto de Função necessita segu
 		O medidor necessita possuir conhecimentos suficientes que o dotem para a ação que pretende efetivar sob o risco de que o processo se faça permeado de erros em face da ausência de uma formação consistente para tal
 
 	Figura 9: Parâmetros ideais para a Análise por Ponto de Função
+
+A contagem por ponto de função, visando sua posterior análise, efetiva-se de modo simplificado por meio da sistemática dispostas na Figura 10
+
+- **CPF01 - Determinar**
+	
+	- Tipo de contagem e método CPF0101
+
+- **CPF02 - Identificar**
+	
+	- CPF0101 -> Escopo e fronteira da aplicação CPF0201
+
+- **CPF03 - Contar**
+
+	- CPF0201 -> Função de dados CPF0301
+	- CPF0201 -> Funções de trasações CPF0302
+
+- **CPF04 - Ajustar**
+
+	- CPF0301, CPF0302 -> Pontos a ajustar e ajustados 
+	- CPF0101 -> Fator de ajuste
+ 
+Figura 10: Sistemática de contagem de Pontos de Função
