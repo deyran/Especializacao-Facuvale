@@ -66,3 +66,69 @@ A contagem por ponto de função, visando sua posterior análise, efetiva-se de 
 	- CPF0101 -> Fator de ajuste
  
 Figura 10: Sistemática de contagem de Pontos de Função
+
+Neste contexto, em se tratando dos elementos destacados na sistemática simplificada presente no meio da Figura 11, tem-se de modo mais abragente um detalhamento de ações apresentados através do quadro 13.
+
+- **Ação: Determinar**
+
+	1. *Processo: Tipo de Contagem*
+   
+		- Projeto
+		- Melhoria
+		- Aplicação
+
+	2. *Processo: Método*
+	
+		- Estimado
+		- Detalhado 
+
+- **Ação: Identificar**
+
+	- *Processo: Escopo e fronteira da aplicação*
+
+		- Limite entre sistema e usuário
+		- Limite entre sistema e outra aplicação
+		- Visão do usuário
+		- Função de negócio
+		- Independência de tecnologia
+		- Manutenção
+
+- **Ação: Contar**
+
+	- *Processo: Funções de dados*
+  
+		- Arquivos Lógicos Internos (ALI)
+		- Arquivos de Interface Externa (AIE)
+
+	- *Processo: Funções de transações*
+
+		- Entrada Externa (EE)
+		- Consulta Externa (CE)
+		- Saída Externa (SE)
+
+- **Ação: Ajustar**
+
+	- *Processo: Fator de Ajuste*
+  
+		- Atualização Online
+		- Complexidade de Processamento
+		- Comunicação de dados
+		- Configuração Altamente utilizada
+
+	- *Processo: Pontos a ajustar*
+
+		- Eficiência de usuário final
+		- Entrada de dados online
+		- Facilidade de instalação
+		- Facilidade de mudanças
+		- Facilidade de operação
+  
+	- *Processo: Pontos ajustados*
+
+		- Múltipas localidades
+		- Performance
+		- Processamento distribuído
+		- Reutilização
+		- Taxa de transações
+
+
