@@ -131,4 +131,20 @@ Neste contexto, em se tratando dos elementos destacados na sistemática simplifi
 		- Reutilização
 		- Taxa de transações
 
+	Quadro 13
 
+Considerando a Figura 10 e o Quadro 13, e compreendendo que a dimensão dos requisitos funcionais do usuário recebe a denominação de tamanho funcional e que uma aplicação seja um composto de dados e procedimentos que sofreram automatização fornecendo suporte ao processo de negócio de acordo com a ação do usuário (VAZQUEZ et al. 2018) os Tipos de Contagem possíveis de efetivação na análise por ponto de função, seguem explicitados por meio da Figura 11.
+
+> *Contagem de um projeto de desenvolvimento*
+
+Permite, por meio da identificação do tamanho funcional do sistema, medir se as funcionalidades ofertadas ao usuário no projeto inicial permitem-se ser migradas em caso de ajustes futuro na ferramenta, pois é comum que, à medida que um sistema vai sendo utilizado os requisitos se tornam mais fáceis de compreensão permitindo que funcionalidades adicionais sejam identificadas durante o projeto, impactando no seu tamanho original.
+
+> *Contagem de um projeto de melhoria*
+
+Permite medir as funções adicionais, modificadas, excluídas e/ou convertidas do sistema pelo projeto
+
+> *Contagem de uma aplicação*
+
+Permite medir a funcionalidade fornecida aos usuários por meio de uma aplicação instalada, de modo a se identificar uma medida atualizada da funcionalidade que o usuário está fazendo utilização, tendo por parâmetro os dados coletados ao final do projeto em comparação com cada processo de melhoria.
+
+Figura 11: Tipos de contagem em análise por ponto de função 
