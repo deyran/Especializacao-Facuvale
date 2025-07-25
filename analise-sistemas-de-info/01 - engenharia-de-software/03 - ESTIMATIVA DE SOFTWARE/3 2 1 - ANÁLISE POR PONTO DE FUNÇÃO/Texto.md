@@ -151,12 +151,22 @@ Figura 11: Tipos de contagem em análise por ponto de função
 
 Em se tratando do aspecto referente à Fronteira da Aplicação, tem-se a identificação dos limites entre o software e o mundo em que ele se faz inserido, seguindo os critérios de ponto de vista do usuário, a separação de funções, atribuídas aos negócios, e, em caso de projetos de melhoria, os aspectos já definidos devem ser reanalisados com intuito de verificar se existe a necessidade de adaptação (VAZQUEZ et al., 2018). Neste sentido, tem-se como aspectos facilitadores para a identificação das fronteiras de uma aplicação estes que se fazem citados na Figura 12.
 
-1. Identificar pela documentação de fluxo do sistema os elementos internos/externos
-2. Verificar como se efetiva manutenção dos dados
-3. Identificar as áreas funcionais por meio das entidades e processos do sistema
-4. Verificar se, por meio de outras métricas, os resultados alcançados em medição são os mesmos
-5. Reconhecer como ocorre o processo de gestão da aplicação
-6. Identificar a existência no sistema de ordens de serviço
-7. Compara o organograma da empresa com a estrutura de área e de sistemas.
+  1. Identificar pela documentação de fluxo do sistema os elementos internos/externos
+  2. Verificar como se efetiva manutenção dos dados
+  3. Identificar as áreas funcionais por meio das entidades e processos do sistema
+  4. Verificar se, por meio de outras métricas, os resultados alcançados em medição são os mesmos
+  5. Reconhecer como ocorre o processo de gestão da aplicação
+  6. Identificar a existência no sistema de ordens de serviço
+  7. Compara o organograma da empresa com a estrutura de área e de sistemas.
 
-Figura 12: Aspectos que facilitam a identificação das Fronteiras de uma aplicação
+  Figura 12: Aspectos que facilitam a identificação das Fronteiras de uma aplicação
+
+Referindo-se ao escopo, tem-se a identificação de quais as funcionalidades a serem contadas por meio da sistemática escolhida, podendo incorporar todas as existentes, apenas aquelas que são utilizadas pelo usuário, ou ainda algumas em específico (VAZQUEZ er al., 2018).
+
+Tem-se, deste modo, a identificação de quantos sistemas serão quantificados, definindo claramente onde começam e terminam (WAZLAWICK, 2013).
+
+Por conseguinte, define-se o Tipo de Método, podendo, conforme Pressman e Maxim (2016) ser:
+
+a) Estimado: Calcula os Pontos de Função de acordo com regras internacionalmente definidas no intuito de estimar as Funções de Dados (preferencialmente de complexidade baixa) e as funções de Transações (preferencialmente de complexidade média).
+
+b) Detalhado: Efetiva a quantificação dos Pontos de Função com regras internacionalmente definidas no intuito de estimar as Funções de Dados e de Transação de acordo com as especificidades de caso.
