@@ -147,4 +147,16 @@ Permite medir as funções adicionais, modificadas, excluídas e/ou convertidas 
 
 Permite medir a funcionalidade fornecida aos usuários por meio de uma aplicação instalada, de modo a se identificar uma medida atualizada da funcionalidade que o usuário está fazendo utilização, tendo por parâmetro os dados coletados ao final do projeto em comparação com cada processo de melhoria.
 
-Figura 11: Tipos de contagem em análise por ponto de função 
+Figura 11: Tipos de contagem em análise por ponto de função
+
+Em se tratando do aspecto referente à Fronteira da Aplicação, tem-se a identificação dos limites entre o software e o mundo em que ele se faz inserido, seguindo os critérios de ponto de vista do usuário, a separação de funções, atribuídas aos negócios, e, em caso de projetos de melhoria, os aspectos já definidos devem ser reanalisados com intuito de verificar se existe a necessidade de adaptação (VAZQUEZ et al., 2018). Neste sentido, tem-se como aspectos facilitadores para a identificação das fronteiras de uma aplicação estes que se fazem citados na Figura 12.
+
+1. Identificar pela documentação de fluxo do sistema os elementos internos/externos
+2. Verificar como se efetiva manutenção dos dados
+3. Identificar as áreas funcionais por meio das entidades e processos do sistema
+4. Verificar se, por meio de outras métricas, os resultados alcançados em medição são os mesmos
+5. Reconhecer como ocorre o processo de gestão da aplicação
+6. Identificar a existência no sistema de ordens de serviço
+7. Compara o organograma da empresa com a estrutura de área e de sistemas.
+
+Figura 12: Aspectos que facilitam a identificação das Fronteiras de uma aplicação
