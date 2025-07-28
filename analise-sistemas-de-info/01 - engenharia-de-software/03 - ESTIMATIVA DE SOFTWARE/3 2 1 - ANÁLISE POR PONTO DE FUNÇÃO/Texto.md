@@ -170,3 +170,5 @@ Por conseguinte, define-se o Tipo de Método, podendo, conforme Pressman e Maxim
 a) Estimado: Calcula os Pontos de Função de acordo com regras internacionalmente definidas no intuito de estimar as Funções de Dados (preferencialmente de complexidade baixa) e as funções de Transações (preferencialmente de complexidade média).
 
 b) Detalhado: Efetiva a quantificação dos Pontos de Função com regras internacionalmente definidas no intuito de estimar as Funções de Dados e de Transação de acordo com as especificidades de caso.
+
+Em relação à contagem/medição das funções de dados e de transação, identificar a natureza dos dados configura-se como o primeiro passo do processo, pois é justamente a partir dele que se reconhece as reais necessidades do usuário em relação ao negócio, assim como as funcionalidades previstas pelos usuários (VAZQUEZ et al., 2018; PRESSMAN; MAXIM, 2016; WAZLAWICK, 2013), sendo tais ações melhor especificadas por meio do Quadro 14.
