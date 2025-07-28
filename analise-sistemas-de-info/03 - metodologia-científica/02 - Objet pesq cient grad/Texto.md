@@ -8,12 +8,14 @@ A experiência com investigação científica durante a graduação proporciona 
 
 > Produção de Conhecimento Original
 
-Ao participar de iniciações cinetíficas, grupos de pesquisas e elaborar seu trabalho de conclusão, você passa de consumidor a produtor de conhecimento. Esta transição permite que você faça descobertas relevantes e contribua com novos entendimentos em sua área, mesmo como estudante universitário.
+    Ao participar de iniciações cinetíficas, grupos de pesquisas e elaborar seu trabalho de conclusão, você passa de consumidor a produtor de conhecimento. Esta transição permite que você faça descobertas relevantes e contribua com novos entendimentos em sua área, mesmo como estudante universitário.
 
 > Conexão entre Teoria e Prática
 
-A pesquisa científica proporciona a oportunidade de aplicar conceitoss teóricos em situações concretas, seja por meio de estudos de caso, experimentos laboratoriais ou investigações de campo. Esta ponto entre teoria e realidade enriquece sua formação com experiências tangíveis.
+    A pesquisa científica proporciona a oportunidade de aplicar conceitoss teóricos em situações concretas, seja por meio de estudos de caso, experimentos laboratoriais ou investigações de campo. Esta ponto entre teoria e realidade enriquece sua formação com experiências tangíveis.
 
 > Competências Profissionais Diferenciais
 
-O processo de investigação científica desenvolve habilidades cruciais como pensamento crítico, resolução de problemas complexos, metodologia sistemática e comunicação acadêmica eficaz. Este conjunto de competências representa um diferencial significativo, independetemente da carreira escolhida.
+    O processo de investigação científica desenvolve habilidades cruciais como pensamento crítico, resolução de problemas complexos, metodologia sistemática e comunicação acadêmica eficaz. Este conjunto de competências representa um diferencial significativo, independetemente da carreira escolhida.
+
+Ao envolver-se com a pesquisa científica durante sua graduação, você não apenas aprende a gerar conhecimento de forma rigorosa, mas também constrói uma base sólida para sua trajetória profissional futura. Esta experiência constitui um diferencial importante tanto para quem deseja seguir carreira acadêmica quanto para quem planeja atuar no mercado corporativo.
