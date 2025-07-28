@@ -202,3 +202,7 @@ Em relação à contagem/medição das funções de dados e de transação, iden
 Por conseguinte, após a identificação das funções a serem contadas, é requerida a identificação de seu fator de complexidade, devendo este seguir os parâmetros dispostos por meio do Quadro 15.
 
 	Quadro 15: Tipos de Função conforme fatores de complexidade  pg 34
+
+Conforme os parâmetros apresentados no Quadro 15 referente aos fatores de complexidade concernentes à funções de dados e transação, os pontos alcançados devem ser somados a fim de que se identifique o tamanho funcional da aplicação (WAZLAWICK, 2013).
+
+Isto se efetiva identificando-se os tipos de registros da função de dados e a quantidade de campos da função de transação, de modo que com a atribuição dos pesos de complexidade apresentados tem-se a quantificação dos Pontos de Função a Ajustar (PRESSMAN; MAXIM, 2016).
