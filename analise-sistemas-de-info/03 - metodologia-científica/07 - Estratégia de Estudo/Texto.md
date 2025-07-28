@@ -1,1 +1,0 @@
-# Estratégia de Estudo
