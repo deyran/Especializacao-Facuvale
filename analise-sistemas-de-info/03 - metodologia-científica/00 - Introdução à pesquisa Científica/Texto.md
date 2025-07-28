@@ -19,3 +19,5 @@ Desenvolver pesquisas que agreguem novos insights à sua área, como a análise 
 Produzir trabalhos com excelência acadêmica, fundamentais em fontes confiáveis e metodologias apropriadas, assegurando que suas conclusões reflitam a realidade dos dados coletados.
 
 A pesquisa científica não é uma atividade reservada a especialistas em laboratórios sofisticados. Na verdade, ela permeia toda sua trajetória acadêmica, desde simples trabalhos de disciplina até projetos mais complexos como o TCC e iniciações científicas.
+
+As competências desenvolvidas através da metodologia científica transcendem o ambiente acadêmico e serão diferenciais em suas carreiras. Profissionais de saúde utilizam esses conhecimentos para avaliar a eficácia de tratamentos; engenheiros aplicam métodos científicos no desenvolvimento de soluções tecnológicas; cientistas sociais empregam técnicas de pesquisas para compreender fenômenos coletivos. Em qualquer área, a capacidade de tomar decisões baseadas em evidências, e não apenas em intuição, representa uma vantagem competitiva inestimável no mercado de trabalho.
