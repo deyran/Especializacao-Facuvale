@@ -172,3 +172,29 @@ a) Estimado: Calcula os Pontos de Função de acordo com regras internacionalmen
 b) Detalhado: Efetiva a quantificação dos Pontos de Função com regras internacionalmente definidas no intuito de estimar as Funções de Dados e de Transação de acordo com as especificidades de caso.
 
 Em relação à contagem/medição das funções de dados e de transação, identificar a natureza dos dados configura-se como o primeiro passo do processo, pois é justamente a partir dele que se reconhece as reais necessidades do usuário em relação ao negócio, assim como as funcionalidades previstas pelos usuários (VAZQUEZ et al., 2018; PRESSMAN; MAXIM, 2016; WAZLAWICK, 2013), sendo tais ações melhor especificadas por meio do Quadro 14.
+
+> **Dados estáticos: Dados estruturados na forma de arquivos internos/externos**
+
+- *Funções de dados: Arquivo Lógico Interno (ALI)*
+
+Grupo lógico de dados ou informações reconhecidos pelo usuário e que servem para efetivações de controle
+
+- *Funções de dados: Arquivo de Interface Externa (AIE)*
+
+Grupo lógico de dados ou informações reconhecidos pelo usuário e que se fazem mantidos fora da aplicação
+
+> **Dados dinâmicos: Dados de transação na forma de entradas, saídas e consultas**
+
+- *Funções de Transação: Entrada Externas (EE)*
+
+Dados informados pelo usuário que alimentam o sistema alterando seu estado interno
+
+- *Funções de Transação: Saídas Externas (SE)*
+
+Dados que saem sob requisição ou não de cliente/sistema, apresentando quantificações em relação a algum parâmetro previamente definido
+
+- *Funções de Transação: Consultas Externas (CE)*
+
+Dados que saem sob requisição ou não de cliente/sistema, do mesmo modo em que se fazem armazenados
+
+Quadro 14: Especificações acerca de funções de dados e funções de transação
