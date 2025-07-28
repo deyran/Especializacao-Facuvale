@@ -175,26 +175,30 @@ Em relação à contagem/medição das funções de dados e de transação, iden
 
 > **Dados estáticos: Dados estruturados na forma de arquivos internos/externos**
 
-- *Funções de dados: Arquivo Lógico Interno (ALI)*
+	- *Funções de dados: Arquivo Lógico Interno (ALI)*
 
-Grupo lógico de dados ou informações reconhecidos pelo usuário e que servem para efetivações de controle
+	Grupo lógico de dados ou informações reconhecidos pelo usuário e que servem para efetivações de controle
 
-- *Funções de dados: Arquivo de Interface Externa (AIE)*
+	- *Funções de dados: Arquivo de Interface Externa (AIE)*
 
-Grupo lógico de dados ou informações reconhecidos pelo usuário e que se fazem mantidos fora da aplicação
+	Grupo lógico de dados ou informações reconhecidos pelo usuário e que se fazem mantidos fora da aplicação
 
 > **Dados dinâmicos: Dados de transação na forma de entradas, saídas e consultas**
 
-- *Funções de Transação: Entrada Externas (EE)*
+	- *Funções de Transação: Entrada Externas (EE)*
 
-Dados informados pelo usuário que alimentam o sistema alterando seu estado interno
+	Dados informados pelo usuário que alimentam o sistema alterando seu estado interno
 
-- *Funções de Transação: Saídas Externas (SE)*
+	- *Funções de Transação: Saídas Externas (SE)*
 
-Dados que saem sob requisição ou não de cliente/sistema, apresentando quantificações em relação a algum parâmetro previamente definido
+	Dados que saem sob requisição ou não de cliente/sistema, apresentando quantificações em relação a algum parâmetro previamente definido
 
-- *Funções de Transação: Consultas Externas (CE)*
+	- *Funções de Transação: Consultas Externas (CE)*
 
-Dados que saem sob requisição ou não de cliente/sistema, do mesmo modo em que se fazem armazenados
+	Dados que saem sob requisição ou não de cliente/sistema, do mesmo modo em que se fazem armazenados
 
-Quadro 14: Especificações acerca de funções de dados e funções de transação
+	Quadro 14: Especificações acerca de funções de dados e funções de transação
+
+Por conseguinte, após a identificação das funções a serem contadas, é requerida a identificação de seu fator de complexidade, devendo este seguir os parâmetros dispostos por meio do Quadro 15.
+
+	Quadro 15: Tipos de Função conforme fatores de complexidade  pg 34
