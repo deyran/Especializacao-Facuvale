@@ -36,9 +36,29 @@
 
     4. Padrões morais: Toda coletividade cria e adora os próprios padrões morais que melhor se adequam a ela
 
-## P03
+## O papel dos pensadores na formação do ethos e dos valores sociais
 
-Os estudiosos da época faziam crítica da realidade social e, a partir dela, ofereciam ideias e direcionamentos (valores) orientadores para a conduta das pessoas, o que tinha como objetivo evitar os infortúnios que levariam ao desaparecimento do ethos comum. Assim, a sociedade de posse destas ideias, passou a orientar e educar as novas gerações de acordo com estes valores e muitas vezes, por ser um novo dever, o Estado transforma tais normas em leis, até que tais condutas fossem incorporadas à consciência individual. Dessa forma, progressivamente foram estruturados os valores que hoje consideramos essenciais.
+*Os estudiosos da época faziam crítica da realidade social e, a partir dela, ofereciam ideias e direcionamentos (valores) orientadores para a conduta das pessoas, o que tinha como objetivo evitar os infortúnios que levariam ao desaparecimento do ethos comum. Assim, a sociedade de posse destas ideias, passou a orientar e educar as novas gerações de acordo com estes valores e muitas vezes, por ser um novo dever, o Estado transforma tais normas em leis, até que tais condutas fossem incorporadas à consciência individual. Dessa forma, progressivamente foram estruturados os valores que hoje consideramos essenciais.*
+
+- *Crítica social e proposição de valores*
+
+Os estudiosos da época analisavam a realidade social e, com base nessa análise, propunham ideias e valores para guiar a conduta das pessoas.
+
+- *Preservação do ethos comum*
+
+O propósito desses valores era prevenir problemas que pudessem levar ao desaparecimento do *Ethos Comum* (os costumes e o caráter de uma sociedade)
+
+- *Transmissão e educação das novas gerações*
+
+A sociedade, ao observar essas ideias, passou a usá-las para orientar e educar as novas gerações, transmitindo esses valores.
+
+- *Transformação em leis e internalização*
+
+Em muitos casos, essas normas éticas se tornaram leis impostas pelo Estado. O objetivos era que essas condutas fossem internalizadas e se tornassem parte da consciência individual dos cidadãos.
+
+- *Estruturação progressiva dos valores essenciais*
+
+Esse processo gradual de reflexão, imposição e internalização levou à estruturação dos valores que consideramos essenciais hoje.
 
 ## P04
 
