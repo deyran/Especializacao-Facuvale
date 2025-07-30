@@ -75,9 +75,9 @@ Esse processo gradual de reflexão, imposição e internalização levou à estr
 
     Essa separação entre o que era bom para coletividade e o que era bom para o indivíduo justificou a necessidade de uma teoria que pudesse explicar a relação e a dualidade entre moral e ética
 
-## P05
+## Platão -> Visão | Ética na política
 
-A atual visão de Ética se deve muito a Platão. A Ética de Platão relaciona-se intimamente com sua filosofia política, pois, segundo o filósofo, a "polis" (cidade-estado) é o terreno próprio para a vida moral. Assim, buscou em seus estudos, um Estado ideal, um estado modelo e utópico, tendo o corpo do ser humano como parâmetro.
+*A atual visão de Ética se deve muito a Platão. A Ética de Platão relaciona-se intimamente com sua filosofia política, pois, segundo o filósofo, a "polis" (cidade-estado) é o terreno próprio para a vida moral. Assim, buscou em seus estudos, um Estado ideal, um estado modelo e utópico, tendo o corpo do ser humano como parâmetro.*
 
 ## P06
 
