@@ -60,9 +60,20 @@ Em muitos casos, essas normas éticas se tornaram leis impostas pelo Estado. O o
 
 Esse processo gradual de reflexão, imposição e internalização levou à estruturação dos valores que consideramos essenciais hoje.
 
-## P04
+## Bem Comum vs Bem Individual
 
-A separação entre o bem comum e o bem individual (o público e o privado), que começa ocorrer durante o período da decadência grega, justifica a necessidade de uma teoria que explicasse a dualidade entre moral e ética.
+*A separação entre o bem comum e o bem individual (o público e o privado), que começa ocorrer durante o período da decadência grega, justifica a necessidade de uma teoria que explicasse a dualidade entre moral e ética.*
+
+- **Decadência grega**
+
+    1. *Ênfase no individualismo*
+    2. *Perda da coêsão social*
+    3. *Crise de valores sociais*
+    4. *Fragmentação política*
+
+- **Dualidade -> moral e ética**
+
+    Essa separação entre o que era bom para coletividade e o que era bom para o indivíduo justificou a necessidade de uma teoria que pudesse explicar a relação e a dualidade entre moral e ética
 
 ## P05
 
