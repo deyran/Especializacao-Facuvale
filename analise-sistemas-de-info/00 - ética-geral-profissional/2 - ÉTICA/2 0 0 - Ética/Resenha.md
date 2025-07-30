@@ -79,9 +79,9 @@ Esse processo gradual de reflexão, imposição e internalização levou à estr
 
 *A atual visão de Ética se deve muito a Platão. A Ética de Platão relaciona-se intimamente com sua filosofia política, pois, segundo o filósofo, a "polis" (cidade-estado) é o terreno próprio para a vida moral. Assim, buscou em seus estudos, um Estado ideal, um estado modelo e utópico, tendo o corpo do ser humano como parâmetro.*
 
-## P06
+## O agir Ético
 
-O agir ético perpassa a simples reprodução de ações das gerações anteriores e se dá através de uma atividade reflexiva, que orienta a ação a ser seguida, num determinado momento da vida pessoal. 
+O agir ético perpassa a simples reprodução de ações das gerações anteriores e se dá através de uma atividade reflexiva, que orienta a ação a ser seguida, num determinado momento da vida pessoal.
 
 É com o surgimento de questionamentos sobre a validade de determinados valores ou costumes, ou mesmo quando a realidade exigia novos valores que pudessem orientar a ética, que surge a necessidade de uma teoria que justificasse este novo agir, já que é impossível uma ação ética sem que o agente dela compreenda sua racionalidade.
 
