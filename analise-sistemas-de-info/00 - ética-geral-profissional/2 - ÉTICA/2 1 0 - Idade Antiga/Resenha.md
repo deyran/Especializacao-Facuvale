@@ -69,7 +69,7 @@
  
     2. Não se resume a riquezas ou sorte, mas no caráter e na conduta da pessoa
 
-## P3 - Socrátes
+## Socrátes
 
 *Para Sócrates a questão ética era o que bastava ao homem saber, ou seja, ter bondade para ser bom. O conhecimento era uma virtude, porque pensava que com ele o homem conseguia ser bom e ter a felicidade. E assim, por esse motivo, observa-se que há um entrelaçamento entre bondade, conhecimento e felicidade.*
 
