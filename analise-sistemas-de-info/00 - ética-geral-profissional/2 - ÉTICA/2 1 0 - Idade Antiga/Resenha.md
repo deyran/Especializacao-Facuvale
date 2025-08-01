@@ -1,8 +1,6 @@
 # 2 1 - Idade Antiga - Resenha
 
-## P1
-
-### P1.1
+## Início da Ética
 
 *A idade antiga é representada pelos filósofos Sócrates, Platão e Aristóteles e é nessa época que a **ética adquire extremo valor**. Esses filósofos se preocupavam com o ser no **mundo físico**, voltados aos **problemas sociais e morais**.* 
 
@@ -22,13 +20,13 @@
 
 - *problemas sociais e morais*
 
-    1. Questões que afligiam as cidades-esta da época
+    1. Questões que afligiam as cidades-estado da época
 
     2. Dificuldade individuais na busca por uma vida virtuosa
 
     3. Exemplos: Injustiça e Corrupção; Definição de virtude e bem; Relativismo moral; ...
 
-### P1.2
+## Reflexão -> Homem e Cidade
 
 *Embora não haja propriamente coesão no pensamento e doutrina dos três, ainda assim suas ideias tornam-se próximas no sentido da reflexão acerca do homem e da cidade. O estudo da Ética, pode-se dizer, que teve início com os filósofos Sócrates, Platão e Aristóteles.*
 
@@ -36,7 +34,7 @@
 
 2. A ética como conhecemos hoje, centrada no homem e na sociedade teve início com esses três filósofos.
 
-## P2 - Aristóteles
+## Aristóteles
 
 "O livro "Ética a Nicômaco", de Aristóteles, é uma obra de referência, em que a ética é considerada a felicidade (Eudaimonia) e sua finalidade suprema."
 
