@@ -90,7 +90,7 @@
     1. Há uma relação intrínseca entre bondade, conhecimento e felicidade.
     2. Conhecimento leva a bondade, a bondade leva à felicidade.
 
-## P4 - Platão
+## Platão
 
 *Já para Platão a definição de cidade (polis) perfeita estava baseada em valores éticos e morais. Colocava que os conceitos da mente humana não eram reais, mas sim, imagens reflexas. Diferente de Sócrates, Platão considerava que a moral era a arte de preparar o indivíduo para a felicidade e não era encontrada na vida terrena.*
 
