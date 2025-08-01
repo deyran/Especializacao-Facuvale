@@ -43,6 +43,12 @@
 
 - **Ética a Nicômaco**
 
+    - *Ética a Nicômaco - Referência*
+
+        1. Trata ética não como um conjunto de regras, mas um processo investigativo
+        2. Aristótelos define felicidade e virtudes (morais e intellectuais)
+        3. Discute hábito, razão e prática na formação do caráter virtuoso.
+
     - *A Felicidade (Eudaimonia)*
 
         1. Não é prazer momentâneo/Emoção passageira, é algo mais profundo e complexo.
@@ -56,12 +62,6 @@
         1. Toda atividade humana busca um fim.
         2. Existem fins intermediários, buscados em função do fim superior.
         3. Portanto, a finalidade suprema é o que todos desejam.
-
-    - *Ética a Nicômaco - Referência*
-
-        1. Trata ética não como um conjunto de regras, mas um processo investigativo
-        2. Aristótelos define felicidade e virtudes (morais e intellectuais)
-        3. Discute hábito, razão e prática na formação do caráter virtuoso.
 
 - **Ética como o Bem Supremo**
 
