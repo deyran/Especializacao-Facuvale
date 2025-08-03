@@ -94,10 +94,15 @@
 
 *Já para Platão a definição de cidade (polis) perfeita estava baseada em valores éticos e morais. Colocava que os conceitos da mente humana não eram reais, mas sim, imagens reflexas. Diferente de Sócrates, Platão considerava que a moral era a arte de preparar o indivíduo para a felicidade e não era encontrada na vida terrena.*
 
-- **A pólis perfeita segundo platão**
+- **A pólis perfeita segundo Platão**
 
     1. A cidade (pólis) está alicerçada em princípios éticos e morais.
     2. A sociedade ideal dependia da aplicação de valores fundamentais na sua estrutura.
+
+        - Sabedoria
+        - Coragem
+        - Temperança
+        - Justiça 
 
 - **A natureza das ideias**
 
