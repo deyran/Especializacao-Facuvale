@@ -40,3 +40,7 @@
 ## Obras importantes
 
 *O pensamento moral de Aristóteles está exposto em obras como Ética a Nicômaco, Ética a Eudemo e A Grande Ética. Suas obras foram as mais discutidas e comentadas da Antiguidade, deixando uma importante herança para a história da cultura e da filosofia.*
+
+1. Ética a Nicômaco
+2. Ética a Eudemo
+3. A grande ética
