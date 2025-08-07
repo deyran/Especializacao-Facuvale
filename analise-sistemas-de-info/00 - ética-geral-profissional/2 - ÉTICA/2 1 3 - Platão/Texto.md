@@ -1,4 +1,4 @@
-# 2 1 3 - Platão
+# Platão
 
 Platão nasceu em Atenas, em 427 A.C. e morreu em 347 da mesma Era e pertenceu a uma família rica da alta aristocracia grega.
 
