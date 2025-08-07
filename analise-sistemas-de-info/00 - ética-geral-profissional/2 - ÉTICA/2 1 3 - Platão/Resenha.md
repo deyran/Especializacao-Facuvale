@@ -1,5 +1,11 @@
 # Platão - Resenha
 
+# Ética geral profissional
+## Ética
+### Idade Antiga
+#### Platão
+
+
 ## Origem
 
 Platão nasceu em Atenas, em 427 A.C. e morreu em 347 da mesma Era e pertenceu a uma família rica da alta aristocracia grega.
