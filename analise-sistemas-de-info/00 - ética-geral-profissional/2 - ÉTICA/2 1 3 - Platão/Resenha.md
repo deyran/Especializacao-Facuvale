@@ -1,11 +1,5 @@
 # Platão - Resenha
 
-# Ética geral profissional
-## Ética
-### Idade Antiga
-#### Platão
-
-
 ## Origem
 
 Platão nasceu em Atenas, em 427 A.C. e morreu em 347 da mesma Era e pertenceu a uma família rica da alta aristocracia grega.
@@ -31,8 +25,41 @@ A descoberta da metafísica lhe foi atribuída, cujas reflexões filosóficas cu
     - É o mundo em que vivemos, composto por réplicas, cópias imperfeitas e mutáveis
     - É o reino das aparêncis, das sombras e da imperfeição.
 
-## P
+## Razão, Bem e Política
 
 Segundo esta premissa, o homem não podia deixar-se levar pelos sentidos, pois estes lhe passam uma percepção distorcida das coisas que o rodeiam. Assim, a verdadeira realidade só poderia ser atingida e, verdadeiramente compreendida, por intermédio da razão. Vale destacar que Platão também afirmava que o bem é um molde sobre o qual deveria se processar toda a ação humana. Entendia que o elemento da vontade do homem deveria estar sempre voltado para o bem. Platão também direcionou seus estudos para a área da política e da reforma social, em decorrência do seu envolvimento com a difícil situação de Atenas, após a guerra do Peloponeso. Para ele, a "pólis" é o próprio terreno da vida moral, e que a ética, necessariamente, desemboca na política. Reconhecia como "classes superiores" os governantes e os guerreiros, em razão de suas atividades de contemplação, de guerra e de política. Já as "classes inferiores" eram as dos artesãos, devido ao desprezo do pensador pelo trabalho físico - e dos escravos - considerados pela sua sociedade como desprovidos de virtudes morais e de direitos cívicos.
 
 A ética de Platão dava-se de acordo com as idéias dominantes, ou seja, a partir da realidade social e política daquela época.
+
+- *Supremacia da razão*
+
+    1. A realidade não é percebida pelos sentidos
+    2. Os sentidos trazem uma visão distorcidas do mundo
+    3. Somente pela razão é possível compreender a realidade
+
+- *A vontade voltada para o bem*
+  
+    1. O bem serve como modelo para as ações humanas
+    2. A vontade deve estar direcionada para o bem
+    
+- *A Ética na política e na sociedade*
+  
+    1. Atenas pós guerra (guerra do Peloponeso)
+    2. Neste contexto, Platão direcionou seus estudos para política e reforma social
+    3. Para ele, a vida moral se desenvolvia na pólis (cidade-estado)
+    4. Ética culminava na política
+    5. A visão ética era reflexo do seu tempo
+
+- *Estrutura social e classes*
+
+    - *Classes superiores*
+   
+      - Governantes e Guerreiros
+      - Valorizados por suas atividades intelectuais e políticas
+
+    - *Classes inferiores*
+    
+      - Artesãos e escravos
+      - Desvalorizados
+      - Desprezo pelo trabalhos manual
+      - Falta de direitos cívicos dos escravos
