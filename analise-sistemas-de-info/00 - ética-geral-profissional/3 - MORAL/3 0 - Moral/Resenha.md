@@ -1,10 +1,24 @@
-# Moral
+# Moral - Resenha
+
+# Ética Geral Profissional
+## Moral
+
+# Origem e definição da moral
 
 A palavra "moral" originou-se do termo latino "morales" que significa "relativo aos costumes". A moral estabelece regras que são assumidas pela pessoa, como uma forma de garantir seu bem viver. Independente das fronteiras geográficas e garante uma identidade entre pessoas que, sequer, se conhecem, contudo, utilizam este mesmo referencial moral comum.
 
 O estudo da Moral, das regras e dos costumes é, pois relevante, principalmente para humanizar as relações econômicas, assim como o mundo materializado dos dias atuais.
 
 O dicionário Aurélio (2010) define moral como sendo "de acordo com os bons costumes. Que é próprio para favorecer os bons costumes. Relativo ao espírito; intelectual (por oposição ao físico, ao material)". E no que tange o significado de moral Leonardo Boff(2014) traz uma série de exemplos e afirmações para conceituar esse termo.
+
+
+- Moral - Latino -> "Morales" - Relativo aos costumes
+- Independe das fronteiras geográficas
+- Regras de condutas assumidas por um indivíduo para guarantir o bem-viver
+- Server como referencial comum entre as pessoas
+- É importante estudar moral para humanizar relações econômicas e o mundo materializado
+
+# P
 
 Então, o que é agir conforme a moral? O que é o agir imoralmente? Ou o que é atitude amoral? Como podemos diferenciá-los? De forma bem resumida pode-se dizer que:
 
