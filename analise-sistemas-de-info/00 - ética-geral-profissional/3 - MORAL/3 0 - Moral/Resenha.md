@@ -18,7 +18,7 @@ O dicionário Aurélio (2010) define moral como sendo "de acordo com os bons cos
 - Server como referencial comum entre as pessoas
 - É importante estudar moral para humanizar relações econômicas e o mundo materializado
 
-# P
+# Ações morais e âmbito ético moral
 
 Então, o que é agir conforme a moral? O que é o agir imoralmente? Ou o que é atitude amoral? Como podemos diferenciá-los? De forma bem resumida pode-se dizer que:
 
@@ -27,6 +27,18 @@ Então, o que é agir conforme a moral? O que é o agir imoralmente? Ou o que é
 - *Amoral* é quando uma atitude não influi, nem positivamente e nem negativamente, ou seja, é uma ação neutra.
 
 Pode-se concluir que uma atitude moral é uma ação positiva, uma atitude imoral é uma ação negativa e uma atitude amoral é uma ação neutra. Dessa forma, no âmbito da moral, decidir como agir é uma questão de prática, enquanto que no âmbito da ética, é refletir sobre as ações e as implicações sobre a felicidade humana.
+
+
+- *Moral*: Agir conforme os valores de sua sociedade ou organização sem prejudicar os outros
+- *Imoral*: Uma atitude que vai contra as normas e valores e que prejudica os outros
+- *Amoral*: Uma ação neutra que não influencia positiva nem negativamente
+- 
+- Âmbito moral ético
+    
+    - *Âmbito moral*: Decidir como agir é uma questão prática
+    - *Âmbito ético*: Refletir sobre as ações e as implicações sobre felicidade humana
+
+# P
 
 A forma concreta como a ética é vivida depende de cada cultura, que é sempre diferente uma da outra. Um indígena, um chinês, um africano vivem de um jeito o amor, o cuidado, a solidariedade e o perdão e a esse jeito diferente chamamos de moral.
 
