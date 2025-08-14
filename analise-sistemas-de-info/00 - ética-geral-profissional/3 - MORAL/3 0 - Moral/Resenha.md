@@ -57,9 +57,22 @@ Vale destacar que a moral não se reduz apenas ao seu aspecto social, pois a med
    - A ética é única e universal
    - Serve como uma reflexição sobre as ações e suas implicações.
 
-# 
+# Tensão entre Ética e Moral
+
 Por isso, pode-se considerar que entre a Moral e a Ética há uma tensão permanente, já que a ação moral busca uma compreensão e uma justificação crítica e universal e, a Ética exerce uma permanente vigilância crítica sobre a Moral para reforçá-la ou transformá-la.
 
 A palavra moral vem de "mores", origina-se do termo latino plural que significa costumes, hábitos, fazendo com que se equivalha às atitudes e às normas que se estabelecem como hábito de boa convivência e de bom comportamento. Sendo assim afirma-se que moral é um conjunto de atitudes conforme regras, e é por isso que se considera moralmente correta a pessoa que mantém, costumeiramente, uma determinada postura frente as coisas e as pessoas, adotando um estilo de comportamento. Contudo, também se considera moralmente correta a atitude de quem devolve um a carteira de documentos e dinheiro que encontrou na calçada, mesmo que tal pessoa possa normalmente não se comportar tão corretamente. Desta forma, pode observar que o bem e o mal são reconhecidos assim, devido ao cumprimento ou descumprimento dessas regras, desses costumes. E, dessa maneira, também se observa que se não existissem regras ou hábitos estabelecidos não haveria bem e mal.
+
+
+- Ação moral: 
+
+  - Busca encontrar uma justificativa que seja crítica e universal para suas ações.
+  - "Mores" (latino plural) -> Atitudes e normas que se esbelecem como hábitos de boa convivência e de bom comportamento
+  - O bem e o mal são reconhecidos pelo cumprimento ou descumprimento de regras ou costumes
+  - Sem regras ou hábitos não haveria bem ou mal
+
+- Ética: Vigia, critica, aprova, reforça ou transforma a moral
+
+# P
 
 Outro modo de dar conta da existência da moral consiste em assinalar o que se vive em situações concretas do cotidiano, podendo ser no âmbito individual, de grupos humanos ou mesmo nacionais. Alguns exemplos revelam aquilo que chamamos "senso moral", é o que acontece quando nos sensibilizamos com o fato de haver tanta gente morrendo de fome, enquanto há um desperdício enorme de alimentos; quando ouvimos todos os dias notícias de mortes pela violência no trânsito, de chacinas de pessoas ou até de animais, de sequestros, de estupros, de torturas e nos indignamos com isso. Essas situações existem e pôem em questão ou prova nossa consciência moral.
