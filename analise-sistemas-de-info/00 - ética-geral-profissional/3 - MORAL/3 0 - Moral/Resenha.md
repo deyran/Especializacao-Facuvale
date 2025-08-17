@@ -73,6 +73,6 @@ A palavra moral vem de "mores", origina-se do termo latino plural que significa 
 
 - Ética: Vigia, critica, aprova, reforça ou transforma a moral
 
-# P
+# Percepção do senso moral
 
 Outro modo de dar conta da existência da moral consiste em assinalar o que se vive em situações concretas do cotidiano, podendo ser no âmbito individual, de grupos humanos ou mesmo nacionais. Alguns exemplos revelam aquilo que chamamos "senso moral", é o que acontece quando nos sensibilizamos com o fato de haver tanta gente morrendo de fome, enquanto há um desperdício enorme de alimentos; quando ouvimos todos os dias notícias de mortes pela violência no trânsito, de chacinas de pessoas ou até de animais, de sequestros, de estupros, de torturas e nos indignamos com isso. Essas situações existem e pôem em questão ou prova nossa consciência moral.
