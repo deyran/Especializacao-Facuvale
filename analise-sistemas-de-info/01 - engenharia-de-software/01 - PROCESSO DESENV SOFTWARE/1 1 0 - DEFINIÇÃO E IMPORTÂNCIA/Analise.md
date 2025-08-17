@@ -4,16 +4,39 @@
 ## Engenharia de Software
 ### Definição e importância do processo de desenvolvimento de software
 
-# O que é softwere
+# Constituição de um Software completo
 
-Um software não se constitui unicamente pelas linhas de código executáveis. Incorpora toda documentação necessária para sua instalação, uso e manuntenção, incluindo a configuração imprescindível ao seu correto funcionamento.
+Um software não se constitui unicamente pelas linhas de código executáveis. Incorpora toda documentação necessária para sua instalação, uso e manutenção, incluindo a configuração imprescindível ao seu correto funcionamento.
 
 
 - Linhas de código executáveis
+
+    - Cerne do Software
+    - Parte funcional que executa o Software
+
 - Documentação
+
+    - Essencial para a compreensão do Software
+    - Inclui manuais de usuário
+    - Guias de referência para desenvolvedores
+
 - Instalação
+
+    - É como o software é implantado no computador
+    - Crucial para tornar o Software utilizável
+    - Permite que se tenha acesso suas funcionalidades e interaja com ele
+
 - Manutenção
+
+    - Conjunto de ações pós-entrega do Sistema
+    - Garantem o bom funcionamento do Software ao longo do tempo
+    - Correção de erros (bugs)
+    - Adaptação as novas necessidades do usuário
+
 - Configuração
+
+    - Ajustes de definição ou preferências para atender necessidades do usuário ou otimização de desempenho
+    - Exemplos: Preferência de exibição; Opções de idiomas; Permissões de acesso; entre outros
 
 # P
 
