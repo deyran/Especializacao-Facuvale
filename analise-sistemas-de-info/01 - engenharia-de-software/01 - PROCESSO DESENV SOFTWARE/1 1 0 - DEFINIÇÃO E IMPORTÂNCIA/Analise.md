@@ -3,7 +3,7 @@
 # Analise de sistemas de informações
 ## Engenharia de Software
 ### Definição e importância do processo de desenvolvimento de software
-#### Fatores para qualidade do software
+#### Crise de Software
 
 # Constituição de um Software completo
 
@@ -102,7 +102,7 @@ Tratando destes aspectos, Wazlawick (2013) segue destacando que o prazo incorpor
     3. Funcionamento sem falhas inesperadas
     4. Sem manutenções constantes
 
-# P
+# Crise de Software
 
 Tal preocupação, deu-se a partir dos anos de 1960, quando, por falta de padronização no desenvolvimento, a demanda crescente de desenvolvimento, os custos de prazos mal definidos, o serviço descompromissado das equipes de tecnologia e a ausência de confiança dos clientes, fez sugir uma fase denominada pela expressão Crise de Software, evidenciando a necessidade de que adequações fossem definidas para que o processo se tornasse mais profissinal (SOMMERVILLE, 2011).
 
@@ -111,6 +111,25 @@ Era destaque à época a questão referente aos defeitos de software em face do 
 Além deste fato, a comunicação entre o cliente e a TI era precária ou inexistente, acarretando numa série de falhas no desenvolvimento pelo fato de a equipe de tecnologia ter dificuldade em compreender as reais necessidades a serem atendidas pelos softwares, levando a correções praticamente infinitas (WAZLAWICK, 2013).
 
 Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que permitissem proceder com a definição de estimativas de maior precisão em relação ao software desenvolvido e entregue, o que efetivamente impactava na possibilidade de se prospectar a necessidade de treinamentos  de manutenções preventivas aos sistemas (SOMMERVILLE, 2011).
+
+
+- *Surgimento e causa*
+
+  - A partir da década de 1960
+  - Falta de padronização
+  - Complexidade do código
+  - Ausência de documentação
+  - A demanda crescente
+  - Custos e prazos mal definidos
+  - Baixa qualidade do serviço
+  - Falta de confiança dos clientes
+
+- Problemas técnicos e de manutenção
+- Falha na comunicação
+- Ausência de avaliação de eficácia
+
+
+# p
 
 Assim a crise de software impulsionou o processo de software, e este, por sua vez, passou a englobar atividades fundamentais voltadas ao desenvolvimento e/ou evolução em um processo de software, como mostrado a seguir:
 
