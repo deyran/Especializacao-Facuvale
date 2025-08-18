@@ -1,10 +1,5 @@
 # Definição e importância do processo de desenvolvimento de software - Análise
 
-# Analise de sistemas de informações
-## Engenharia de Software
-### Definição e importância do processo de desenvolvimento de software
-#### Crise de Software
-
 # Constituição de um Software completo
 
 Um software não se constitui unicamente pelas linhas de código executáveis. Incorpora toda documentação necessária para sua instalação, uso e manutenção, incluindo a configuração imprescindível ao seu correto funcionamento.
@@ -112,6 +107,10 @@ Além deste fato, a comunicação entre o cliente e a TI era precária ou inexis
 
 Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que permitissem proceder com a definição de estimativas de maior precisão em relação ao software desenvolvido e entregue, o que efetivamente impactava na possibilidade de se prospectar a necessidade de treinamentos  de manutenções preventivas aos sistemas (SOMMERVILLE, 2011).
 
+# Analise de sistemas de informações
+## Engenharia de Software
+### Definição e importância do processo de desenvolvimento de software
+#### Crise de Software
 
 - *Surgimento e causa*
 
@@ -125,6 +124,11 @@ Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que 
   - Falta de confiança dos clientes
 
 - Problemas técnicos e de manutenção
+
+    - A falta de padronização e a baixa qualidade do serviço tornava a manutenção e evolução dos sistemas difíceis
+  
+    - Esse quadro impedia a evolução tecnológica dos sistemas
+
 - Falha na comunicação
 - Ausência de avaliação de eficácia
 
