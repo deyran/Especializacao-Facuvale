@@ -3,6 +3,7 @@
 # Analise de sistemas de informações
 ## Engenharia de Software
 ### Definição e importância do processo de desenvolvimento de software
+#### Fatores para qualidade do software
 
 # Constituição de um Software completo
 
@@ -85,11 +86,23 @@ Assim, no processo de software são estabelecidos os métodos (o que fazer), as 
 
 -  Garatem que o produto final atenda os resultados esperados
 
-# P
+# Fatores para qualidade do software
 
 É justamente pelo desenvolvimento de um bom processo de software que se pretende alcançar a qualidade do produto desenvolvido e/ou evoluído, o que por sua vez requer organização e definição de ações atuantes para o alcance de agilidade e transformação tecnológica, considerando o contexto de prazo e assertividade do produto (WAZLAWICK, 2013).
 
 Tratando destes aspectos, Wazlawick (2013) segue destacando que o prazo incorpora o tempo de execução do projeto, incluindo os limites e datas estabelecidos previamente, e a assertividade em produto se faz relacionada ao fato de o software, uma vez entregue ao cliente, se fazer preparado para atender as demandas que lhe foram solicitadas sem a incorrência de falhas ou a necessidade frequente de paralisação para manutenções e correções que não foram previamente definidas.
+
+
+- A qualidade de um Software está ligado a um bom processo de desenvolvimento
+
+- Fatores:
+
+    1. Prazo de execução do projeto
+    2. Assertividade
+    3. Funcionamento sem falhas inesperadas
+    4. Sem manutenções constantes
+
+# P
 
 Tal preocupação, deu-se a partir dos anos de 1960, quando, por falta de padronização no desenvolvimento, a demanda crescente de desenvolvimento, os custos de prazos mal definidos, o serviço descompromissado das equipes de tecnologia e a ausência de confiança dos clientes, fez sugir uma fase denominada pela expressão Crise de Software, evidenciando a necessidade de que adequações fossem definidas para que o processo se tornasse mais profissinal (SOMMERVILLE, 2011).
 
