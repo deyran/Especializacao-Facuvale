@@ -38,11 +38,54 @@ Um software não se constitui unicamente pelas linhas de código executáveis. I
     - Ajustes de definição ou preferências para atender necessidades do usuário ou otimização de desempenho
     - Exemplos: Preferência de exibição; Opções de idiomas; Permissões de acesso; entre outros
 
-# P
+# Processo de Software
 
 Diante deste entendimento, o processo de desenvolvimento de software ou simplesmente processo de software, se refere a toda uma gama de ações executadas no âmbito do desenvolvimento do produto de software, incorporando desde o levantamento de requisitos, escolha da linguagem, e alcançando inclusive, a analise de performance (SOMMEERVILLE, 2011; HIRAMA, 2012; PETERS, 2001).
 
 Assim, no processo de software são estabelecidos os métodos (o que fazer), as ferramentas (material a ser utilizado), e os procedimentos (como fazer) de modo garantir que o produto alcance o resultado planejado (PRESSMAN, 2011).
+
+
+- Conjunto de ações executadas no âmbito do desenvolvimento de software
+
+    - Requisitos
+
+        1. Levantamento de requisitos
+        2. Análise de requisitos
+        3. Especificação de requisitos
+
+    - Design/Arquitetura
+
+	    1. Design de alto nível
+	    2. Design de baixo nível
+
+    - Implementação/Codificação
+
+        1. Codificação
+        2. Revisão de código
+        3. Gerenciamento de versão
+
+    - Testes
+
+        1. Teste unitário
+        2. Teste de integração
+        3. Teste de Sistema
+        4. Teste de aceitação
+
+    - Implantação/Entrega
+
+        1. Preparação do Ambiente
+        2. Implantação (Deploy)
+        3. Planejamento de lançamento
+
+    - Manutenção
+
+        1. Manutenção corretiva
+        2. Manutenção adaptativa
+        3. Manutenção evolutiva
+
+-  Garatem que o produto final atenda os resultados esperados
+
+# P
 
 É justamente pelo desenvolvimento de um bom processo de software que se pretende alcançar a qualidade do produto desenvolvido e/ou evoluído, o que por sua vez requer organização e definição de ações atuantes para o alcance de agilidade e transformação tecnológica, considerando o contexto de prazo e assertividade do produto (WAZLAWICK, 2013).
 
