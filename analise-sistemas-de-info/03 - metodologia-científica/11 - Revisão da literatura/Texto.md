@@ -1,9 +1,5 @@
 # Revisão da literatura: Por que e como fazer?
 
-# Analise de sistemas de informações
-## Metodologia científica
-### Revisão da literatura: Por que e como fazer?
-
 A revisão da literatura constitui um mapeamento essencial do conhecimento científico sobre seu tema de pesquisa. Esta etapa fundamental para trabalhos acadêmicos na graduação (TCCs, artigos ou projetos) organiza sistematicamente as descobertas e contribuições anteriores, criando uma base sólida para sua investigação.
 
 O desenvolvimento de três competências é essencial para uma revisão eficaz: habilidade em localizar fontes acadêmicas confiáveis (Google Acadêmico, SciELO, bibliotecas digitais), capacidade de análise crítica de textos científicos, e aptidão para estabelecer conexões significativas entre diferentes perspectivas teóricas.
