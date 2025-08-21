@@ -111,6 +111,7 @@ Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que 
 ## Engenharia de Software
 ### Definição e importância do processo de desenvolvimento de software
 #### Crise de Software
+##### Falha na comunicação
 
 - *Surgimento e causa*
 
@@ -130,6 +131,12 @@ Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que 
     - Esse quadro impedia a evolução tecnológica dos sistemas
 
 - Falha na comunicação
+
+    - Comunicação entre equipe de TI e clientes era precária ou inexistentes
+    - A equipe de TI não entendia as necessidades do cliente
+    - Isso gerava falha no desenvolvimento do Sistema
+    - Como consequência, ciclos de correções contínuas e intermináveis
+  
 - Ausência de avaliação de eficácia
 
 
