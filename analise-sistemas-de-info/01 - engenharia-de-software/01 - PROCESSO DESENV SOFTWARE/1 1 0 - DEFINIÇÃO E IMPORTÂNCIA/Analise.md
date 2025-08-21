@@ -111,7 +111,7 @@ Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que 
 ## Engenharia de Software
 ### Definição e importância do processo de desenvolvimento de software
 #### Crise de Software
-##### Falha na comunicação
+##### Ausência de avaliação de eficácia
 
 - *Surgimento e causa*
 
@@ -139,6 +139,8 @@ Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que 
   
 - Ausência de avaliação de eficácia
 
+    - Nâo existiam métodos que avaliassem a eficácia dos softwares desenvolvidos
+    - Portanto, não tinha criação de estimativas precisas e nem previsões de necessidades futuras,
 
 # p
 
