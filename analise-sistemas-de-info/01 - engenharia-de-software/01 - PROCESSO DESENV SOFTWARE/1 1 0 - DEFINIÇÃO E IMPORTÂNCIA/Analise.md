@@ -137,7 +137,7 @@ Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que 
     - Nâo existiam métodos que avaliassem a eficácia dos softwares desenvolvidos
     - Portanto, não tinha criação de estimativas precisas e nem previsões de necessidades futuras,
 
-# Atividades fundamentais do PDS
+# Atividades fundamentais do Processo de Software
 
 Assim a crise de software impulsionou o processo de software, e este, por sua vez, passou a englobar atividades fundamentais voltadas ao desenvolvimento e/ou evolução em um processo de software, como mostrado a seguir:
 
@@ -166,23 +166,25 @@ O processo de software passou a permitir efetivas melhorias em relação ao trei
 ## Engenharia de Software
 ### Definição e importância do processo de desenvolvimento de software
 #### Crise de Software
-##### Atividades fundamentais do PDS
+##### Atividades fundamentais do Processo de Software
 ###### Crise de Software
 
+Leia o texto é um resumo organizado, corrija erros e sugira melhorias:
 
 - Crise de Software
 
-  - O PDS é uma resposta direta a Crise de Software
-  - Processos mais organizados e eficientes para desenvolver Sistemas
-  - O PDS é divido em quatro etapas fundamentais: 
-    
-    1. Especificação de Software
-    2. Projeto e implatanção de Software
-    3. Validação de Software
-    4. Evolução de Software        
+  - O Processo de Software é uma resposta direta a Crise de Software
 
-- Etapas do PDS
-- Retorno do PDS
+  - Estabeleceu um conjunto atividades mais organizados e eficientes para o desenvolvimento de programas de computador
+  
+  - Esse processo é divido em quatro etapas fundamentais: 
+    
+    1. *Especificação de Software*: Define as funcionalidades e requisitos do projeto
+    2. *Projeto e implantação de Software*: Etapa de desenvolvimento de software
+    3. *Validação de Software*: Testa a solução para garantir que ela atende ao que foi solicitado
+    4. *Evolução de Software*: Ajustes e mudanças contínuas para atender as necessidades do cliente
+
+- Retorno do Processo de Software
 
 # P
 
