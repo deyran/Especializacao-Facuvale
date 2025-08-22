@@ -107,11 +107,6 @@ Além deste fato, a comunicação entre o cliente e a TI era precária ou inexis
 
 Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que permitissem proceder com a definição de estimativas de maior precisão em relação ao software desenvolvido e entregue, o que efetivamente impactava na possibilidade de se prospectar a necessidade de treinamentos  de manutenções preventivas aos sistemas (SOMMERVILLE, 2011).
 
-# Analise de sistemas de informações
-## Engenharia de Software
-### Definição e importância do processo de desenvolvimento de software
-#### Crise de Software
-##### Ausência de avaliação de eficácia
 
 - *Surgimento e causa*
 
@@ -142,7 +137,7 @@ Outro aspecto impactante era a ausência dos meios avaliativos de eficácia que 
     - Nâo existiam métodos que avaliassem a eficácia dos softwares desenvolvidos
     - Portanto, não tinha criação de estimativas precisas e nem previsões de necessidades futuras,
 
-# p
+# Atividades fundamentais do PDS
 
 Assim a crise de software impulsionou o processo de software, e este, por sua vez, passou a englobar atividades fundamentais voltadas ao desenvolvimento e/ou evolução em um processo de software, como mostrado a seguir:
 
@@ -164,7 +159,32 @@ Atividade de ajuste com mudanças voltadas a garantir total atendimento às nece
 
 Tais ações demonstram o nível de profissionalismo alcançado a partir do processo de software em oposição à ausência de definição do processo como acontecia anteriormente à crise do software.
 
-O processo de software passou a permitir efetivas melhorias em relação ao treinamento de usuários, padronização de desenvolvimento e possibilidade da experiência do usuário se mais compreendida e aperfeiçoada por meio do sistema (WASTLAWICK, 2013).
+O processo de software passou a permitir efetivas melhorias em relação ao treinamento de usuários, padronização de desenvolvimento e possibilidade da experiência do usuário ser mais compreendida e aperfeiçoada por meio do sistema (WASTLAWICK, 2013).
+
+
+# Analise de sistemas de informações
+## Engenharia de Software
+### Definição e importância do processo de desenvolvimento de software
+#### Crise de Software
+##### Atividades fundamentais do PDS
+###### Crise de Software
+
+
+- Crise de Software
+
+  - O PDS é uma resposta direta a Crise de Software
+  - Processos mais organizados e eficientes para desenvolver Sistemas
+  - O PDS é divido em quatro etapas fundamentais: 
+    
+    1. Especificação de Software
+    2. Projeto e implatanção de Software
+    3. Validação de Software
+    4. Evolução de Software        
+
+- Etapas do PDS
+- Retorno do PDS
+
+# P
 
 Neste âmbito, cabe reconhecer que quando um processo de software é especificado também são definidas descrições, como é mostrado logo abaixo:
 
