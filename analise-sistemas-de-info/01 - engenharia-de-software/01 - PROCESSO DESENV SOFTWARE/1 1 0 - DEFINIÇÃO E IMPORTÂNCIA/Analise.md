@@ -162,6 +162,7 @@ Tais ações demonstram o nível de profissionalismo alcançado a partir do proc
 O processo de software passou a permitir efetivas melhorias em relação ao treinamento de usuários, padronização de desenvolvimento e possibilidade da experiência do usuário ser mais compreendida e aperfeiçoada por meio do sistema (WASTLAWICK, 2013).
 
 
+
 - O Processo de Software é uma resposta direta a Crise de Software
 
 - Estabeleceu um conjunto atividades mais organizados e eficientes para o desenvolvimento de programas de computador
@@ -190,6 +191,14 @@ Pessoas responsáveis e envolvidas no processo.
 Declarações prévias ou posteriores ao processo e que merecem atenção
 
 Cabe destacar, que quando definidos os papeis referente as pessoas responsáveis e envolvidas no processo tem-se um termo técnico comumente utilizado que é o Stakeholder, ou seja, todos aqueles que são responsáveis, possuem interesses e/ou ainda são afetados pela criação de software e pela incorporação deles nas atividades de negócio (OLIVEIRA, 2018).
+
+# Analise de sistemas de informações
+## Engenharia de Software
+### Definição e importância do processo de desenvolvimento de software
+#### Crise de Software
+##### Atividades fundamentais do Processo de Software
+
+# P
 
 No intuito de que o Processo de Software, embasado nas ações e nas especificações já apontadas, alcançasse a possibilidade de acompanhar o desenvolvimento e a evolução de um software, concebeu-se o entendimento acerca do Ciclo de Vida de Software (WAZLAWICK, 2013).
 
