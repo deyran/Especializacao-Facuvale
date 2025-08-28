@@ -162,29 +162,16 @@ Tais ações demonstram o nível de profissionalismo alcançado a partir do proc
 O processo de software passou a permitir efetivas melhorias em relação ao treinamento de usuários, padronização de desenvolvimento e possibilidade da experiência do usuário ser mais compreendida e aperfeiçoada por meio do sistema (WASTLAWICK, 2013).
 
 
-# Analise de sistemas de informações
-## Engenharia de Software
-### Definição e importância do processo de desenvolvimento de software
-#### Crise de Software
-##### Atividades fundamentais do Processo de Software
-###### Crise de Software
+- O Processo de Software é uma resposta direta a Crise de Software
 
-Leia o texto é um resumo organizado, corrija erros e sugira melhorias:
-
-- Crise de Software
-
-  - O Processo de Software é uma resposta direta a Crise de Software
-
-  - Estabeleceu um conjunto atividades mais organizados e eficientes para o desenvolvimento de programas de computador
+- Estabeleceu um conjunto atividades mais organizados e eficientes para o desenvolvimento de programas de computador
   
-  - Esse processo é divido em quatro etapas fundamentais: 
-    
-    1. *Especificação de Software*: Define as funcionalidades e requisitos do projeto
-    2. *Projeto e implantação de Software*: Etapa de desenvolvimento de software
-    3. *Validação de Software*: Testa a solução para garantir que ela atende ao que foi solicitado
-    4. *Evolução de Software*: Ajustes e mudanças contínuas para atender as necessidades do cliente
-
-- Retorno do Processo de Software
+- Esse processo é divido em quatro etapas fundamentais: 
+  
+  1. *Especificação de Software*: Define as funcionalidades e requisitos do projeto
+  2. *Projeto e implantação de Software*: Etapa de desenvolvimento de software
+  3. *Validação de Software*: Testa a solução para garantir que ela atende ao que foi solicitado
+  4. *Evolução de Software*: Ajustes e mudanças contínuas para atender as necessidades do cliente
 
 # P
 
