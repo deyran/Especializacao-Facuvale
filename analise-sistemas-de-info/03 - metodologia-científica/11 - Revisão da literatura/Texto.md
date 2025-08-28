@@ -4,18 +4,20 @@ A revisão da literatura constitui um mapeamento essencial do conhecimento cient
 
 O desenvolvimento de três competências é essencial para uma revisão eficaz: habilidade em localizar fontes acadêmicas confiáveis (Google Acadêmico, SciELO, bibliotecas digitais), capacidade de análise crítica de textos científicos, e aptidão para estabelecer conexões significativas entre diferentes perspectivas teóricas.
 
-1. Explore o campo de estudo
+    1. Explore o campo de estudo
 
-    Identifique autores de referência, principais teorias e conceitos-chaves da sua área. Utilize termos específicos nas buscas por publicações recentes, e relevantes, classificando os materiais por abordagens ou evolução cronológica
+        Identifique autores de referência, principais teorias e conceitos-chaves da sua área. Utilize termos específicos nas buscas por publicações recentes, e relevantes, classificando os materiais por abordagens ou evolução cronológica
 
-2. Compare diferentes visões
+    2. Compare diferentes visões
 
-    Examine criticamente as diversas abordagens sobre o tema, destacando convergências e contraposições teóricas. Esta análise comparativa enriquece sua compreensão e facilita o desenvolvimento de um posicionamento fundamentado
+        Examine criticamente as diversas abordagens sobre o tema, destacando convergências e contraposições teóricas. Esta análise comparativa enriquece sua compreensão e facilita o desenvolvimento de um posicionamento fundamentado
 
-3. Avalie metodologias
+    3. Avalie metodologias
 
-    Estude os procedimentos metodológicos utilizados em pesquisas anteriores, identificando suas potencialidades e limitações. Este conhecimento instrumental aprimora o planejamento e execução da sua própria investigação
+        Estude os procedimentos metodológicos utilizados em pesquisas anteriores, identificando suas potencialidades e limitações. Este conhecimento instrumental aprimora o planejamento e execução da sua própria investigação
 
-4. Sintetize o conhecimento
+    4. Sintetize o conhecimento
 
-    Integre as diversas fontes consultadas em uma estrutura coerente que reflita sua compreensão única do tema. Utilize técnicas de organização como fichamentos, resumos críticos e mapas conceituais
+        Integre as diversas fontes consultadas em uma estrutura coerente que reflita sua compreensão única do tema. Utilize técnicas de organização como fichamentos, resumos críticos e mapas conceituais
+
+Ao realizar uma revisão de literatura eficaz, você não apenas compreende o estado atual do conhecimento, mas também identifica lacunas e oportunidades para sua contribuição original. Este processo fundamenta sua investigação e demonstra rigor acadêmico, mesmo em seu primeiro trabalho científico na graduação.
