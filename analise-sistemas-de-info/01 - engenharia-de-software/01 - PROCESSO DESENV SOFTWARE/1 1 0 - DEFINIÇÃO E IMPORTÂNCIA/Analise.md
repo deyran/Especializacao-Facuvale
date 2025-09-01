@@ -174,7 +174,7 @@ O processo de software passou a permitir efetivas melhorias em relação ao trei
   3. *Validação de Software*: Testa a solução para garantir que ela atende ao que foi solicitado
   4. *Evolução de Software*: Ajustes e mudanças contínuas para atender as necessidades do cliente
 
-# P
+# Componentes de um Processo de Software
 
 Neste âmbito, cabe reconhecer que quando um processo de software é especificado também são definidas descrições, como é mostrado logo abaixo:
 
@@ -192,14 +192,14 @@ Declarações prévias ou posteriores ao processo e que merecem atenção
 
 Cabe destacar, que quando definidos os papeis referente as pessoas responsáveis e envolvidas no processo tem-se um termo técnico comumente utilizado que é o Stakeholder, ou seja, todos aqueles que são responsáveis, possuem interesses e/ou ainda são afetados pela criação de software e pela incorporação deles nas atividades de negócio (OLIVEIRA, 2018).
 
-# Analise de sistemas de informações
-## Engenharia de Software
-### Definição e importância do processo de desenvolvimento de software
-#### Crise de Software
-##### Atividades fundamentais do Processo de Software
-
 # P
 
 No intuito de que o Processo de Software, embasado nas ações e nas especificações já apontadas, alcançasse a possibilidade de acompanhar o desenvolvimento e a evolução de um software, concebeu-se o entendimento acerca do Ciclo de Vida de Software (WAZLAWICK, 2013).
 
 O Ciclo de Vida do Software, de acordo com Wazlawick (2013) incorpora em si as ações pertinentes a todo período de existência de um software, incluindo a atualização do sistema em face das atividades dos usuários sofrerem ajustes, o que, por conseguinte, leva a alterações evolutivas na ferramenta.
+
+# Analise de sistemas de informações
+## Engenharia de Software
+### Definição e importância do processo de desenvolvimento de software
+#### Crise de Software
+##### Componentes de um Processo de Software
