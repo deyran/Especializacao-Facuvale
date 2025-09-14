@@ -8,5 +8,8 @@ O referencial teórico funciona como alicerce do seu trabalho acadêmico. É nel
 
 A construção de um bom referencial teórico exige fontes adequadas. Utilize o Google Scholar (Google Acadêmico), a biblioteca virtual da sua universidade e o Portal de Periódicos CAPES. Blogs, sites comerciais ou Wikipedia podem servir como ponto de partida para exploração inicial, mas priorize artigos científicos, livros acadêmicos e dissertações para citações formais no seu trabalho
 
-## Organização das ideias
+## Organização das Ideias
+
+Durante a leitura dos textos selecionados, faça fichamentos destacando as ideias centrais de cada autor. Compare diferentes perspectivas sobre o mesmo tema. Em um estudo sobre motivação no trabalho, organize autores com teorias distintas, demonstrando como cada um aborda o fenômeno.
+
 ## Conexão entre Diferentes Áreas
