@@ -17,3 +17,5 @@ A metodologia de pesquisa funciona como um mapa que orienta seu trabalho acadêm
 4. Cuidados Éticos e Validação
 
     Verifique a necessidade de aprovação pelo comitê de Ética,  prepare documentos de consentimento para pesquisas com pessoas, e realize testes preliminares dos instrumentos para assegurar sua eficácia.
+
+Uma metodologia clara e bem estruturada forma a base para que seu trabalho seja reconhecido como pesquisa séria. O planejamento metodológico cuidadoso facilita a execução e aumenta a confiabilidade dos resultados. Mantenha constante comunicação com seu orientador e documente detalhadamente todos as decisões metodológicas tomadas durante o processo.
