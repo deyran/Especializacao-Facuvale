@@ -13,3 +13,5 @@ A construção de um bom referencial teórico exige fontes adequadas. Utilize o 
 Durante a leitura dos textos selecionados, faça fichamentos destacando as ideias centrais de cada autor. Compare diferentes perspectivas sobre o mesmo tema. Em um estudo sobre motivação no trabalho, organize autores com teorias distintas, demonstrando como cada um aborda o fenômeno.
 
 ## Conexão entre Diferentes Áreas
+
+Muitos temas acadêmicos envolvem múltiplas áreas do conhecimento. Uma pesquisa sobre marketing nas redes sociais pode incorporar conceitos de comunicação, psicologia e tecnologia. Busque referências interdisciplinares e demonstre como se relacionam com seu tema principal. Esta abordagem enriquece sua análise e proporciona uma visão mais abrangente do assunto estudados.
