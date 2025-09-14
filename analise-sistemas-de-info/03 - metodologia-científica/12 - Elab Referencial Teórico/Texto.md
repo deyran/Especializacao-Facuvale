@@ -14,4 +14,8 @@ Durante a leitura dos textos selecionados, faça fichamentos destacando as ideia
 
 ## Conexão entre Diferentes Áreas
 
-Muitos temas acadêmicos envolvem múltiplas áreas do conhecimento. Uma pesquisa sobre marketing nas redes sociais pode incorporar conceitos de comunicação, psicologia e tecnologia. Busque referências interdisciplinares e demonstre como se relacionam com seu tema principal. Esta abordagem enriquece sua análise e proporciona uma visão mais abrangente do assunto estudados.
+Muitos temas acadêmicos envolvem múltiplas áreas do conhecimento. Uma pesquisa sobre marketing nas redes sociais pode incorporar conceitos de comunicação, psicologia e tecnologia. Busque referências interdisciplinares e demonstre como se relacionam com seu tema principal. Esta abordagem enriquece sua análise e proporciona uma visão mais abrangente do assunto estudado.
+
+# Acompanhamento das Novidades
+
+Mantenha-se atualizado sobre seu tema através de alertas do Google Scholar, grupos de pesquisa no ResearchGate u Academia.edu. Combine referências recentes (últimos 5 anos) com textos clássicos fundamentais. Em campos dinâmicos como tecnologia ou gestão, as mudanças ocorrem rapidamente, sendo essencial demonstrar conhecimento das discussões contemporâneas em sua área.
