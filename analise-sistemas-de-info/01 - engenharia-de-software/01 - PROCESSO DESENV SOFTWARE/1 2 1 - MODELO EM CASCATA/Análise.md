@@ -1,11 +1,6 @@
 # Modelo em cascata - Análise
 
-# Analise de sistemas de informações 
-## Engenharia de Software 
-### Processo de Desenvolvimento de Software 
-#### Modelos de processos de software 
-##### Modelo em cascata
-###### Características Principais
+# Características Principais
 
 O modelo cascata é um clássico, desenvolvendo-se de forma sistemática, encadeada e previamente planejada em sua totalidade, de modo que uma etapa depende diretamente da outra e a próxima somente inicia a partir do momento que a anterior se encontra finalizada (SOMMERVILLE, 2011; PRESSMAN, 2011).
 
@@ -15,9 +10,22 @@ O modelo cascata é um clássico, desenvolvendo-se de forma sistemática, encade
 - É um processo sistemático e planejado do início ao fim.
 - Cada etapa depende da conclusão da precedente
 
-# P
+# Analise de sistemas de informações 
+## Engenharia de Software 
+### Processo de Desenvolvimento de Software 
+#### Modelos de processos de software 
+##### Modelo em cascata
+###### Críticas e Desafios
 
 Justamente pelo fato de este modelo seguir um planjamento prévio, também chegou a receber a denominação de **Processo dirigido a Planos**, no entanto, vale a crítica de que, mesmo em sua orientação a planos, por vezes o modelo efetiva levantamento de requisitos de modo superficial, não define processos padronizados a serem seguidos pela equipe como um todo e conta com certa dificuldade em rever as falhas antes da finalização de uma etapa, e até do projeto como um todo (SOMMERVILLE 2011, PRESSMAN; MAXIM, 2016).
+
+
+- Também chamado de Processo Dirigido a Planos
+- O levantamento de requisitos pode ser superficial
+- Não defino processos padronizados para equipe
+- Dificuldade de corrigir problemas antes que uma etapa ou projeto inteiro seja finalizada
+
+# P
 
 Assim, pela não ocorrência de critérios de avaliação e controle que favoreçam o feedback das ações efetivadas durante a execução do projeto, tem-se que, por vezes, o projeto consegue ser paralisado em uma dada etapa em vista conseguir cumprir os critérios estabelecidos, levando a não obediência de prazos ajustados com o cliente e, por seguinte, o aumento do custo final do produto (PRESSMAN, 2011).
 
