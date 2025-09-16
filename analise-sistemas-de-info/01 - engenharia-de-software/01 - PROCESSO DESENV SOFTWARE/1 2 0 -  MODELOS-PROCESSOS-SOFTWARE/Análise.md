@@ -56,16 +56,13 @@ Fase em que estando o sistema finalizado, ele é disseminado pela organização 
 
 Fase em que após a entrega, faz-se importante a correção de falhas, a melhoria de desempenho e adaptações de acordo com a necessidade do cliente.
 
-
-# Analise de sistemas de informações 
-## Engenharia de Software 
-### Processo de Desenvolvimento de Software 
-#### Modelos de processos de software 
-##### Ciclo de Vida de Software
-
-
-# P
+# A importância da documentação e a escolha do modelo
 
 Cabe, por último considerar a importância da documentação completa do processo de software, no qual efetivamente, através de diagramas de caso de uso especifica-se todo o ciclo, incluindo desde os requisitos até o planejamento de manutenção, garantindo que outras equipes de tecnologia possam tranquilamente se posicionar em prol da evolução do sistema.
 
 Os conceitos apresentados apenas clarificam em relação às suas funções, e que não existe um único modelo para o desenvolvimento de um projeto, cabendo a escolha por parte da equipe de desenvolvimento embasada na filosofia de trabalho que emprega (PRESSMAN, 2011).
+
+- A documentação (diagramas e especificação) é crucial para equipe de desenvolvimento.
+- A documentação ajuda a equipe entender e trabalhar no sistema no futuro.
+- Não existe um único modelo de processo ideal.
+- A escolha de um modelo depende das filosofia e necessiades da equipe.
