@@ -1,13 +1,13 @@
 # Modelos de processos de software - Analise
 
-# Processo de Software
+# Processo de Software e Modelo de Processo de Software
 
 Um processo de software configura-se em um conjunto de atividades complexas e especializadas, de modo que um modelo de um processo de software representa e fornece, de modo simples, informações e visibilidade acerca do processo em si traduzidas na forma de estruturas/esquematizações fornecedores de uma visão didática de como proceder com as etapas que devem se fazer efetivadas (SOMMERVILLE, 2011; PRESSMAN, 2011).
 
 
 - Um Processo de Sotware é uma série de atividades complexas e especializadas
   
-- Um Modelo de Processo de Software 
+- Um Modelo de Processos de Software 
 
     1. Fornece uma representação simplificada de como desenvolver um software
     2. Organiza e descreve as etapas do trabalho de forma clara
