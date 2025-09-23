@@ -13,4 +13,6 @@ A coleta e análise de dados representam o núcleo operacional da sua investiga�
 # Analise de sistemas de informações
 ## Metodologia científica
 ### Coleta e Análise de dados: Guia Prático
-#### Métodos de abordagem 
+#### Métodos de abordagem
+
+    Utilize abordagens quantitativas para dados numéricos (estatística e gráficos) ou qualitativas para informações textuais (categorização temática). Cada método oferece perspectivas distintas sobre suas descobertas
