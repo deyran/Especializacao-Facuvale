@@ -26,10 +26,29 @@ Justamente pelo fato de este modelo seguir um planjamento prévio, também chego
 ### Processo de Desenvolvimento de Software 
 #### Modelos de processos de software 
 ##### Modelo em cascata
-###### Impacto nas Entregas e Custos
+###### Falta de controle e feedback
 
 Assim, pela não ocorrência de critérios de avaliação e controle que favoreçam o feedback das ações efetivadas durante a execução do projeto, tem-se que, por vezes, o projeto consegue ser paralisado em uma dada etapa em vista conseguir cumprir os critérios estabelecidos, levando a não obediência de prazos ajustados com o cliente e, por seguinte, o aumento do custo final do produto (PRESSMAN, 2011).
 
-Para este modelo a documentação se faz desenvolvida a cada fase, permitindo que as ações sejam visíveis para a gestão, no entando a possibilidade de replanejamento e mudanças durante a execução não é parte do seu escopo, demonstrando riscos e incapacidade de gestão latentes (PRESSMAN, 2011; PRESSMAN; MAXIM, 2011).
+- Sem feedback durante a execução do projeto pode causar problemas.
+
+    1. Avaliação do andamento
+    2. Identificação de problemas
+    3. Ajustar o plano
+
+- A paralisação do projeto é inevitável
+
+    1. Sem feedback, a equipe trabalha em algo que não atende aos critérios estabelecidos
+    2. Quando a falha é identificada o projeto precisa ser interrompido.
+
+        1. Reavaliar o que foi feito
+        2. Ajustar o plano
+        3. Realinhar a equipe
+        4. Isso gera Atrasos
+        5. Com atrasos, aumento de custo
+
+# p
+
+Para este modelo a documentação se faz desenvolvida a cada fase, permitindo que as ações sejam visíveis para a gestão, no entanto a possibilidade de replanejamento e mudanças durante a execução não é parte do seu escopo, demonstrando riscos e incapacidade de gestão latentes (PRESSMAN, 2011; PRESSMAN; MAXIM, 2011).
 
 No entanto, cabe ressaltar que, em caso de definições bem efetivadas de requisitos e ausência de necessidade de mudanças/ajustes ao longo do desenvolvimento do sistema, o modelo se aplica perfeitamente, principalmente em face da sua simplicidade de compreensão e uso (WAZLAWICK, 2013).
