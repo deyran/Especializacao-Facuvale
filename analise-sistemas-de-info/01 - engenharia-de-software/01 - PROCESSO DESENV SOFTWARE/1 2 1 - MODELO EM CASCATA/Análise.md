@@ -20,13 +20,7 @@ Justamente pelo fato de este modelo seguir um planjamento prévio, também chego
 - Não define processos padronizados para equipe
 - Dificuldade de corrigir problemas antes que uma etapa ou projeto inteiro seja finalizada
 
-
-# Analise de sistemas de informações 
-## Engenharia de Software 
-### Processo de Desenvolvimento de Software 
-#### Modelos de processos de software 
-##### Modelo em cascata
-###### Falta de controle e feedback
+# Falta de controle e feedback
 
 Assim, pela não ocorrência de critérios de avaliação e controle que favoreçam o feedback das ações efetivadas durante a execução do projeto, tem-se que, por vezes, o projeto consegue ser paralisado em uma dada etapa em vista conseguir cumprir os critérios estabelecidos, levando a não obediência de prazos ajustados com o cliente e, por seguinte, o aumento do custo final do produto (PRESSMAN, 2011).
 
@@ -47,8 +41,15 @@ Assim, pela não ocorrência de critérios de avaliação e controle que favore�
         4. Isso gera Atrasos
         5. Com atrasos, aumento de custo
 
-# p
+# # Analise de sistemas de informações 
+## Engenharia de Software 
+### Processo de Desenvolvimento de Software 
+#### Modelos de processos de software 
+##### Modelo em cascata
+###### Documentação e rigidez do model
 
 Para este modelo a documentação se faz desenvolvida a cada fase, permitindo que as ações sejam visíveis para a gestão, no entanto a possibilidade de replanejamento e mudanças durante a execução não é parte do seu escopo, demonstrando riscos e incapacidade de gestão latentes (PRESSMAN, 2011; PRESSMAN; MAXIM, 2011).
+
+# Quando o modelo funciona
 
 No entanto, cabe ressaltar que, em caso de definições bem efetivadas de requisitos e ausência de necessidade de mudanças/ajustes ao longo do desenvolvimento do sistema, o modelo se aplica perfeitamente, principalmente em face da sua simplicidade de compreensão e uso (WAZLAWICK, 2013).
