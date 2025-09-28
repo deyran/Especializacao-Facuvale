@@ -24,12 +24,7 @@
 - Avaliação de projetos e erros de interface
 - Priorizar a experiência do usuário como um diferencial no processo
 
-# Analise de sistemas de informações 
-## Engenharia de Software 
-### Processo de Desenvolvimento de Software 
-#### Modelos de processos de software 
-##### Modelo de prototipação
-###### Etapas do modelo de prototipação
+## Etapas do modelo de prototipação
 
 *1º Etapa*: Obtenção de requisitos para o plano de prototipação
  
