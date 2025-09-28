@@ -1,15 +1,21 @@
 # Modelo de prototipação
 
+## O que é um protótipo?
+
+- Representação visual, funcional e simples do produto
+- Perminte o usuário experimentar as funcionalidades do protótipo
+- Facilita troca de informações para possíveis melhorias
+
 # Analise de sistemas de informações 
 ## Engenharia de Software 
 ### Processo de Desenvolvimento de Software 
 #### Modelos de processos de software 
 ##### Modelo de prototipação
-###### O que é um protótipo?
+###### Quando usar a prototipação?
 
-- Representação visual, funcional e simples do produto
-- Perminte o usuário experimentar as funcionalidades proposta
-- Facilita troca de informações para possíveis melhorias
+- Quando o usuário não consegue definir suas necessidades de sistema
+- A interação ativa com o protótipo permite expressar suas necessidades
+
 
 # P
 
