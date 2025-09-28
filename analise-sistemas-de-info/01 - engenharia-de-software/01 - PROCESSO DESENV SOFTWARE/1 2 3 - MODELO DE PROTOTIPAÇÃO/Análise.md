@@ -6,15 +6,22 @@
 - Perminte o usuário experimentar as funcionalidades do protótipo
 - Facilita troca de informações para possíveis melhorias
 
+## Quando usar a prototipação?
+
+- Quando o usuário não consegue definir suas necessidades de sistema
+- A interação ativa com o protótipo permite expressar suas necessidades
+
 # Analise de sistemas de informações 
 ## Engenharia de Software 
 ### Processo de Desenvolvimento de Software 
 #### Modelos de processos de software 
 ##### Modelo de prototipação
-###### Quando usar a prototipação?
+###### Vantagens do Prototipo
 
-- Quando o usuário não consegue definir suas necessidades de sistema
-- A interação ativa com o protótipo permite expressar suas necessidades
+- Custo baixo
+- Levantamento de requisitos mais eficiente
+- Feedback do cliente para ajustes antes da finalização do projeto
+- Testagem e ajuste fácil da usabilidade do produto
 
 
 # P
