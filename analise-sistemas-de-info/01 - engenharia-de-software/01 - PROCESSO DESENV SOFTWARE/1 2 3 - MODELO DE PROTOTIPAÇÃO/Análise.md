@@ -11,18 +11,23 @@
 - Quando o usuário não consegue definir suas necessidades de sistema
 - A interação ativa com o protótipo permite expressar suas necessidades
 
-# Analise de sistemas de informações 
-## Engenharia de Software 
-### Processo de Desenvolvimento de Software 
-#### Modelos de processos de software 
-##### Modelo de prototipação
-###### Vantagens do Prototipo
+## Vantagens do Prototipo
 
 - Custo baixo
 - Levantamento de requisitos mais eficiente
 - Feedback do cliente para ajustes antes da finalização do projeto
 - Testagem e ajuste fácil da usabilidade do produto
 
+# Analise de sistemas de informações 
+## Engenharia de Software 
+### Processo de Desenvolvimento de Software 
+#### Modelos de processos de software 
+##### Modelo de prototipação
+#### Aplicações principais
+
+- Levantamento e validação de requisitos
+- Avaliação de projetos e erros de interface
+- Priorizar a experiência do usuário como um diferencial no processo
 
 # P
 
