@@ -1,7 +1,7 @@
-# Discussão dos Resultados
+# Discussão dos Resultados - Análise
 
-A discussão dos resultados é onde você interpreta suas descobertas e as contextualiza dentro da literatura científica existente. Nesta etapa, você demonstra como sua pesquisa contribui para o campo de estudo, conectando suas conclusões com o conhecimento prévio sobre o tema.
+## O que é discussão dos resultados
 
-Ao desenvolver esta seção, você deve analisar criticamente seus achados, identificando padrões, tendência e relações que respondam à sua pergunta de pesquisa. Por exemplo, se sua investigação revelou que alunos têm melhor desempenho em aulas práticas, você precisará contextualizar esse resultado com estudos similares, explicando se suas conclusões reforçam, contradizem ou ampliam o entendimento atual sobre metodologia de ensino.
-
-Para uma discussão eficaz, três princípios são fundamentais: Objetividade (apresentar os fatos de forma clara e direta, sem opiniões pessoais), fundamentação (apoiar suas interpretações em estudos e teorias confiáveis) e reconhecimento das limitações do seu estudo (como amostra reduzida ou contexto específico). Equilibrando esses elementos, você constrói uma discussão que não apenas explica suas descobertas com clareza, mas também oferece base sólida para futuras pesquisas na área.
+- Intepretação das descobertas
+- Conexão com a literatura científica existente
+- Mostra que a pesquisa contribui para área de estudo
