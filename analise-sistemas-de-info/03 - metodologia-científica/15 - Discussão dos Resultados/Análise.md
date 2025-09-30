@@ -4,7 +4,7 @@
 
 - Intepretação das descobertas
 - Conexão com a literatura científica existente
-- Mostra que a pesquisa contribui para área de estudo
+- Mostrar que a pesquisa contribui para área de estudo
 
 ## Como Desenvolver a Discussão
 
