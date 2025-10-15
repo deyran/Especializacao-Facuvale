@@ -14,7 +14,7 @@ O progresso começa com uma *Descrição do Esboço*. O avança entre as etapas 
 
 ## Vantagem sobre o modelo cascata
 
-Este modelo foi criado como uma melhoria em relação ao modelo cascata tradicional, no qual os ajustes eram só podiam ser feitos no final do processo de desenvolvimento. O incremental permite ajustes antecipados e contínuos.
+Este modelo foi criado como uma melhoria em relação ao modelo cascata tradicional, no qual os ajustes só podiam ser feitos no final do processo de desenvolvimento. O incremental permite ajustes antecipados e contínuos.
 
 ## Casos de uso Indicados
 
