@@ -1,4 +1,6 @@
-# Modelo em Entrega Incremental - Resumo
+# Modelo em Entrega Incremental
+
+## Resumo
 
 - O cliente define as funcionálidades mais importantes do sistema.
 
