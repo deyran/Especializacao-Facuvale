@@ -6,7 +6,7 @@
 
 - Isso acelera a entrega e a prontidão do sistema para uso (operacionalização)
 
-# Vantagens do Modelo
+## Vantagens do Modelo
 
 - As primeiras versões podem funcionar como protótipo.
 
@@ -14,7 +14,7 @@
 
 - Facilita troca de informações entre o cliente e a equipe de desenvolvimento.
 
-# Fases do Modelo em Entrega Incremental
+## Fases do Modelo em Entrega Incremental
 
 - O modelo visa garantir a conclusão do sistema e a efetividade dos incrementos
 
@@ -31,7 +31,7 @@
   - Implantação
   - Sistema final
 
-# O modelo não é recomendado
+## O modelo não é recomendado
 
 - Sistemas de grande porte, exige divisão de trabalho em equipes
 
