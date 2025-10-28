@@ -22,14 +22,14 @@
 
 - Etapas do processo
 
-	- Definição do escopo
-	- Atribuição dos requisitos aos incrementos
-	- Projeto
-	- Desenvolvimento
-	- Validação
-	- Integração
-	- Implantação
-	- Sistema final
+  - Definição do escopo
+  - Atribuição dos requisitos aos incrementos
+  - Projeto
+  - Desenvolvimento
+  - Validação
+  - Integração
+  - Implantação
+  - Sistema final
 
 # O modelo não é recomendado
 
