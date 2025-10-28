@@ -14,11 +14,7 @@
 
 - Facilita troca de informações entre o cliente e a equipe de desenvolvimento.
 
-# Análise de Sistemas de Informação
-## Engenharia de Software
-### Processo de Desenvolvimento de Software
-#### Modelo em Entrega Incremental
-#### Fases do Modelo em Entrega Incremental
+# Fases do Modelo em Entrega Incremental
 
 - O modelo visa garantir a conclusão do sistema e a efetividade dos incrementos
 
@@ -34,3 +30,9 @@
 	- Integração
 	- Implantação
 	- Sistema final
+
+# O modelo não é recomendado
+
+- Sistemas de grande porte, exige divisão de trabalho em equipes
+
+- Sistemas de alta criticidade e periculosidade
