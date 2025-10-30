@@ -38,11 +38,7 @@
 
     - Consequência: Retrabalho e desenvolvimento do zero.
 
-# Análise de Sistemas de Informação
-## Engenharia de Software
-### Processo de Desenvolvimento de Software
-#### Modelo orientado ao Reuso
-##### Tipos de manutenção de Software
+## Tipos de manutenção de Software
 
 - *Corretiva*: Conserta erros que foram descobertos depois que o sistema foi entregue.
 
@@ -51,3 +47,9 @@
 - *Perfectiva*: Melhora o desempenho ou facilita futuras manutenções do sistema.
 
 - *Preventiva*: Corrige pequenas falhas antes que elas se tornem problemas sérios no sistema.
+
+## Importância da manutenção
+
+- Manutenção está essencialmente ligada à qualidade de Software (Manutenibilidade).
+
+- Evita que o sistema fique desatualizado e obsoleto
