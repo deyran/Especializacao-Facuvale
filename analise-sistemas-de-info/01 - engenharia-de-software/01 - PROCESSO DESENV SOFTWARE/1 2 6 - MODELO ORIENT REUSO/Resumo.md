@@ -22,11 +22,7 @@
 
 - *Validação do Sistema*: Testa o sistema após a entrega na organização.
 
-# Análise de Sistemas de Informação
-## Engenharia de Software
-### Processo de Desenvolvimento de Software
-#### Modelo orientado ao Reuso
-##### Vantagens e Desvantagens
+## Vantagens e Desvantagens
 
 - *Vantagens*
 
@@ -41,3 +37,17 @@
     - Risco dos requisitos não se encaixem com os módulos reusados.
 
     - Consequência: Retrabalho e desenvolvimento do zero.
+
+# Análise de Sistemas de Informação
+## Engenharia de Software
+### Processo de Desenvolvimento de Software
+#### Modelo orientado ao Reuso
+##### Tipos de manutenção de Software
+
+- *Corretiva*: Conserta erros que foram descobertos depois que o sistema foi entregue.
+
+- *Adaptativa*: Faz ajustes para que os sistema continue funcionando em novos ambientes ou com novas regras.
+
+- *Perfectiva*: Melhora o desempenho ou facilita futuras manutenções do sistema.
+
+- *Preventiva*: Corrige pequenas falhas antes que elas se tornem problemas sérios no sistema.
