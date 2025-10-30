@@ -16,7 +16,7 @@
 
 - *Alteração nos requisitos*: Ajusta as necessidades do sistema com base nos componentes encontrados.
 
-- *Projeto do sistema com reuso*: Crie a estrutura do sistema usando os elementos reusáveis.
+- *Projeto do sistema com reuso*: Cria a estrutura do sistema usando os elementos reusáveis.
 
 - *Desenvolvimento e integração*: Cria módulos novos (não reusáveis) e une tudo para formar o sistema completo.
 
