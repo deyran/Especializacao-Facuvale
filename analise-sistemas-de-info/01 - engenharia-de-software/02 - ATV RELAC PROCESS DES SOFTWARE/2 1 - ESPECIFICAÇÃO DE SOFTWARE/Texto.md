@@ -18,7 +18,7 @@ Sommerville (2011) e Pressman (2011) apresentam as atividades que fazem parte do
 
 - **Especificação de requisitos**
 
-    Tendo estudado a viabilidade e efetuivada a elicitação de requisitos, parti-se para o levantamento de informações efetivas e que devem ser registradas por meio dos requisitos de usuário (abstrações das necessidades efetivas do cliente e do usuário)  e requisitos de sistema (descrição da funcionalidades a serem implementadas pelo profissional de TI).
+    Tendo estudado a viabilidade e efetivada a elicitação de requisitos, parte-se para o levantamento de informações efetivas e que devem ser registradas por meio dos requisitos de usuário (abstrações das necessidades efetivas do cliente e do usuário) e requisitos de sistema (descrição da funcionalidades a serem implementadas pelo profissional de TI).
 
 - **Validação de requisitos**
 
