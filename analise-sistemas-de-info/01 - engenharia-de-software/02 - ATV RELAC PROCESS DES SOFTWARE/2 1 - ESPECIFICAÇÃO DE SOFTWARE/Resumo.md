@@ -8,16 +8,12 @@ A especificação de Software é uma fase crítica que define o sucesso ou insuc
 - Identificar restrições para o desenvolvimento
 - Documentar os requisitos do sistema para conhecimento do escopo da solução
 
-# Importância
+## Importância
 
 - A Especificação de Software representa o sucesso ou fracasso do Processo de Software
 - Requer responsabilidade e conhecimento para efetivação do processo
 
-# Análise de Sistemas de Informação
-## Engenharia de Software
-### Atividades Relacionadas ao Processo de Desenvolvimento de Software
-#### Especificação de Software
-##### Atividades do Processo
+## Atividades do Processo
 
 - *Estudo de Viabilidade* 
 
@@ -58,3 +54,13 @@ A especificação de Software é uma fase crítica que define o sucesso ou insuc
     1. Constatar se os requisitos serão atendidos pelo sistema
     2. Uma vez constatado, permirtir correções na especificação
     3. Feedback do cliente confirmando o cumprimento dos requisitos
+
+# Análise de Sistemas de Informação
+## Engenharia de Software
+### Atividades Relacionadas ao Processo de Desenvolvimento de Software
+#### Especificação de Software
+##### Tipos de Requisitos na análise
+
+- Requisitos funcionais
+
+- Requisitos não funcionais
