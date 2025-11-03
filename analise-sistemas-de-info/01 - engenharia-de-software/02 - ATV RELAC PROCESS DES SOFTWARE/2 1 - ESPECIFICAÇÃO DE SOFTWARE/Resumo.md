@@ -61,11 +61,7 @@ A especificação de Software é uma fase crítica que define o sucesso ou insuc
 
 - Requisitos não funcionais
 
-# Análise de Sistemas de Informação
-## Engenharia de Software
-### Atividades Relacionadas ao Processo de Desenvolvimento de Software
-#### Especificação de Software
-##### Benefícios da Boa Definição
+## Benefícios da Boa Definição
 
 - Pleno entendimento das necessidades do cliente/usuário
 
@@ -74,3 +70,11 @@ A especificação de Software é uma fase crítica que define o sucesso ou insuc
 - Redução de esforço de desenvolvimento, custos e tempo de entrega
 
 - Validação final eficaz do sistema
+
+# Análise de Sistemas de Informação
+## Engenharia de Software
+### Atividades Relacionadas ao Processo de Desenvolvimento de Software
+#### Especificação de Software
+##### Continuidade do Processo
+
+A Especificação de Software não deve ser feita apenas no início do projeto. É importante que ele se mantenha presente durante todo o desenvolvimento do software
