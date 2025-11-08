@@ -36,13 +36,19 @@
     - Analisar questões locais de forma inovadora
     - Propor aperfeiçoamento de processos.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Introdução à Pesquisa Científica
-#### Rigor Científico
+## Rigor Científico
 
 - Produzir trabalhos com excelência acadêmica.
 
 - Fundamentar as pesquisas em fontes confiáveis e metodologias apropriadas.
 
 - Assegurar que as conclusões reflitam a realidade dos dados.
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Introdução à Pesquisa Científica
+#### Abrangência e Aplicação
+
+- A pesquisa não se restringe a laboratórios ou especialistas.
+
+- Ela permeia toda a trajetória acadêmica (trabalhos de disciplina, TCC, Iniciação Científica).
