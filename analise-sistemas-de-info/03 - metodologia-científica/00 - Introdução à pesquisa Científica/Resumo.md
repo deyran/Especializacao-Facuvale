@@ -27,10 +27,7 @@
     3. Coleta de dados
     4. Análise e conclusões.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Introdução à Pesquisa Científica
-#### Contribuição Acadêmica
+## Contribuição Acadêmica
 
 - O objetivo é agregar novos insights à área de estudo.
 
@@ -38,3 +35,14 @@
 
     - Analisar questões locais de forma inovadora
     - Propor aperfeiçoamento de processos.
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Introdução à Pesquisa Científica
+#### Rigor Científico
+
+- Produzir trabalhos com excelência acadêmica.
+
+- Fundamentar as pesquisas em fontes confiáveis e metodologias apropriadas.
+
+- Assegurar que as conclusões reflitam a realidade dos dados.
