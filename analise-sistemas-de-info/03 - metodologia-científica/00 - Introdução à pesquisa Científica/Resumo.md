@@ -16,10 +16,7 @@
 
 - Aplica-se em diferentes tipos de pesquisa (campo, laboratório, teórica).
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Introdução à Pesquisa Científica
-#### Sistematização do Conhecimento
+## Sistematização do Conhecimento
 
 - Estruturar o trabalho em etapas claras e coerentes.
 
@@ -29,3 +26,15 @@
     2. Revisão bibliográfica
     3. Coleta de dados
     4. Análise e conclusões.
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Introdução à Pesquisa Científica
+#### Contribuição Acadêmica
+
+- O objetivo é agregar novos insights à área de estudo.
+
+- Exemplos: 
+
+    - Analisar questões locais de forma inovadora
+    - Propor aperfeiçoamento de processos.
