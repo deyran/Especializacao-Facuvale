@@ -1,9 +1,6 @@
 # Definição de pesquisa científica - Resumo
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Definição de pesquisa científica
-#### Definição e Distinção da Pesquisa Científica
+## Definição e Distinção da Pesquisa Científica
 
 - *Definição*: É um processo de investigação estruturado.
 
@@ -12,3 +9,34 @@
 - *Propósito*: Usa métodos comprovados para investigar problemas e achar soluções baseadas em evidências.
 
 - *Objetivo do Estudante*: Transformar a curiosidade em projetos bem fundamentados.
+
+## Aplicação em Diferentes Áreas e Metodologia
+
+- Princípios aplicados de formas específicas em diversas áreas acadêmicas.
+
+- Exemplos:
+
+    - Psicologia: Efeitos de redes sociais na ansiedade.
+
+    - Engenharia: Otimização de consumo energético.
+
+    - Biológicas: Análise da qualidade hídrica.
+
+- Toda investigação segue etapas metodológicas próprias, desde a formulação do problema até a interpretação dos esultados.
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Definição de pesquisa científica
+#### Habilidades Envolvidas e o TCC
+
+- Habilidades: 
+
+    - Formular perguntas relevantes
+    - Escolher metodologias apropriadas
+    - Analisar dados criticamente
+
+- Competências - TCC:
+
+    - Revisão de literatura (bibliográfica).
+    - Coleta e análise de dados.
+    - Síntese de conclusões significativas.
