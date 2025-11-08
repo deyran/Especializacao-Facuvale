@@ -44,11 +44,16 @@
 
 - Assegurar que as conclusões reflitam a realidade dos dados.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Introdução à Pesquisa Científica
-#### Abrangência e Aplicação
+## Abrangência e Aplicação
 
 - A pesquisa não se restringe a laboratórios ou especialistas.
 
 - Ela permeia toda a trajetória acadêmica (trabalhos de disciplina, TCC, Iniciação Científica).
+
+## Vantagem Profissional
+
+- As competências científicas transcendem o ambiente acadêmico e são diferenciais na carreira.
+
+- Permite a tomada de decisões baseadas em evidências (e não intuição).
+
+- Isso representa uma vantagem competitiva no mercado de trabalho em diversas áreas (saúde, engenharia, ciências sociais, etc.)
