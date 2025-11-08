@@ -24,10 +24,7 @@
 
 - Toda investigação segue etapas metodológicas próprias, desde a formulação do problema até a interpretação dos esultados.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Definição de pesquisa científica
-#### Habilidades Envolvidas e o TCC
+## Habilidades Envolvidas e o TCC
 
 - Habilidades: 
 
@@ -40,3 +37,19 @@
     - Revisão de literatura (bibliográfica).
     - Coleta e análise de dados.
     - Síntese de conclusões significativas.
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Definição de pesquisa científica
+#### Mentalidade Científica e Benefícios
+
+- Mentalidade Científica
+
+    - Questionamento sistemático de informações.
+    - Busca por evidências confiáveis.
+    - Reconhecimento das limitações do estudo.
+
+- Valor Pessoal e Profissional
+
+    - Atuação profissional 
+    - Tomada de decisões embasadas.
