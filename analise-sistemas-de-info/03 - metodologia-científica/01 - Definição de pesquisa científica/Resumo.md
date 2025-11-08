@@ -46,7 +46,7 @@
     - Busca por evidências confiáveis.
     - Reconhecimento das limitações do estudo.
 
-- Valor Pessoal e Profissional
+- Benefícios
 
     - Atuação profissional 
     - Tomada de decisões embasadas.
