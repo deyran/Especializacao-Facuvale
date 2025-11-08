@@ -38,10 +38,7 @@
     - Coleta e análise de dados.
     - Síntese de conclusões significativas.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Definição de pesquisa científica
-#### Mentalidade Científica e Benefícios
+## Mentalidade Científica e Benefícios
 
 - Mentalidade Científica
 
@@ -53,3 +50,13 @@
 
     - Atuação profissional 
     - Tomada de decisões embasadas.
+
+## Instrumentos de Formação e Geração de Conhecimento
+
+- Instrumentos Práticos
+
+    - Disciplinas de metodologia
+    - Projetos de iniciação científica
+    - TCC.
+
+- Diferencial: Prepara o estudante não só para consumir informações, mas para gerar contribuições relevantes e confiáveis em sua área.
