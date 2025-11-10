@@ -13,10 +13,7 @@
 
     - Prepara o estudante para construir conhecimento significativo em sua área de estudo.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Objetivos da pesquisa Científica na Graduação
-#### Estrutura de Objetivos de um Projeto
+## Estrutura de Objetivos de um Projeto
 
 > *Objetivo Geral*: 
 
@@ -37,3 +34,11 @@
         - Comparar resultados
 
 - *Função*: Garante o foco e a progressão metodológica do projeto
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Objetivos da pesquisa Científica na Graduação
+#### Produção de Conhecimento Original
+
+- O aluno passa de consumidor a produtor de conhecimento.
+- Possibilita fazer descobertas relevantes e contribuir com novos entendimentos na área.
