@@ -35,10 +35,20 @@
 
 - *Função*: Garante o foco e a progressão metodológica do projeto
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Objetivos da pesquisa Científica na Graduação
-#### Produção de Conhecimento Original
+## Produção de Conhecimento Original
 
 - O aluno passa de consumidor a produtor de conhecimento.
 - Possibilita fazer descobertas relevantes e contribuir com novos entendimentos na área.
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Objetivos da pesquisa Científica na Graduação
+#### Conexão entre Teoria e Prática
+
+- Permite aplicar conceitos teóricos em situações concretas
+
+    - Estudos de caso
+    - Experimentos laboritoriais
+    - Investigação de campo
+
+- Enriquece a formação do estudante com experiências tangíveis.
