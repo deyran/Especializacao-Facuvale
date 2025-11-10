@@ -40,10 +40,7 @@
 - O aluno passa de consumidor a produtor de conhecimento.
 - Possibilita fazer descobertas relevantes e contribuir com novos entendimentos na área.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Objetivos da pesquisa Científica na Graduação
-#### Conexão entre Teoria e Prática
+## Conexão entre Teoria e Prática
 
 - Permite aplicar conceitos teóricos em situações concretas
 
@@ -52,3 +49,22 @@
     - Investigação de campo
 
 - Enriquece a formação do estudante com experiências tangíveis.
+
+## Desenvolvimento de Competências Profissionais Diferenciais
+
+- *Habilidades Cruciais*: 
+    
+    - Desenvolve pensamento crítico
+    - Resolução de problemas complexos
+    - Metodologia sistemática 
+    - Comunicação acadêmica eficaz.
+
+- Este conjunto de competências é um diferencial valorizado no mercado de trabalho, em qualquer carreira
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Objetivos da pesquisa Científica na Graduação
+#### Impacto na Trajetória Profissional
+
+- Constrói uma base sólida para a futura trajetória profissional.
+- É um diferencial importante tanto para a carreira acadêmica quanto para o mercado corporativo
