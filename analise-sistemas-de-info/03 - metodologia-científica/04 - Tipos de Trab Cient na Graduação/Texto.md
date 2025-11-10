@@ -8,7 +8,7 @@ Ao longo da sua formação universitária, você encontrará diversos formatos d
 
 2. *Dissertação de Mestrado*
 
-    Pesquisa profundada sobre tema específico, com duração aproximada e de 2 anos, constituindo o próximo passo para quem visa carreira acadêmica. Familiariza-se com dissertações de sua área, amplia seu entendimento sobre metodologia de pesquisa avançada.
+    Pesquisa aprofundada sobre tema específico, com duração aproximada e de 2 anos, constituindo o próximo passo para quem visa carreira acadêmica. Familiarizar-se com dissertações de sua área, amplia seu entendimento sobre metodologia de pesquisa avançada.
 
 3. *Tese de Doutorado*
 
