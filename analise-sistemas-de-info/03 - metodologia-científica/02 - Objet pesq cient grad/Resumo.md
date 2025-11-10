@@ -61,10 +61,7 @@
 
 - Este conjunto de competências é um diferencial valorizado no mercado de trabalho, em qualquer carreira
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Objetivos da pesquisa Científica na Graduação
-#### Impacto na Trajetória Profissional
+## Impacto na Trajetória Profissional
 
 - Constrói uma base sólida para a futura trajetória profissional.
 - É um diferencial importante tanto para a carreira acadêmica quanto para o mercado corporativo
