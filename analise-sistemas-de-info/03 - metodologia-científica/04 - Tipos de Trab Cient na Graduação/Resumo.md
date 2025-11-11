@@ -10,7 +10,7 @@
 ## Dissertação de Mestrado
 
 - Pesquisa aprofundada sobre um tema específico.
-- O objetivo é demonstrar a capacidade do aluno de pesquisar e analisar um tema específico.
+- Objetivo: Demonstrar a capacidade pesquisar e analisar um tema específico.
 - Dura cerca de 2 anos.
 - É o passo seguinte para quem busca a carreira acadêmica.
 - Ler dissertações amplia o entendimento de metodologia de pesquisa avançada.
