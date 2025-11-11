@@ -2,7 +2,7 @@
 
 - Objetividade
 
-    Significa apoiar suas conclusões em dados concretos e referências acadêmicas confiáveis, evitando opiniões pessoais não fundamentadas. Em trabalhos como TCCs e artigos científicos, você deve basear seus argumentos em evidências comprováveis, incluindo dados estatísticos, resultados de experimentos ou literatura verificável.
+    Significa apoiar suas conclusões em dados concretos e referências acadêmicas confiáveis, evitando opiniões pessoais não fundamentadas. Em trabalhos como TCC's e artigos científicos, você deve basear seus argumentos em evidências comprováveis, incluindo dados estatísticos, resultados de experimentos ou literatura verificável.
 
 - Sistematização
 
