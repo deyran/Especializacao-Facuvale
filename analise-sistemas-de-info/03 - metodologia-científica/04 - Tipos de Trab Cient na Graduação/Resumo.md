@@ -26,7 +26,7 @@
 
 ## Projeto de Pesquisa
 
-- Documento que precede a investigação científica (TCC, iniciação científica, etc.).
+- Documento que precede a investigação científica:
 
     - TCC
     - Iniciação científica
