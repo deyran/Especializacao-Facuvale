@@ -3,8 +3,8 @@
 ## Artigo Científico
 
 - Formato conciso (10-15 páginas).
-- Geralmente, é o primeiro contato com a produção acadêmica formal.
-- Pode se originar de iniciação científica ou atividades de disciplina.
+- É o primeiro contato com a produção acadêmica formal.
+- Tem origem na iniciação científica ou atividades de disciplina.
 - Estrutura básica: Introdução, Método, Resultados e Discussão.
 
 ## Dissertação de Mestrado
