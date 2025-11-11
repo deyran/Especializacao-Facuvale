@@ -16,13 +16,22 @@
 - Ler dissertações amplia o entendimento de metodologia de pesquisa avançada.
 - Diferente da tese de doutorado, não precisa apresentar uma contribuição inédita.
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Tipos de Trabalhos Científicos na Graduação
-#### Tese de Doutorado
+## Tese de Doutorado
 
 - Representa o nível mais elevado da pesquisa acadêmica
 - É um trabalho acadêmico de pesquisa original, aprofundado e inédito.
 - Feita após o mestrado.
 - Exige contato com teses e revisões bibliográficas.
 - O oferece um panorama das principais teorias e descobertas no campo de estudo.
+
+## Projeto de Pesquisa
+
+- Documento que precede a investigação científica (TCC, iniciação científica, etc.).
+
+    - TCC
+    - Iniciação científica
+    - Etc.
+
+- Funciona como um roteiro para o trabalho.
+- Define claramente o objeto, justificativa, metodologia e cronograma de execução.
+- Descreve o que será investigado, porque é importante e como a pesquisa será conduzida.
