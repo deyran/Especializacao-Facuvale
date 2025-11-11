@@ -22,7 +22,7 @@
 - É um trabalho acadêmico de pesquisa original, aprofundado e inédito.
 - Feita após o mestrado.
 - Exige contato com teses e revisões bibliográficas.
-- O oferece um panorama das principais teorias e descobertas no campo de estudo.
+- Oferece um panorama das principais teorias e descobertas no campo de estudo.
 
 ## Projeto de Pesquisa
 
