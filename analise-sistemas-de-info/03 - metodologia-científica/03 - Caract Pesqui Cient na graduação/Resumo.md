@@ -22,10 +22,7 @@
 
 - Metodologia estruturada e um cronograma específico
 
-# Analise de Sistemas de Informação
-## Metodologia Científica
-### Características da Pesquisa Científica na Graduação
-#### Originalidade
+## Originalidade
 
 - Trazer uma nova perspectiva ou abordagem para o tema.
 
@@ -34,3 +31,17 @@
 
 - Não precisa ser uma descoberta revolucionária
 - Pode ser um estudo de caso local inexplorado
+
+# Analise de Sistemas de Informação
+## Metodologia Científica
+### Características da Pesquisa Científica na Graduação
+#### Comunicabilidade
+
+- Capacidade de apresentar o trabalho de forma clara e acessível.
+- Apresentação em diferentes formatos
+  
+  - Seminários
+  - Defesas
+  - Publicações
+
+- Uso adequado da linguagem científica para fácil compreensão
