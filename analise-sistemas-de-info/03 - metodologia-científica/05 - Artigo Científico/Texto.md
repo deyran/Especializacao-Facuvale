@@ -4,7 +4,7 @@ O artigo científico é uma ferramenta essencial na vida acadêmica universitár
 
 Compreender a estrutura de um artigo científico é fundamental não apenas para a escrita, mas também para a leitura eficiente de textos acadêmicos, funcionando como um mapa que ajuda a navegar pelo conhecimento de forma organizada e produtiva.
 
-- *Estrutura básica: O que você precisa saber*
+> *Estrutura básica: O que você precisa saber*
 
     * *Título*: Deve ser claro e direto, como "Análise do Desempenho Acadêmico em Estudantes do Primeiro Ano de Medicina" - evite títulos vagos ou muito poéticos
 
@@ -20,4 +20,4 @@ Compreender a estrutura de um artigo científico é fundamental não apenas para
 
     * *Conclusão*: Sintetize suas principais descobertas e contribuições - com modéstia e confiança.
 
-Seu primeiro artigo científico pode parecer desafiador, mas é uma habilidade que se desenvolve com prática. Comece analisando publicações da sua área, observe como autores experientes estruturam seus trabalhos e busque orientação dos seus professores quando necessário. Lembre-se: todo pesquisador experiente já esteve no lugar um dia, escrevendo seu primeiro artigo.
+Seu primeiro artigo científico pode parecer desafiador, mas é uma habilidade que se desenvolve com prática. Comece analisando publicações da sua área, observe como autores experientes estruturam seus trabalhos e busque orientação dos seus professores quando necessário. Lembre-se: todo pesquisador experiente já esteve no seu lugar um dia, escrevendo seu primeiro artigo.
