@@ -32,10 +32,7 @@
 - Não precisa ser uma descoberta revolucionária
 - Pode ser um estudo de caso local inexplorado
 
-# Analise de Sistemas de Informação
-## Metodologia Científica
-### Características da Pesquisa Científica na Graduação
-#### Comunicabilidade
+## Comunicabilidade
 
 - Capacidade de apresentar o trabalho de forma clara e acessível.
 - Apresentação em diferentes formatos
@@ -45,3 +42,14 @@
   - Publicações
 
 - Uso adequado da linguagem científica para fácil compreensão
+
+## Função da Pesquisa Científica
+
+- É uma ferramenta para o crescimento intelectual e profissional.
+- Desenvolve as seguintes competências:
+  
+  - Pensamento crítico
+  - Análise metodológica
+  - Solução de problemas.
+
+- Constrói uma base sólida para futuros desafios acadêmicos e profissionais.
