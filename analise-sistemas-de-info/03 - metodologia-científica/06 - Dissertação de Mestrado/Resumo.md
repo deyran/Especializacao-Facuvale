@@ -33,10 +33,7 @@
 - Todo o processo é acompanhado por um orientador especialista.
 - O período de desenvolvimento geralmente dura de 18 a 24 meses
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Dissertação de Mestrado: Um guia para estudantes de graduação
-#### Importância para a Carreira
+## Importância para a Carreira
 
 - Abre portas para a carreira acadêmica.
 - Desenvolve competências valorizadas no mercado
@@ -46,3 +43,12 @@
   - Comunicação científica avançada.
 
 - As disciplinas cursadas são de caráter mais avançado e especializado que as da graduação
+
+# Análise de Sistemas de Informação
+## Metodologia Científica
+### Dissertação de Mestrado: Um guia para estudantes de graduação
+#### Transição e Amadurecimento
+
+- *Transição*: De consumidor para produtor de conhecimento
+- *Desenvolve*: Ohar mais crítico e autônomo sobre a literatura científica
+- *Aprende*: Identificação lacunas de conhecimento e propor investigações
