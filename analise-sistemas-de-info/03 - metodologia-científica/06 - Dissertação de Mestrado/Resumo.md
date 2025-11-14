@@ -44,11 +44,15 @@
 
 - As disciplinas cursadas são de caráter mais avançado e especializado que as da graduação
 
-# Análise de Sistemas de Informação
-## Metodologia Científica
-### Dissertação de Mestrado: Um guia para estudantes de graduação
-#### Transição e Amadurecimento
+## Transição e Amadurecimento
 
 - *Transição*: De consumidor para produtor de conhecimento
 - *Desenvolve*: Ohar mais crítico e autônomo sobre a literatura científica
 - *Aprende*: Identificação lacunas de conhecimento e propor investigações
+
+## Defesa e Arguição
+
+- O trabalho é apresentado a uma banca examinadora.
+- A arguição é mais rigorosa e aprofundada que a do TCC.
+- Testa a maturidade científica, não apenas conhecimento
+- Abre portas para o doutorado e especialização profissional
