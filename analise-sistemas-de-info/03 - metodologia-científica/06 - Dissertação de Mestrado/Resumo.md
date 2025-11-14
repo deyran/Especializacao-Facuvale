@@ -42,7 +42,7 @@
   - Capacidade investigadora
   - Comunicação científica avançada.
 
-- As disciplinas cursadas são de caráter mais avançado e especializado que as da graduação
+- Disciplinas de caráter avançado e especializado
 
 ## Transição e Amadurecimento
 
