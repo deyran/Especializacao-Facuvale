@@ -30,8 +30,8 @@
   - Análise crítica
   - Redação final
 
-- Todo o processo é acompanhado por um orientador especialista.
-- O período de desenvolvimento geralmente dura de 18 a 24 meses
+- Orientação de especialista.
+- Dura 18 a 24 meses
 
 ## Importância para a Carreira
 
