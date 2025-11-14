@@ -11,10 +11,7 @@
 - Compreender a estrutura é fundamental para escrita e leitura.
 - Funciona como um mapa para navegar pelo conhecimento de forma organizada
 
-# Analise de Sistemas de Informação
-## Metodologia Científica
-### Artigo Científico: Guia Prático para Estudantes de Graduação
-#### Estrutura Básica do Artigo
+## Estrutura Básica do Artigo
 
 - *Título* 
   
@@ -50,4 +47,12 @@
 - *Conclusão* 
 
   - Sintetiza as principais descobertas e contribuições 
-  - Com modéstia e confiança).
+  - Com modéstia e confiança
+
+## Desenvolvimento da Habilidade de Escrita
+
+- O primeiro artigo pode parecer desafiador.
+- A habilidade se desenvolve com prática.
+- É preciso analisar publicações da área
+- Observar a estrutura de autores experientes.
+- Buscar orientação dos professores é importante
