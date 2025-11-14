@@ -4,7 +4,7 @@
 
 - É um trabalho científico que aprofunda um tema específico
 - Exige maior rigor metodológico que o TCC
-- Deve representar uma contribuição original, mesmo que modesta, ao conhecimento científico
+- Aporte original, ainda que modesto, à ciência
 
 ## Organização e Estrutura
 
